@@ -661,6 +661,7 @@
   ],
   "set": {
     "id": "swsh45",
+    "is_promo": false,
     "name": "Shining Fates",
     "release_date": "2021-02-19",
     "series": "Sword & Shield"

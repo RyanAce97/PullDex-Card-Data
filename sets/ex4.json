@@ -877,6 +877,7 @@
   ],
   "set": {
     "id": "ex4",
+    "is_promo": false,
     "name": "Team Magma vs Team Aqua",
     "release_date": "2004-03-01",
     "series": "EX"

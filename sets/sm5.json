@@ -1606,6 +1606,7 @@
   ],
   "set": {
     "id": "sm5",
+    "is_promo": false,
     "name": "Ultra Prism",
     "release_date": "2018-02-02",
     "series": "Sun & Moon"

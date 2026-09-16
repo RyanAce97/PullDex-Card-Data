@@ -1678,6 +1678,7 @@
   ],
   "set": {
     "id": "swsh9",
+    "is_promo": false,
     "name": "Brilliant Stars",
     "release_date": "2022-02-25",
     "series": "Sword & Shield"

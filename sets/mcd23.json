@@ -139,6 +139,7 @@
   ],
   "set": {
     "id": "mcd23",
+    "is_promo": true,
     "name": "McDonald's Collection 2023",
     "release_date": "2023-08-01",
     "series": "Other"

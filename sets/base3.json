@@ -562,6 +562,7 @@
   ],
   "set": {
     "id": "base3",
+    "is_promo": false,
     "name": "Fossil",
     "release_date": "1999-10-10",
     "series": "Base"

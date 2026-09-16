@@ -157,6 +157,7 @@
   ],
   "set": {
     "id": "pop7",
+    "is_promo": true,
     "name": "POP Series 7",
     "release_date": "2008-03-01",
     "series": "POP"

@@ -364,6 +364,7 @@
   ],
   "set": {
     "id": "np",
+    "is_promo": true,
     "name": "Nintendo Black Star Promos",
     "release_date": "2003-10-01",
     "series": "NP"

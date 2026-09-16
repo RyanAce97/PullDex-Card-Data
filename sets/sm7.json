@@ -1687,6 +1687,7 @@
   ],
   "set": {
     "id": "sm7",
+    "is_promo": false,
     "name": "Celestial Storm",
     "release_date": "2018-08-03",
     "series": "Sun & Moon"

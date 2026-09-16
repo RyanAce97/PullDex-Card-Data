@@ -1048,6 +1048,7 @@
   ],
   "set": {
     "id": "ex6",
+    "is_promo": false,
     "name": "FireRed & LeafGreen",
     "release_date": "2004-09-01",
     "series": "EX"

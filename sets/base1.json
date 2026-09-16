@@ -922,6 +922,7 @@
   ],
   "set": {
     "id": "base1",
+    "is_promo": false,
     "name": "Base",
     "release_date": "1999-01-09",
     "series": "Base"

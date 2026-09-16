@@ -2353,6 +2353,7 @@
   ],
   "set": {
     "id": "sm11",
+    "is_promo": false,
     "name": "Unified Minds",
     "release_date": "2019-08-02",
     "series": "Sun & Moon"

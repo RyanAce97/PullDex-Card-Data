@@ -1192,6 +1192,7 @@
   ],
   "set": {
     "id": "gym1",
+    "is_promo": false,
     "name": "Gym Heroes",
     "release_date": "2000-08-14",
     "series": "Gym"

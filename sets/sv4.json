@@ -2398,6 +2398,7 @@
   ],
   "set": {
     "id": "sv4",
+    "is_promo": false,
     "name": "Paradox Rift",
     "release_date": "2023-11-03",
     "series": "Scarlet & Violet"

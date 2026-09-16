@@ -1561,6 +1561,7 @@
   ],
   "set": {
     "id": "sm1",
+    "is_promo": false,
     "name": "Sun & Moon",
     "release_date": "2017-02-03",
     "series": "Sun & Moon"

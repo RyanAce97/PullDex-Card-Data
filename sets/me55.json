@@ -1453,6 +1453,7 @@
   ],
   "set": {
     "id": "me55",
+    "is_promo": false,
     "name": "30th Celebration",
     "release_date": "2026-09-16",
     "series": "Mega Evolution"

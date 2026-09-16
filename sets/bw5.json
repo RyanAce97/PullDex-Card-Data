@@ -1003,6 +1003,7 @@
   ],
   "set": {
     "id": "bw5",
+    "is_promo": false,
     "name": "Dark Explorers",
     "release_date": "2012-05-09",
     "series": "Black & White"

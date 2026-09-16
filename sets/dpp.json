@@ -508,6 +508,7 @@
   ],
   "set": {
     "id": "dpp",
+    "is_promo": true,
     "name": "DP Black Star Promos",
     "release_date": "2007-05-01",
     "series": "Diamond & Pearl"

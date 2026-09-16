@@ -139,6 +139,7 @@
   ],
   "set": {
     "id": "mcd24",
+    "is_promo": true,
     "name": "McDonald's Collection 2024",
     "release_date": "2024-12-04",
     "series": "Other"

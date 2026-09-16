@@ -1831,6 +1831,7 @@
   ],
   "set": {
     "id": "swsh4",
+    "is_promo": false,
     "name": "Vivid Voltage",
     "release_date": "2020-11-13",
     "series": "Sword & Shield"

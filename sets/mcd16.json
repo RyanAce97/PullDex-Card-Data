@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "mcd16",
+    "is_promo": true,
     "name": "McDonald's Collection 2016",
     "release_date": "2016-08-19",
     "series": "Other"

@@ -139,6 +139,7 @@
   ],
   "set": {
     "id": "mcd22",
+    "is_promo": true,
     "name": "McDonald's Collection 2022",
     "release_date": "2022-08-03",
     "series": "Other"

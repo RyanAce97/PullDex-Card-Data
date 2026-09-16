@@ -1651,6 +1651,7 @@
   ],
   "set": {
     "id": "swsh5",
+    "is_promo": false,
     "name": "Battle Styles",
     "release_date": "2021-03-19",
     "series": "Sword & Shield"

@@ -1948,6 +1948,7 @@
   ],
   "set": {
     "id": "xyp",
+    "is_promo": true,
     "name": "XY Black Star Promos",
     "release_date": "2013-10-12",
     "series": "XY"

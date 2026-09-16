@@ -1030,6 +1030,7 @@
   ],
   "set": {
     "id": "ex11",
+    "is_promo": false,
     "name": "Delta Species",
     "release_date": "2005-10-31",
     "series": "EX"

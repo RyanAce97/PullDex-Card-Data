@@ -1381,6 +1381,7 @@
   ],
   "set": {
     "id": "bw7",
+    "is_promo": false,
     "name": "Boundaries Crossed",
     "release_date": "2012-11-07",
     "series": "Black & White"

@@ -958,6 +958,7 @@
   ],
   "set": {
     "id": "dp4",
+    "is_promo": false,
     "name": "Great Encounters",
     "release_date": "2008-02-01",
     "series": "Diamond & Pearl"

@@ -157,6 +157,7 @@
   ],
   "set": {
     "id": "pop2",
+    "is_promo": true,
     "name": "POP Series 2",
     "release_date": "2005-08-01",
     "series": "POP"

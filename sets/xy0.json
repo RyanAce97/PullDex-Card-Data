@@ -355,6 +355,7 @@
   ],
   "set": {
     "id": "xy0",
+    "is_promo": false,
     "name": "Kalos Starter Set",
     "release_date": "2013-11-08",
     "series": "XY"

@@ -1552,6 +1552,7 @@
   ],
   "set": {
     "id": "zsv10pt5",
+    "is_promo": false,
     "name": "Black Bolt",
     "release_date": "2025-07-18",
     "series": "Scarlet & Violet"

@@ -1948,6 +1948,7 @@
   ],
   "set": {
     "id": "swsh10",
+    "is_promo": false,
     "name": "Astral Radiance",
     "release_date": "2022-05-27",
     "series": "Sword & Shield"

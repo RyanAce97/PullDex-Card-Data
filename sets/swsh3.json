@@ -1813,6 +1813,7 @@
   ],
   "set": {
     "id": "swsh3",
+    "is_promo": false,
     "name": "Darkness Ablaze",
     "release_date": "2020-08-14",
     "series": "Sword & Shield"

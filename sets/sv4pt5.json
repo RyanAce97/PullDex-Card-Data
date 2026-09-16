@@ -2209,6 +2209,7 @@
   ],
   "set": {
     "id": "sv4pt5",
+    "is_promo": false,
     "name": "Paldean Fates",
     "release_date": "2024-01-26",
     "series": "Scarlet & Violet"

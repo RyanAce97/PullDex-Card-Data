@@ -913,6 +913,7 @@
   ],
   "set": {
     "id": "bwp",
+    "is_promo": true,
     "name": "BW Black Star Promos",
     "release_date": "2011-03-01",
     "series": "Black & White"

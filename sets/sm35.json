@@ -733,6 +733,7 @@
   ],
   "set": {
     "id": "sm35",
+    "is_promo": false,
     "name": "Shining Legends",
     "release_date": "2017-10-06",
     "series": "Sun & Moon"

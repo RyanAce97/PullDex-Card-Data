@@ -1381,6 +1381,7 @@
   ],
   "set": {
     "id": "pl3",
+    "is_promo": false,
     "name": "Supreme Victors",
     "release_date": "2009-08-19",
     "series": "Platinum"

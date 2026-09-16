@@ -1885,6 +1885,7 @@
   ],
   "set": {
     "id": "swsh2",
+    "is_promo": false,
     "name": "Rebel Clash",
     "release_date": "2020-05-01",
     "series": "Sword & Shield"

@@ -913,6 +913,7 @@
   ],
   "set": {
     "id": "xy7",
+    "is_promo": false,
     "name": "Ancient Origins",
     "release_date": "2015-08-12",
     "series": "XY"

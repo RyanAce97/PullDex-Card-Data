@@ -157,6 +157,7 @@
   ],
   "set": {
     "id": "pop4",
+    "is_promo": true,
     "name": "POP Series 4",
     "release_date": "2006-08-01",
     "series": "POP"

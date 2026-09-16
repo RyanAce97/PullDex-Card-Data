@@ -976,6 +976,7 @@
   ],
   "set": {
     "id": "ex16",
+    "is_promo": false,
     "name": "Power Keepers",
     "release_date": "2007-02-02",
     "series": "EX"

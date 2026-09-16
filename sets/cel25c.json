@@ -229,6 +229,7 @@
   ],
   "set": {
     "id": "cel25c",
+    "is_promo": false,
     "name": "Celebrations: Classic Collection",
     "release_date": "2021-10-08",
     "series": "Sword & Shield"

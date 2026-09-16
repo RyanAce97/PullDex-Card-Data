@@ -1057,6 +1057,7 @@
   ],
   "set": {
     "id": "g1",
+    "is_promo": false,
     "name": "Generations",
     "release_date": "2016-02-22",
     "series": "XY"

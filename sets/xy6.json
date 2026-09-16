@@ -1012,6 +1012,7 @@
   ],
   "set": {
     "id": "xy6",
+    "is_promo": false,
     "name": "Roaring Skies",
     "release_date": "2015-05-06",
     "series": "XY"

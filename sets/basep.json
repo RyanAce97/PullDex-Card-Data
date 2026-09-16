@@ -481,6 +481,7 @@
   ],
   "set": {
     "id": "basep",
+    "is_promo": true,
     "name": "Wizards Black Star Promos",
     "release_date": "1999-07-01",
     "series": "Base"

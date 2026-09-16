@@ -1264,6 +1264,7 @@
   ],
   "set": {
     "id": "bw11",
+    "is_promo": false,
     "name": "Legendary Treasures",
     "release_date": "2013-11-06",
     "series": "Black & White"

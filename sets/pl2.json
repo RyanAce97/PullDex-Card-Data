@@ -1084,6 +1084,7 @@
   ],
   "set": {
     "id": "pl2",
+    "is_promo": false,
     "name": "Rising Rivals",
     "release_date": "2009-05-16",
     "series": "Platinum"

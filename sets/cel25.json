@@ -229,6 +229,7 @@
   ],
   "set": {
     "id": "cel25",
+    "is_promo": false,
     "name": "Celebrations",
     "release_date": "2021-10-08",
     "series": "Sword & Shield"

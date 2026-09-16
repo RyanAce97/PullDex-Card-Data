@@ -1120,6 +1120,7 @@
   ],
   "set": {
     "id": "xy4",
+    "is_promo": false,
     "name": "Phantom Forces",
     "release_date": "2014-11-05",
     "series": "XY"

@@ -1561,6 +1561,7 @@
   ],
   "set": {
     "id": "rsv10pt5",
+    "is_promo": false,
     "name": "White Flare",
     "release_date": "2025-07-18",
     "series": "Scarlet & Violet"

@@ -1021,6 +1021,7 @@
   ],
   "set": {
     "id": "xy12",
+    "is_promo": false,
     "name": "Evolutions",
     "release_date": "2016-11-02",
     "series": "XY"

@@ -724,6 +724,7 @@
   ],
   "set": {
     "id": "sm75",
+    "is_promo": false,
     "name": "Dragon Majesty",
     "release_date": "2018-09-07",
     "series": "Sun & Moon"

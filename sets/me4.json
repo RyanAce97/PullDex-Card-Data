@@ -1102,6 +1102,7 @@
   ],
   "set": {
     "id": "me4",
+    "is_promo": false,
     "name": "Chaos Rising",
     "release_date": "2026-05-22",
     "series": "Mega Evolution"

@@ -2659,6 +2659,7 @@
   ],
   "set": {
     "id": "me2pt5",
+    "is_promo": false,
     "name": "Ascended Heroes",
     "release_date": "2026-01-30",
     "series": "Mega Evolution"

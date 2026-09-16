@@ -1957,6 +1957,7 @@
   ],
   "set": {
     "id": "swsh11",
+    "is_promo": false,
     "name": "Lost Origin",
     "release_date": "2022-09-09",
     "series": "Sword & Shield"

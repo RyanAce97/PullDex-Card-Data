@@ -274,6 +274,7 @@
   ],
   "set": {
     "id": "me55c",
+    "is_promo": false,
     "name": "30th Celebration: Classic Collection",
     "release_date": "2026-09-16",
     "series": "Mega Evolution"

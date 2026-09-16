@@ -1444,6 +1444,7 @@
   ],
   "set": {
     "id": "swsh12pt5",
+    "is_promo": false,
     "name": "Crown Zenith",
     "release_date": "2023-01-20",
     "series": "Sword & Shield"

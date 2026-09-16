@@ -598,6 +598,7 @@
   ],
   "set": {
     "id": "neo3",
+    "is_promo": false,
     "name": "Neo Revelation",
     "release_date": "2001-09-21",
     "series": "Neo"

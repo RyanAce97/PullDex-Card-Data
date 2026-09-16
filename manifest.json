@@ -1,6 +1,6 @@
 {
   "card_count": 20813,
-  "data_version": 2,
+  "data_version": 3,
   "schema_version": 1,
   "set_count": 179,
   "sets": [
@@ -8,1792 +8,1971 @@
       "card_count": 102,
       "file": "sets/base1.json",
       "id": "base1",
+      "is_promo": false,
       "name": "Base",
       "release_date": "1999-01-09",
       "series": "Base",
-      "sha256": "46ea195d78f29ea8138455008ac8eeee751792f9d7cd5b5e22ba766cdeffcceb",
-      "version": 1
+      "sha256": "3a10aedc6376308e7ce7b20ab79bd2afaa53e6478553b985f39496ce6ab1c409",
+      "version": 2
     },
     {
       "card_count": 64,
       "file": "sets/base2.json",
       "id": "base2",
+      "is_promo": false,
       "name": "Jungle",
       "release_date": "1999-06-16",
       "series": "Base",
-      "sha256": "cb6fbff4778593daa481218ffaba6f34b4d42cd06795d7c967cd70dcca5877eb",
-      "version": 1
+      "sha256": "083e411f08e0f9bd196bcc1ae25633b203123b722c3955d58de36cc6f150ab8c",
+      "version": 2
     },
     {
       "card_count": 53,
       "file": "sets/basep.json",
       "id": "basep",
+      "is_promo": true,
       "name": "Wizards Black Star Promos",
       "release_date": "1999-07-01",
       "series": "Base",
-      "sha256": "de9e0fa7323126e324033f49f1c61e2a4bb57ab0b5994a8a215e3f0af964f02a",
-      "version": 1
+      "sha256": "a6a0865b3f67e1754939788cef28fe1da8db78020b84f6b11dd0a19f1cb8707b",
+      "version": 2
     },
     {
       "card_count": 62,
       "file": "sets/base3.json",
       "id": "base3",
+      "is_promo": false,
       "name": "Fossil",
       "release_date": "1999-10-10",
       "series": "Base",
-      "sha256": "bcd35ad73e42bcf31c9a3efa94cff478b8985a2fa0f062ff1d270e141deed669",
-      "version": 1
+      "sha256": "cb00915f13d055d1a10f9f70a47c55830945f09adbb40ee6ee54f267ec9c76c2",
+      "version": 2
     },
     {
       "card_count": 130,
       "file": "sets/base4.json",
       "id": "base4",
+      "is_promo": false,
       "name": "Base Set 2",
       "release_date": "2000-02-24",
       "series": "Base",
-      "sha256": "9fc8b1b4662b1fa80fb15d2877ca89bfdbb647ca3550f9c18ec02e259a7c9413",
-      "version": 1
+      "sha256": "0c2b67b074141e5296418e5e2254f390dbd12d352fc06f5c15798b8d18d26903",
+      "version": 2
     },
     {
       "card_count": 83,
       "file": "sets/base5.json",
       "id": "base5",
+      "is_promo": false,
       "name": "Team Rocket",
       "release_date": "2000-04-24",
       "series": "Base",
-      "sha256": "cae1dd1b8d0cd23eb36af2b6d1982d590729f78f01cef8815949ab27fd13b852",
-      "version": 1
+      "sha256": "210470334ff99b2026ca9178b7b78f9890cb3cb7c256417a61be5528578a6553",
+      "version": 2
     },
     {
       "card_count": 132,
       "file": "sets/gym1.json",
       "id": "gym1",
+      "is_promo": false,
       "name": "Gym Heroes",
       "release_date": "2000-08-14",
       "series": "Gym",
-      "sha256": "874da907c272222c772ec835f0501e62c80e755d7354e19937d98b2b30015d7b",
-      "version": 1
+      "sha256": "efddfe3ab47871c8d36a68d98eb4e5186a4290ebccee66bfed0bc789a3fb4e72",
+      "version": 2
     },
     {
       "card_count": 132,
       "file": "sets/gym2.json",
       "id": "gym2",
+      "is_promo": false,
       "name": "Gym Challenge",
       "release_date": "2000-10-16",
       "series": "Gym",
-      "sha256": "81fc9e0255b72a93e12a8cb79dd2b2245cb7ae7f24dbc85d2a7661c41dc9eb39",
-      "version": 1
+      "sha256": "d36bb5cd2fc0326e0a1741180b9a49c85d25a9ba311877ec428c86a7ef0c6e22",
+      "version": 2
     },
     {
       "card_count": 111,
       "file": "sets/neo1.json",
       "id": "neo1",
+      "is_promo": false,
       "name": "Neo Genesis",
       "release_date": "2000-12-16",
       "series": "Neo",
-      "sha256": "95a9dee8ce46e6ac93922743fc4de01fa85bfe35d84564624426004fda568a66",
-      "version": 1
+      "sha256": "d2d2da550016abbeeea76438c6486c86d6662c72597d066880ade620ebc20552",
+      "version": 2
     },
     {
       "card_count": 75,
       "file": "sets/neo2.json",
       "id": "neo2",
+      "is_promo": false,
       "name": "Neo Discovery",
       "release_date": "2001-06-01",
       "series": "Neo",
-      "sha256": "8f46b94caef45d8f736e07eed0b9bdb278082e782f749526a9e4069199d3e8ed",
-      "version": 1
+      "sha256": "7ea6b25600f80c8d5857e05f3ca1ac58799b4e50793657468edb6f5f19763de3",
+      "version": 2
     },
     {
       "card_count": 18,
       "file": "sets/si1.json",
       "id": "si1",
+      "is_promo": true,
       "name": "Southern Islands",
       "release_date": "2001-07-31",
       "series": "Other",
-      "sha256": "5bcfbedb892b44b68cdaa6b4292929792fdf76d438c8e6773a4864f0ffadf4f8",
-      "version": 1
+      "sha256": "699c2d7a6e6b060e63898d6f7c4b0f141ece3b0fb993329b47b9456d8065cf0f",
+      "version": 2
     },
     {
       "card_count": 66,
       "file": "sets/neo3.json",
       "id": "neo3",
+      "is_promo": false,
       "name": "Neo Revelation",
       "release_date": "2001-09-21",
       "series": "Neo",
-      "sha256": "0cd42d54584de86da3fff9332d3e81af812aae391685855e0db7209d4ac456ec",
-      "version": 1
+      "sha256": "b2ea7523c7c313d840c4670cc65523f6dad80a5406617c55631c3e9ab333c5ee",
+      "version": 2
     },
     {
       "card_count": 113,
       "file": "sets/neo4.json",
       "id": "neo4",
+      "is_promo": false,
       "name": "Neo Destiny",
       "release_date": "2002-02-28",
       "series": "Neo",
-      "sha256": "7fa0408c90ea6a4215929ecff1e8223c0668eea2216f39519b75864559ff43fb",
-      "version": 1
+      "sha256": "168c950703cee75b3722877671a65ac5df2e8d6204f4b269735a4ac987367332",
+      "version": 2
     },
     {
       "card_count": 110,
       "file": "sets/base6.json",
       "id": "base6",
+      "is_promo": false,
       "name": "Legendary Collection",
       "release_date": "2002-05-24",
       "series": "Other",
-      "sha256": "fd508bf546730fec25337f2672ce407391109bf850902855e03d9a2da099c77a",
-      "version": 1
+      "sha256": "9b49476e3d0bbe21ade825225172139bb3100dc2d590e61142aefcf58262d242",
+      "version": 2
     },
     {
       "card_count": 165,
       "file": "sets/ecard1.json",
       "id": "ecard1",
+      "is_promo": false,
       "name": "Expedition Base Set",
       "release_date": "2002-09-15",
       "series": "E-Card",
-      "sha256": "7265dd94864c30219982f2e1e61c170855e7bf96730356f7c107021578183a36",
-      "version": 1
+      "sha256": "b222d602ad1483dc13e0287a01bc1d2553669b59ff0dfd30ceb8ed91bdcad629",
+      "version": 2
     },
     {
       "card_count": 9,
       "file": "sets/bp.json",
       "id": "bp",
+      "is_promo": true,
       "name": "Best of Game",
       "release_date": "2002-12-01",
       "series": "Other",
-      "sha256": "f3cde1b12cd4b31c7a347860f51d99e720fc3f64f4cbcef8f9c5e59645c4f63d",
-      "version": 1
+      "sha256": "929ec8694b8a299e43792c1c7c67958de6ad8111e80825a9be84a435eebf70fd",
+      "version": 2
     },
     {
       "card_count": 182,
       "file": "sets/ecard2.json",
       "id": "ecard2",
+      "is_promo": false,
       "name": "Aquapolis",
       "release_date": "2003-01-15",
       "series": "E-Card",
-      "sha256": "42dd2b88c8ecd356c6a1b764245f4092f55440f56637b7570b5b2e631e5f7834",
-      "version": 1
+      "sha256": "ee9ebf8ae25f1beac2cf571314da2b76e1074c102033fd8dd903e7c6db5ac0f4",
+      "version": 2
     },
     {
       "card_count": 182,
       "file": "sets/ecard3.json",
       "id": "ecard3",
+      "is_promo": false,
       "name": "Skyridge",
       "release_date": "2003-05-12",
       "series": "E-Card",
-      "sha256": "7ed6539d04e49f4020dbe24b1e9e6becec4816d82991a55aa976c54428289f5d",
-      "version": 1
+      "sha256": "32c6f907820b3da658997437a498feb9c95a8ba2899644e5818fc8ed95c1015a",
+      "version": 2
     },
     {
       "card_count": 109,
       "file": "sets/ex1.json",
       "id": "ex1",
+      "is_promo": false,
       "name": "Ruby & Sapphire",
       "release_date": "2003-07-01",
       "series": "EX",
-      "sha256": "0862e62c06594388592c71ef1d2a873e3f24423843095ff1b56efb6c80884033",
-      "version": 1
+      "sha256": "b95b867a283c8f22768302a6ea726a9e349d7087d1dd9c8ef26a415edb6562f9",
+      "version": 2
     },
     {
       "card_count": 100,
       "file": "sets/ex2.json",
       "id": "ex2",
+      "is_promo": false,
       "name": "Sandstorm",
       "release_date": "2003-09-18",
       "series": "EX",
-      "sha256": "bfcee8bfdc4adf47795160d6cc06383e4a38069cf5cc2766746835a8bc6f136e",
-      "version": 1
+      "sha256": "814f3287dcdfc105be4542a2ada1ba054ae73fc88e2dfee292725b4c356ee7c1",
+      "version": 2
     },
     {
       "card_count": 40,
       "file": "sets/np.json",
       "id": "np",
+      "is_promo": true,
       "name": "Nintendo Black Star Promos",
       "release_date": "2003-10-01",
       "series": "NP",
-      "sha256": "b5b3e21d5ccdcde14ea17bb9346330b74b852e2aab27a245a01214fb21e2700f",
-      "version": 1
+      "sha256": "1db42c655f3de8a6cd1d4d807a9ce4bd2247fc5de45287628d8d31f6241b4535",
+      "version": 2
     },
     {
       "card_count": 100,
       "file": "sets/ex3.json",
       "id": "ex3",
+      "is_promo": false,
       "name": "Dragon",
       "release_date": "2003-11-24",
       "series": "EX",
-      "sha256": "556f3e5f685bf9ea9cf68447ec0410aeb41e5a9286bb5238eabdfaa2ba4c9fee",
-      "version": 1
+      "sha256": "ecaf363b5c2d10102b99a8f025a3df1c15cf52c17d2ec87b5841a3b1f19fabc9",
+      "version": 2
     },
     {
       "card_count": 97,
       "file": "sets/ex4.json",
       "id": "ex4",
+      "is_promo": false,
       "name": "Team Magma vs Team Aqua",
       "release_date": "2004-03-01",
       "series": "EX",
-      "sha256": "6905e8634be3dd7fae0f4ba21a033219c58fe295046f81dd7270396fbaec7953",
-      "version": 1
+      "sha256": "283a6e8ad47594057fd9628ffabea5e5ddc3997fba73914824cd251ac276fc80",
+      "version": 2
     },
     {
       "card_count": 102,
       "file": "sets/ex5.json",
       "id": "ex5",
+      "is_promo": false,
       "name": "Hidden Legends",
       "release_date": "2004-06-01",
       "series": "EX",
-      "sha256": "97973ebd4b83ff541a365f8083592c8e3762d45349ff5b52e4aaeef10eecf254",
-      "version": 1
+      "sha256": "8002b18aa65ce3381f3865e06353f440af228fce785d51eccfdb0d3d53f1d528",
+      "version": 2
     },
     {
       "card_count": 10,
       "file": "sets/tk1a.json",
       "id": "tk1a",
+      "is_promo": false,
       "name": "EX Trainer Kit Latias",
       "release_date": "2004-06-01",
       "series": "EX",
-      "sha256": "2dcca1108d307ad4fa674cbeb20b0d8477f14abc3a2c06ff4c362e0e0a68cb51",
-      "version": 1
+      "sha256": "2c3877148a50acc4a01e94edb546feccafe7c100a9af775fc37ded73fa1f0a89",
+      "version": 2
     },
     {
       "card_count": 10,
       "file": "sets/tk1b.json",
       "id": "tk1b",
+      "is_promo": false,
       "name": "EX Trainer Kit Latios",
       "release_date": "2004-06-01",
       "series": "EX",
-      "sha256": "88e57ee18290d2140012b9874736bcaf1d61b0c332d382064d9449cfdc4a9efd",
-      "version": 1
+      "sha256": "b49670e6c7e7936ef3aa9457f7e27ed4a6cc51d68e8b68842781d6fdb12d39e0",
+      "version": 2
     },
     {
       "card_count": 116,
       "file": "sets/ex6.json",
       "id": "ex6",
+      "is_promo": false,
       "name": "FireRed & LeafGreen",
       "release_date": "2004-09-01",
       "series": "EX",
-      "sha256": "d059bc4e2107519c1c6d957b5871d87fb1c0a3c812b0110fb9d327d6a2078530",
-      "version": 1
+      "sha256": "f55a592ad2d25c2ce7534a542cc53ab02975304eee7d7a71b1e07a6ae9874c20",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop1.json",
       "id": "pop1",
+      "is_promo": true,
       "name": "POP Series 1",
       "release_date": "2004-09-01",
       "series": "POP",
-      "sha256": "6db4bfea23e1baa9d9ba8214c1235e9ee482ddf4f01cfa4b09c7df725a901cc7",
-      "version": 1
+      "sha256": "7c91f2552642c80986953a15c1e3f29f32ce1cfa121b5d47758c15f18fc7166f",
+      "version": 2
     },
     {
       "card_count": 111,
       "file": "sets/ex7.json",
       "id": "ex7",
+      "is_promo": false,
       "name": "Team Rocket Returns",
       "release_date": "2004-11-01",
       "series": "EX",
-      "sha256": "477f9fc9baedd8ff09cfe80dbda4a746ef4e3643a41a58473df2905441799a74",
-      "version": 1
+      "sha256": "cc63060ae441d12f7b5179c07fcdbd757ab440646f357018feb7b8b1f888eb69",
+      "version": 2
     },
     {
       "card_count": 108,
       "file": "sets/ex8.json",
       "id": "ex8",
+      "is_promo": false,
       "name": "Deoxys",
       "release_date": "2005-02-01",
       "series": "EX",
-      "sha256": "994736a8dabfd3e1c633bf854d091712bd1ffbdcfa220e9939c9639c41ee2cd9",
-      "version": 1
+      "sha256": "858c58a8b3f71a9e4da4a54cf589937dd2483e248a0c22bae035968512f668b1",
+      "version": 2
     },
     {
       "card_count": 107,
       "file": "sets/ex9.json",
       "id": "ex9",
+      "is_promo": false,
       "name": "Emerald",
       "release_date": "2005-05-01",
       "series": "EX",
-      "sha256": "9e5ef7f6824ccdd706eabd7d19309f5524125b9bb612c478b97cc62cd0454ef6",
-      "version": 1
+      "sha256": "698d058d3e3b4d97d42a19c5281710b82496059be7119e1322097afbb0c57944",
+      "version": 2
     },
     {
       "card_count": 145,
       "file": "sets/ex10.json",
       "id": "ex10",
+      "is_promo": false,
       "name": "Unseen Forces",
       "release_date": "2005-08-01",
       "series": "EX",
-      "sha256": "9052df27fe62925cbdadef2b2d5085f71815da8175109ba7022568132cdbb806",
-      "version": 1
+      "sha256": "d52c0680ccbb7accf2e6b275769f3ab1f60b8b668a0dbead184641c71e89b3a8",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop2.json",
       "id": "pop2",
+      "is_promo": true,
       "name": "POP Series 2",
       "release_date": "2005-08-01",
       "series": "POP",
-      "sha256": "2ff955cf0ccac9d5153de1716311f90d03f4eabcc5ac7f2f76f0928203cda58e",
-      "version": 1
+      "sha256": "1a862d6acbb070c976e673289a5027eb9053ae1f9a848d5189ae0bda8bef7bc2",
+      "version": 2
     },
     {
       "card_count": 114,
       "file": "sets/ex11.json",
       "id": "ex11",
+      "is_promo": false,
       "name": "Delta Species",
       "release_date": "2005-10-31",
       "series": "EX",
-      "sha256": "e3455566f1088fb4fbc9a702b70cb0b50434a987a8e7a83706ea110d80f62116",
-      "version": 1
+      "sha256": "88607b649da5d62accf6c41be8e9e4a7f403e5f8beb3052e41dabdbbdbc53c0d",
+      "version": 2
     },
     {
       "card_count": 93,
       "file": "sets/ex12.json",
       "id": "ex12",
+      "is_promo": false,
       "name": "Legend Maker",
       "release_date": "2006-02-01",
       "series": "EX",
-      "sha256": "515bfee9ee38fed13752deb47bab8e2f2e8755724089e8d83f72969e764f5012",
-      "version": 1
+      "sha256": "baf681709afb5c3f78a0282164c66fbb15087e2f8949b2e1db89b93550fa7ded",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/tk2a.json",
       "id": "tk2a",
+      "is_promo": false,
       "name": "EX Trainer Kit 2 Plusle",
       "release_date": "2006-03-01",
       "series": "EX",
-      "sha256": "bbcc5a46ea652c9fec442977b1fb0b2910ae5005b62d73cfe91b7933e71ff628",
-      "version": 1
+      "sha256": "8d6a4e22b89be32acb1a7ce5e356f5bc047dd4ba3d897efc4383826f325d91be",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/tk2b.json",
       "id": "tk2b",
+      "is_promo": false,
       "name": "EX Trainer Kit 2 Minun",
       "release_date": "2006-03-01",
       "series": "EX",
-      "sha256": "8343587f9ce0b647f822cbfe242d5760fe70d43254201f147374c8cb020bd006",
-      "version": 1
+      "sha256": "36472ebc122c4518eb11710643ce0ccea25fd74855cf183505f7a333119cc97c",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop3.json",
       "id": "pop3",
+      "is_promo": true,
       "name": "POP Series 3",
       "release_date": "2006-04-01",
       "series": "POP",
-      "sha256": "bf4db652d4ad16c352934961c884c153bf07fa3c3e9f7dc19c08a5847c592b69",
-      "version": 1
+      "sha256": "2332e7e37727130aa2d1a04f0c4ebed0d938f3a550cfda5428939889cb1b0fa0",
+      "version": 2
     },
     {
       "card_count": 111,
       "file": "sets/ex13.json",
       "id": "ex13",
+      "is_promo": false,
       "name": "Holon Phantoms",
       "release_date": "2006-05-01",
       "series": "EX",
-      "sha256": "80db8551256fb35515ddab985bcb569b2e0ea6ec2bd0b558def9a706d9fb5647",
-      "version": 1
+      "sha256": "ecdf617ec2664443e6bd1d269d1c1eb46b77bcfba9848b6754699b7c133de632",
+      "version": 2
     },
     {
       "card_count": 100,
       "file": "sets/ex14.json",
       "id": "ex14",
+      "is_promo": false,
       "name": "Crystal Guardians",
       "release_date": "2006-08-01",
       "series": "EX",
-      "sha256": "1a205a5c3dc1a4197a8787223307c5d4c3997eaec9e5dbf9afda4a610234e54e",
-      "version": 1
+      "sha256": "089290b54e53ef7e3298a6dd11cb495e81304b653b38377c34a55db5554daf09",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop4.json",
       "id": "pop4",
+      "is_promo": true,
       "name": "POP Series 4",
       "release_date": "2006-08-01",
       "series": "POP",
-      "sha256": "f537c94c44db8f15db2ed0d498e578960223f62c544bbb884586d519088ee214",
-      "version": 1
+      "sha256": "e6d2db89c2593e523c327392f7204ce5203b3263951e46d489ffd53181d5be9f",
+      "version": 2
     },
     {
       "card_count": 101,
       "file": "sets/ex15.json",
       "id": "ex15",
+      "is_promo": false,
       "name": "Dragon Frontiers",
       "release_date": "2006-11-01",
       "series": "EX",
-      "sha256": "700363ae162e6712bf8331081e99ad248972ce4b643a6bc95f742ddefdeba47e",
-      "version": 1
+      "sha256": "ecdd8582f3bae19d367a4b5aba29b489fe0714dfeccd36ee1b1858de3bd5e342",
+      "version": 2
     },
     {
       "card_count": 108,
       "file": "sets/ex16.json",
       "id": "ex16",
+      "is_promo": false,
       "name": "Power Keepers",
       "release_date": "2007-02-02",
       "series": "EX",
-      "sha256": "c1e48bdd2b1e18c41a2d044fea7cc55fc216742c5ae0c6aac4c70df1346188b2",
-      "version": 1
+      "sha256": "c0c043f919789500bbbd877a392c085e9f955b1db949c9b7c5b3b31721c67840",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop5.json",
       "id": "pop5",
+      "is_promo": true,
       "name": "POP Series 5",
       "release_date": "2007-03-01",
       "series": "POP",
-      "sha256": "51a2868b235c25c33fafe783fe27f34f3c9378a099b53c472abcc64b1befbb86",
-      "version": 1
+      "sha256": "a6dbabf026e2beb01377105f09fb3f3ae2dafaeb91395bfccec117ce41d9bb82",
+      "version": 2
     },
     {
       "card_count": 130,
       "file": "sets/dp1.json",
       "id": "dp1",
+      "is_promo": false,
       "name": "Diamond & Pearl",
       "release_date": "2007-05-01",
       "series": "Diamond & Pearl",
-      "sha256": "444317a00f5bda4d7799f01ebc46235a4e238c075f9706114009209d91d43fe3",
-      "version": 1
+      "sha256": "3e0e0010158eea2f170188cb52d85ff0767e62a8de842cb238af6fca55904ad6",
+      "version": 2
     },
     {
       "card_count": 56,
       "file": "sets/dpp.json",
       "id": "dpp",
+      "is_promo": true,
       "name": "DP Black Star Promos",
       "release_date": "2007-05-01",
       "series": "Diamond & Pearl",
-      "sha256": "0d7dbeb7ad6b7b13360a41dd147b551bf4bd7c90e9da4618879ba5b56ad43cff",
-      "version": 1
+      "sha256": "c9f3df327627856b24ff6baf3c76187a6193a1e70e11aeb5cb71f8e290f291d2",
+      "version": 2
     },
     {
       "card_count": 124,
       "file": "sets/dp2.json",
       "id": "dp2",
+      "is_promo": false,
       "name": "Mysterious Treasures",
       "release_date": "2007-08-01",
       "series": "Diamond & Pearl",
-      "sha256": "a42c72f4cd27205c41f7d19de118625a473dc90457b86a6f5af7c1148a2e0733",
-      "version": 1
+      "sha256": "8bda6e66b5e319d78422fe560905901e1698b6d4f1ca24a3a64e201fae4e2176",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop6.json",
       "id": "pop6",
+      "is_promo": true,
       "name": "POP Series 6",
       "release_date": "2007-09-01",
       "series": "POP",
-      "sha256": "8397160f32c1082aee382d145d1b49c221e603f5ccc39d95d17ecbf8e5f53564",
-      "version": 1
+      "sha256": "1e102bd95f1fbc7941e5843ec958390dafdfe79bb1375108f3a81cacd68dcdb3",
+      "version": 2
     },
     {
       "card_count": 132,
       "file": "sets/dp3.json",
       "id": "dp3",
+      "is_promo": false,
       "name": "Secret Wonders",
       "release_date": "2007-11-01",
       "series": "Diamond & Pearl",
-      "sha256": "d524b674d43df2e48cec03b22d1493740b6e09edbcdc4e5080e1732f88c8b6fc",
-      "version": 1
+      "sha256": "4d85358c3bc8d59ff06e51ab2d64791b9ce5aebebabd6713977ad2a3a70c4352",
+      "version": 2
     },
     {
       "card_count": 106,
       "file": "sets/dp4.json",
       "id": "dp4",
+      "is_promo": false,
       "name": "Great Encounters",
       "release_date": "2008-02-01",
       "series": "Diamond & Pearl",
-      "sha256": "01d31a6af63cedb0b001a1ea2d668ba02ee404c0f2f82b9466495f5eb9371e57",
-      "version": 1
+      "sha256": "dce35f2c31de593922d1eb57521f2795dafcfaa0ea82bb836bba314723d823b7",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop7.json",
       "id": "pop7",
+      "is_promo": true,
       "name": "POP Series 7",
       "release_date": "2008-03-01",
       "series": "POP",
-      "sha256": "f3f0008e5cd4343c14cebf2b76962b7102106fb662041cbad4875bb7a031eaa5",
-      "version": 1
+      "sha256": "233fd0ef0bafb46b218e5b511c0a8c7cf304b810642b3b6efe7e8552cc8b3c95",
+      "version": 2
     },
     {
       "card_count": 100,
       "file": "sets/dp5.json",
       "id": "dp5",
+      "is_promo": false,
       "name": "Majestic Dawn",
       "release_date": "2008-05-01",
       "series": "Diamond & Pearl",
-      "sha256": "9bcb646b99e286bbb9dc23cee4871588d91c190cf7d3a0a6ea7d22977d8cdf36",
-      "version": 1
+      "sha256": "a68da59857408c67c9a3b6eea35aefe5bfa70a9ec0ecbc677f4e7ae1eb7ff46e",
+      "version": 2
     },
     {
       "card_count": 146,
       "file": "sets/dp6.json",
       "id": "dp6",
+      "is_promo": false,
       "name": "Legends Awakened",
       "release_date": "2008-08-01",
       "series": "Diamond & Pearl",
-      "sha256": "56c307ec19fe3a9e294a5b0694c3de13ecccb595e8740e02f1a310f76023ee5b",
-      "version": 1
+      "sha256": "51dc3db2456f1e386aecfaf30372933865027adaf520b1b52a83ced70fb5abfd",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop8.json",
       "id": "pop8",
+      "is_promo": true,
       "name": "POP Series 8",
       "release_date": "2008-09-01",
       "series": "POP",
-      "sha256": "a00380da058e9ee9dd364c1c0b80580e9791a74f39357014f8fe0a90b2d72f2e",
-      "version": 1
+      "sha256": "894e83e86d2c18693de75364b8437705b40904f02ab6a1573a6a514badc68ad9",
+      "version": 2
     },
     {
       "card_count": 106,
       "file": "sets/dp7.json",
       "id": "dp7",
+      "is_promo": false,
       "name": "Stormfront",
       "release_date": "2008-11-01",
       "series": "Diamond & Pearl",
-      "sha256": "3949ae8d38e7235f2849ac996a1be8fbcdd69eae4f1358bc1c6a3a254847f7ad",
-      "version": 1
+      "sha256": "f33705802aea30507e27de2afb035c4055381fdcd6982e9a1b706ca90317d942",
+      "version": 2
     },
     {
       "card_count": 133,
       "file": "sets/pl1.json",
       "id": "pl1",
+      "is_promo": false,
       "name": "Platinum",
       "release_date": "2009-02-11",
       "series": "Platinum",
-      "sha256": "c8caccb95114150d4f18d0fbe3cba342e7c14bf01da14382be2262ad0c67c0ca",
-      "version": 1
+      "sha256": "525376f0b8494008083df283950166b07c47b02b472b65fd3a6a910fb8aadf5f",
+      "version": 2
     },
     {
       "card_count": 17,
       "file": "sets/pop9.json",
       "id": "pop9",
+      "is_promo": true,
       "name": "POP Series 9",
       "release_date": "2009-03-01",
       "series": "POP",
-      "sha256": "a145535730b6a76fd52d15f290b8dfc4362ee0f58b8ef5297ff21bd874d51ca2",
-      "version": 1
+      "sha256": "0637ff039daec7fb60ab2479ab2901bf04a8c2173985802a71a4fcc8654c4821",
+      "version": 2
     },
     {
       "card_count": 120,
       "file": "sets/pl2.json",
       "id": "pl2",
+      "is_promo": false,
       "name": "Rising Rivals",
       "release_date": "2009-05-16",
       "series": "Platinum",
-      "sha256": "deb9531f70fa6fc06acb2baeaa25494532aa5d364a4d95331b615873b30b6f1e",
-      "version": 1
+      "sha256": "ec286e50f3263a817052a2cf3d3df94948e56f7d38f8097a452b6200eb8e97c1",
+      "version": 2
     },
     {
       "card_count": 153,
       "file": "sets/pl3.json",
       "id": "pl3",
+      "is_promo": false,
       "name": "Supreme Victors",
       "release_date": "2009-08-19",
       "series": "Platinum",
-      "sha256": "b54cce4ea57ad97105ad5ab8b68d7b6897de4b1c2398d8aa6f8f4537fe049de4",
-      "version": 1
+      "sha256": "5f5c3359c2513f4d27a82e0dee1a400e438fa8e86f33d19678f5e06bb1842a44",
+      "version": 2
     },
     {
       "card_count": 111,
       "file": "sets/pl4.json",
       "id": "pl4",
+      "is_promo": false,
       "name": "Arceus",
       "release_date": "2009-11-04",
       "series": "Platinum",
-      "sha256": "e759cc24b8dbb2bb7fed5f965a04bbfb6e12ec847f7ab663187df42dadc4e6ff",
-      "version": 1
+      "sha256": "97b65ebebb1b4a5053bbe72e896281508126402854ed3051f3552097d52d0988",
+      "version": 2
     },
     {
       "card_count": 16,
       "file": "sets/ru1.json",
       "id": "ru1",
+      "is_promo": true,
       "name": "Pokémon Rumble",
       "release_date": "2009-12-02",
       "series": "Other",
-      "sha256": "d10b3989c729c3bad72d57ed0513cc30e6f04f9b043d2602466987a38ba44e9a",
-      "version": 1
+      "sha256": "42d184a2442397a189f69f35192164f039937b673ae9562660c04b2c6cfbe47e",
+      "version": 2
     },
     {
       "card_count": 124,
       "file": "sets/hgss1.json",
       "id": "hgss1",
+      "is_promo": false,
       "name": "HeartGold & SoulSilver",
       "release_date": "2010-02-10",
       "series": "HeartGold & SoulSilver",
-      "sha256": "f6fdae2520058e9ba8f1ae47771b83d275ea405f406d91c31d0fb1463a59a87d",
-      "version": 1
+      "sha256": "a3adf054d34511797ab5d66a03eb8be1ee1793a7ca8eb59e27c3c949bdd4780c",
+      "version": 2
     },
     {
       "card_count": 25,
       "file": "sets/hsp.json",
       "id": "hsp",
+      "is_promo": true,
       "name": "HGSS Black Star Promos",
       "release_date": "2010-02-10",
       "series": "HeartGold & SoulSilver",
-      "sha256": "447bb96d8eb68627cd54af158e9b53568f29453fb182e901c8b57ff25772f30e",
-      "version": 1
+      "sha256": "9d34509faf455e6ceb25c39f404f3475537c6ab81aa6cfc82ce4b194c9b27309",
+      "version": 2
     },
     {
       "card_count": 96,
       "file": "sets/hgss2.json",
       "id": "hgss2",
+      "is_promo": false,
       "name": "HS—Unleashed",
       "release_date": "2010-05-12",
       "series": "HeartGold & SoulSilver",
-      "sha256": "45f32375f16cfea4a470de3a9bed5393be4b202bfdb5906c2e6379029c3899ad",
-      "version": 1
+      "sha256": "ba9979c538875195e82213753ae288d0ab7e94ce41784ea8b6fec960b74e5f43",
+      "version": 2
     },
     {
       "card_count": 91,
       "file": "sets/hgss3.json",
       "id": "hgss3",
+      "is_promo": false,
       "name": "HS—Undaunted",
       "release_date": "2010-08-18",
       "series": "HeartGold & SoulSilver",
-      "sha256": "929e553bb85e2cfc026f84b0f439694b3d6093cc56038de68765b07bac7a54a0",
-      "version": 1
+      "sha256": "1a52f3bcf33229c26aa4d78b28d97e22950a50cda85662c3c489001ee7ea58fc",
+      "version": 2
     },
     {
       "card_count": 103,
       "file": "sets/hgss4.json",
       "id": "hgss4",
+      "is_promo": false,
       "name": "HS—Triumphant",
       "release_date": "2010-11-03",
       "series": "HeartGold & SoulSilver",
-      "sha256": "b3346a77b85be70fb868aae7c499c33840abb70c98b4ebf792cc230c145a069e",
-      "version": 1
+      "sha256": "867eddd5b7db676e9567c413e074c4046e6eb1fb8dd43805cb3c026d29d9b5f7",
+      "version": 2
     },
     {
       "card_count": 106,
       "file": "sets/col1.json",
       "id": "col1",
+      "is_promo": false,
       "name": "Call of Legends",
       "release_date": "2011-02-09",
       "series": "HeartGold & SoulSilver",
-      "sha256": "9c3a905b9854d7fa49dabf645215939de8d22f28300095bc0ae3f9d886d822c0",
-      "version": 1
+      "sha256": "8538652b79b46991920be7424ec56001b241c3f248f880b67295ea02dbca8734",
+      "version": 2
     },
     {
       "card_count": 101,
       "file": "sets/bwp.json",
       "id": "bwp",
+      "is_promo": true,
       "name": "BW Black Star Promos",
       "release_date": "2011-03-01",
       "series": "Black & White",
-      "sha256": "be18f85af8e5ec6ed0da25a67f47dae8e94360df99cd24037fb1f2ed81028633",
-      "version": 1
+      "sha256": "09e234e41a386370ec8a6f9f756166caaae8c36b7875bc7471162a3373216d8e",
+      "version": 2
     },
     {
       "card_count": 115,
       "file": "sets/bw1.json",
       "id": "bw1",
+      "is_promo": false,
       "name": "Black & White",
       "release_date": "2011-04-25",
       "series": "Black & White",
-      "sha256": "4336ea49d15a75adfab2650d91e9fe616cbeb0b908d8649378fd40ae591ca771",
-      "version": 1
+      "sha256": "ab7450539d34b1171c3340eb5e5af105e541a20511432d923fa7cf89b277df20",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd11.json",
       "id": "mcd11",
+      "is_promo": true,
       "name": "McDonald's Collection 2011",
       "release_date": "2011-06-17",
       "series": "Other",
-      "sha256": "4dfaf44b17ef44d5b75f9be45f0542d8e9a7f2c5924126d1c16e52925d182110",
-      "version": 1
+      "sha256": "92f12656fcc8f5ce6298244701a9b27d6cb6cb322f1b4b3ad07596d52689766d",
+      "version": 2
     },
     {
       "card_count": 98,
       "file": "sets/bw2.json",
       "id": "bw2",
+      "is_promo": false,
       "name": "Emerging Powers",
       "release_date": "2011-08-31",
       "series": "Black & White",
-      "sha256": "98381103464de864c40e856f24452cc9d9c35e7d1210cdcfccaa6a20f6746cb3",
-      "version": 1
+      "sha256": "da29192052d2c126f7c0aa7d40fbf0f7154924f03b8de79bd79711be1f253ae6",
+      "version": 2
     },
     {
       "card_count": 102,
       "file": "sets/bw3.json",
       "id": "bw3",
+      "is_promo": false,
       "name": "Noble Victories",
       "release_date": "2011-11-16",
       "series": "Black & White",
-      "sha256": "37c61da73eeaddc58552824080779e4b86ae7eef870d1bc6622abcfe45375582",
-      "version": 1
+      "sha256": "538b5399e1cc6e770ebdab599eae68acd0afe76ce353acfaeb294bce2fcacaba",
+      "version": 2
     },
     {
       "card_count": 103,
       "file": "sets/bw4.json",
       "id": "bw4",
+      "is_promo": false,
       "name": "Next Destinies",
       "release_date": "2012-02-08",
       "series": "Black & White",
-      "sha256": "5b66ecdb5687f8975420c7246eff9db652dfa07d4ce4ad511ced14a5ba60c4fa",
-      "version": 1
+      "sha256": "cb7dd7637a29dbfa79f37987b3e145fee13fbf213bfd5c3bac1857b89231211e",
+      "version": 2
     },
     {
       "card_count": 111,
       "file": "sets/bw5.json",
       "id": "bw5",
+      "is_promo": false,
       "name": "Dark Explorers",
       "release_date": "2012-05-09",
       "series": "Black & White",
-      "sha256": "e5f3ec2e82dd7e71de1690d907d9598c38ba338246e4435445e5fdd37a71f59b",
-      "version": 1
+      "sha256": "50c0c874992394dc378227798b569b285aebd2dee8c3f339ead308bb42cd247e",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd12.json",
       "id": "mcd12",
+      "is_promo": true,
       "name": "McDonald's Collection 2012",
       "release_date": "2012-06-15",
       "series": "Other",
-      "sha256": "4982a1c0be6ac5b3e650673ff8156cd9254fbd8632c1b6a76ce8db25d960a7ce",
-      "version": 1
+      "sha256": "d1333d81685181652c23c2e1c4a0759d01489661e05e724ce10f2d41e2664227",
+      "version": 2
     },
     {
       "card_count": 128,
       "file": "sets/bw6.json",
       "id": "bw6",
+      "is_promo": false,
       "name": "Dragons Exalted",
       "release_date": "2012-08-15",
       "series": "Black & White",
-      "sha256": "40afa917f03c1508f232762d1878e3b33fe7ccc3463f7465ef96d44c75a718e7",
-      "version": 1
+      "sha256": "29bea22d429ffbe08f2cfdacbb7d99740f985dfa051c1e6a4f97f3745e64ce16",
+      "version": 2
     },
     {
       "card_count": 21,
       "file": "sets/dv1.json",
       "id": "dv1",
+      "is_promo": false,
       "name": "Dragon Vault",
       "release_date": "2012-10-05",
       "series": "Black & White",
-      "sha256": "5d85227508ca4b6b2a7e0ba358ac7068d4a26e54094aaed77e1ad5eec9f0b4d3",
-      "version": 1
+      "sha256": "e00c49bb176b764222e6608bc14cd00ef75664433dd3faa8a4f23f098aeacd9c",
+      "version": 2
     },
     {
       "card_count": 153,
       "file": "sets/bw7.json",
       "id": "bw7",
+      "is_promo": false,
       "name": "Boundaries Crossed",
       "release_date": "2012-11-07",
       "series": "Black & White",
-      "sha256": "ac1daf5b9c918848f6ed1d7c1926b14f1bb2924186ef749bcbfafc955a26ce23",
-      "version": 1
+      "sha256": "8dfdc7e2618b66b3f0ba58afad7aab9f31bc882af345f6231c58c63bc4d1f591",
+      "version": 2
     },
     {
       "card_count": 138,
       "file": "sets/bw8.json",
       "id": "bw8",
+      "is_promo": false,
       "name": "Plasma Storm",
       "release_date": "2013-02-06",
       "series": "Black & White",
-      "sha256": "6730bc6ead803944c4ee1570639a61dfd84efca42dbb7c0b9c580e49b98919cb",
-      "version": 1
+      "sha256": "53ba400f472210004c6456169a84b09dba16d41a9e086eddc882e6c2437d99b9",
+      "version": 2
     },
     {
       "card_count": 122,
       "file": "sets/bw9.json",
       "id": "bw9",
+      "is_promo": false,
       "name": "Plasma Freeze",
       "release_date": "2013-05-08",
       "series": "Black & White",
-      "sha256": "64423973029d01c3e1ee0d62111aa53e85c7e5d043cceee8c0976f9c1d1309a3",
-      "version": 1
+      "sha256": "134efdd1d06b9b8e497aa563aeb07d57d23ed25773bdbd695d50badcde9d319a",
+      "version": 2
     },
     {
       "card_count": 105,
       "file": "sets/bw10.json",
       "id": "bw10",
+      "is_promo": false,
       "name": "Plasma Blast",
       "release_date": "2013-08-14",
       "series": "Black & White",
-      "sha256": "7c69c7ef519c7b2d43a6a3e3e2bb33731d26e0dc524117d70798f6bcb867b302",
-      "version": 1
+      "sha256": "8bcc4d3161c2221fc5322e7a46b1cdae65f51fe63aa5b39cb36d287e1e79be7e",
+      "version": 2
     },
     {
       "card_count": 216,
       "file": "sets/xyp.json",
       "id": "xyp",
+      "is_promo": true,
       "name": "XY Black Star Promos",
       "release_date": "2013-10-12",
       "series": "XY",
-      "sha256": "be3b542034af47eb8f4c46644c1783eb05ce9dc9fae038a2d90b4f6636d51a18",
-      "version": 1
+      "sha256": "556cd5bd6f64240af4035b7de20a2897eb2911ce3b9c9b8c4242de4cdc1658f1",
+      "version": 2
     },
     {
       "card_count": 140,
       "file": "sets/bw11.json",
       "id": "bw11",
+      "is_promo": false,
       "name": "Legendary Treasures",
       "release_date": "2013-11-06",
       "series": "Black & White",
-      "sha256": "c3eb3954fb74aa33dceb738137f537d323b087df6e5c6748500e8d1ed734d34e",
-      "version": 1
+      "sha256": "11ceddc54745d8f97d2265d132773ec07b35449970a0bb4a39c0f1afa2401bfa",
+      "version": 2
     },
     {
       "card_count": 39,
       "file": "sets/xy0.json",
       "id": "xy0",
+      "is_promo": false,
       "name": "Kalos Starter Set",
       "release_date": "2013-11-08",
       "series": "XY",
-      "sha256": "8afa1697efd9879c7874461e63e41ecc52a26309a4cab7f2951c3ed179bddd32",
-      "version": 1
+      "sha256": "c96558cfcfaf3768b0a5bda4513e41450f788892ed8ac3b7653e75d652af794e",
+      "version": 2
     },
     {
       "card_count": 146,
       "file": "sets/xy1.json",
       "id": "xy1",
+      "is_promo": false,
       "name": "XY",
       "release_date": "2014-02-05",
       "series": "XY",
-      "sha256": "512caf165ab9fe0da03d096376738ee73f6abcc6df7646e1d0214c9151638f5b",
-      "version": 1
+      "sha256": "558434285ad6591dbf76b802543cfb05737017f5ee2eca11b2e1fbbf6656a309",
+      "version": 2
     },
     {
       "card_count": 110,
       "file": "sets/xy2.json",
       "id": "xy2",
+      "is_promo": false,
       "name": "Flashfire",
       "release_date": "2014-05-07",
       "series": "XY",
-      "sha256": "c1290629f6002d236be7f79564a6e956c179edb1bd6b339057958ddcb01a20e7",
-      "version": 1
+      "sha256": "46711a4459e579d1df3ba8fa7b0ef6c07ed6c8df25a2b6ca8e2014fdf5a2420b",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd14.json",
       "id": "mcd14",
+      "is_promo": true,
       "name": "McDonald's Collection 2014",
       "release_date": "2014-05-23",
       "series": "Other",
-      "sha256": "7e83a59a6c4c32af01a32f00248577871632a150a0eb287f58aaee9963fd54d9",
-      "version": 1
+      "sha256": "10a1495a0a4417ab977b5b5c8371a5dceb87aab36d2611195bf1524e8127c7f6",
+      "version": 2
     },
     {
       "card_count": 114,
       "file": "sets/xy3.json",
       "id": "xy3",
+      "is_promo": false,
       "name": "Furious Fists",
       "release_date": "2014-08-13",
       "series": "XY",
-      "sha256": "902c7196d920a8029b353be4285739dc9347ed4db401e8cea7d8a40878922670",
-      "version": 1
+      "sha256": "40ba3a9d57c6cf8f7f4c8b522a84d418e52bf217d8738855304ce64fb8b4ea80",
+      "version": 2
     },
     {
       "card_count": 124,
       "file": "sets/xy4.json",
       "id": "xy4",
+      "is_promo": false,
       "name": "Phantom Forces",
       "release_date": "2014-11-05",
       "series": "XY",
-      "sha256": "c8aa499e34386b1a7b1530d7857253a0a73f3bf3a9f1b6ef69e8c7cefbf02873",
-      "version": 1
+      "sha256": "ad26a3f20e3315972d3324ee28eaa716811469dea60b220adcc3cc694b0f2fea",
+      "version": 2
     },
     {
       "card_count": 164,
       "file": "sets/xy5.json",
       "id": "xy5",
+      "is_promo": false,
       "name": "Primal Clash",
       "release_date": "2015-02-04",
       "series": "XY",
-      "sha256": "6468ae33e22dcfae32e5dd9d86d9b142970bd343e3163d194c42c37f870c5bbb",
-      "version": 1
+      "sha256": "669d558978ff4f016ca8185de855b028fa6d8d8b8cdc8dc0911562310aa0dd95",
+      "version": 2
     },
     {
       "card_count": 34,
       "file": "sets/dc1.json",
       "id": "dc1",
+      "is_promo": false,
       "name": "Double Crisis",
       "release_date": "2015-03-25",
       "series": "XY",
-      "sha256": "7ff40313e1e2b21273bcfa8be0e849a99b8dcd3e86e0937bc37e1b1ca7984cbc",
-      "version": 1
+      "sha256": "1e49cc116e0a241eaa432797e24ef4d994e34f13a0c0e6ad53cf95be0b00871e",
+      "version": 2
     },
     {
       "card_count": 112,
       "file": "sets/xy6.json",
       "id": "xy6",
+      "is_promo": false,
       "name": "Roaring Skies",
       "release_date": "2015-05-06",
       "series": "XY",
-      "sha256": "fbd3d73fcb9a9b7ee10e7ce12e056477964c441d11dd173fd70da0ddf300d1af",
-      "version": 1
+      "sha256": "26fc16ef6a666c9c0761820267588064afe73ca3dad5a83c338571b2489389dd",
+      "version": 2
     },
     {
       "card_count": 101,
       "file": "sets/xy7.json",
       "id": "xy7",
+      "is_promo": false,
       "name": "Ancient Origins",
       "release_date": "2015-08-12",
       "series": "XY",
-      "sha256": "97b4d1c7a479041d3085cbe9ffcea0b208d414654d88e81ae92232d3c1102524",
-      "version": 1
+      "sha256": "5d7a708306ff0a7a6592fbfb8e638a98a2500ce39849f7c32d6cdcd6fedbcb95",
+      "version": 2
     },
     {
       "card_count": 165,
       "file": "sets/xy8.json",
       "id": "xy8",
+      "is_promo": false,
       "name": "BREAKthrough",
       "release_date": "2015-11-04",
       "series": "XY",
-      "sha256": "f0e4a8ae51742435ebb12fde46c47d550650760f234f4d30fc0649a1b20e22c5",
-      "version": 1
+      "sha256": "08bb0934cfb1183cbb231ec0f5ab71f90e7d06b0b147841c0dd87ba87aba2489",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd15.json",
       "id": "mcd15",
+      "is_promo": true,
       "name": "McDonald's Collection 2015",
       "release_date": "2015-11-27",
       "series": "Other",
-      "sha256": "7dc0c07c7a72d29650980b9c3e3366b3dad6ef803857c01a5f23cc09b431c09f",
-      "version": 1
+      "sha256": "c286c46194dc3d74dcfae8429d293567af8fa0a80b44d998bc5128c775c092c0",
+      "version": 2
     },
     {
       "card_count": 126,
       "file": "sets/xy9.json",
       "id": "xy9",
+      "is_promo": false,
       "name": "BREAKpoint",
       "release_date": "2016-02-03",
       "series": "XY",
-      "sha256": "862bbc17cee3be6bdc25f2d85e5a875a19e46b1a853c09326604576130fc2dc5",
-      "version": 1
+      "sha256": "2a4c48ca12466b87ad719a143efc840f048505f41c5cc0af90f07491b20fb859",
+      "version": 2
     },
     {
       "card_count": 117,
       "file": "sets/g1.json",
       "id": "g1",
+      "is_promo": false,
       "name": "Generations",
       "release_date": "2016-02-22",
       "series": "XY",
-      "sha256": "2fe7fadf657ad24a5d8f02171b25adf72b53fa8cc3977c28ad97d4850c281593",
-      "version": 1
+      "sha256": "04371723898580095fe84efd02a8b8ce704f0ec850ac71d1bb9038913f13373e",
+      "version": 2
     },
     {
       "card_count": 129,
       "file": "sets/xy10.json",
       "id": "xy10",
+      "is_promo": false,
       "name": "Fates Collide",
       "release_date": "2016-05-02",
       "series": "XY",
-      "sha256": "99b466a079db3789914105a9dc17075e1d8b84371450a9e9b1cfee4a7be41281",
-      "version": 1
+      "sha256": "8983611081cc51f48b2c9db5e4e0b426dd77fc3158abc14f6d0b708d53c1c43b",
+      "version": 2
     },
     {
       "card_count": 116,
       "file": "sets/xy11.json",
       "id": "xy11",
+      "is_promo": false,
       "name": "Steam Siege",
       "release_date": "2016-08-03",
       "series": "XY",
-      "sha256": "3e95fa10d939739283564c6ffec82a9b0bb1cfbc0885c8c9d085232fe88efd7a",
-      "version": 1
+      "sha256": "a51e50e6a8db8a1fa1beaa35caa444fb755638c07c18354d61c1fc027f0904ff",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd16.json",
       "id": "mcd16",
+      "is_promo": true,
       "name": "McDonald's Collection 2016",
       "release_date": "2016-08-19",
       "series": "Other",
-      "sha256": "14c9a66023967dd62ef81b06a0007749459e2abaf89f74cd57ce61fe4673b250",
-      "version": 1
+      "sha256": "0cd2b3b23b5f73ee08b0127998e976f2cee446253dcf9900a9a3cc9fde22b20b",
+      "version": 2
     },
     {
       "card_count": 113,
       "file": "sets/xy12.json",
       "id": "xy12",
+      "is_promo": false,
       "name": "Evolutions",
       "release_date": "2016-11-02",
       "series": "XY",
-      "sha256": "98f9daba3f35b46dca9145c77e93ba097244aac42ef304fcfe7f7d370cafaea1",
-      "version": 1
+      "sha256": "f91492e56e136e72e6c51ed5442f727c0b943ca211d991010bae0f380ec87b57",
+      "version": 2
     },
     {
       "card_count": 173,
       "file": "sets/sm1.json",
       "id": "sm1",
+      "is_promo": false,
       "name": "Sun & Moon",
       "release_date": "2017-02-03",
       "series": "Sun & Moon",
-      "sha256": "b83f100d54a448591a11b779aa1ce7d980b7ed7cddd562604b9a3354fd51720d",
-      "version": 1
+      "sha256": "475787e975404b27255eca9125e8f455d08296eead955c655f3f09f3ee9cded9",
+      "version": 2
     },
     {
       "card_count": 251,
       "file": "sets/smp.json",
       "id": "smp",
+      "is_promo": true,
       "name": "SM Black Star Promos",
       "release_date": "2017-02-03",
       "series": "Sun & Moon",
-      "sha256": "7e8e05ebc070302b860acd8cf11c8b810f4987c48eaf21016af6e616fb683b86",
-      "version": 1
+      "sha256": "8340815fd25bc696f3e6b0954829d457eefdccba283ba3b5af07befbc63ee2f1",
+      "version": 2
     },
     {
       "card_count": 180,
       "file": "sets/sm2.json",
       "id": "sm2",
+      "is_promo": false,
       "name": "Guardians Rising",
       "release_date": "2017-05-05",
       "series": "Sun & Moon",
-      "sha256": "00fab45b88bcedcba73ee0114a47c82343328f4d2de74f9d60e0077d96d994f3",
-      "version": 1
+      "sha256": "fa4b0b9154b1363eb6f70abd336bc518c2f653935108258f193ce933c0f0b2d8",
+      "version": 2
     },
     {
       "card_count": 177,
       "file": "sets/sm3.json",
       "id": "sm3",
+      "is_promo": false,
       "name": "Burning Shadows",
       "release_date": "2017-08-05",
       "series": "Sun & Moon",
-      "sha256": "fdae693414a86dc2e293c71c61c36d11181ad81e96fbdcfb5456cf47971ba368",
-      "version": 1
+      "sha256": "f1480a3d96fbb0973038b02e93923631ecbe88400ea08ce68e0a5c9ccc224e1f",
+      "version": 2
     },
     {
       "card_count": 81,
       "file": "sets/sm35.json",
       "id": "sm35",
+      "is_promo": false,
       "name": "Shining Legends",
       "release_date": "2017-10-06",
       "series": "Sun & Moon",
-      "sha256": "a27e5afb5e0e311fcd6632dc377b70ad1c2e9bb6f2863c09926b18c2632a512a",
-      "version": 1
+      "sha256": "05a53252a19a332c06d6bc0d112ed6dd1a84a7fa57bf0f39c800514bd9163803",
+      "version": 2
     },
     {
       "card_count": 126,
       "file": "sets/sm4.json",
       "id": "sm4",
+      "is_promo": false,
       "name": "Crimson Invasion",
       "release_date": "2017-11-03",
       "series": "Sun & Moon",
-      "sha256": "4af5672d1884283fc7b5254db005dbd077ae7e3f663527e31cea67622f710f70",
-      "version": 1
+      "sha256": "7e36a9afc507f3080091085e7296f68c39fd858907555d5e6b9ddf6897681383",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd17.json",
       "id": "mcd17",
+      "is_promo": true,
       "name": "McDonald's Collection 2017",
       "release_date": "2017-11-07",
       "series": "Other",
-      "sha256": "25c118a548cfd52701aec8e25905f2448a0b0a5b31309e8fc43e731506270c0c",
-      "version": 1
+      "sha256": "717c9734ff95266d1079044fb3beda7f2d8070dfa0302560ebadb06242b690d2",
+      "version": 2
     },
     {
       "card_count": 178,
       "file": "sets/sm5.json",
       "id": "sm5",
+      "is_promo": false,
       "name": "Ultra Prism",
       "release_date": "2018-02-02",
       "series": "Sun & Moon",
-      "sha256": "296bcf363e7caeddcfd6a121297ca714b49f2ccb023079bfde36387b2adadf6b",
-      "version": 1
+      "sha256": "8cd5b46dcfacf150069e450c95a8550883b036383ea503fd809c24edd7a6dddb",
+      "version": 2
     },
     {
       "card_count": 150,
       "file": "sets/sm6.json",
       "id": "sm6",
+      "is_promo": false,
       "name": "Forbidden Light",
       "release_date": "2018-05-04",
       "series": "Sun & Moon",
-      "sha256": "99d3754a233f5ff77b76711bfecbca02efa0aff05c7b5e3265990f49a8fba968",
-      "version": 1
+      "sha256": "506227eaadc23d74ce7b644f0cf0ec92874a358e868acbd06da19a3e930ded5d",
+      "version": 2
     },
     {
       "card_count": 187,
       "file": "sets/sm7.json",
       "id": "sm7",
+      "is_promo": false,
       "name": "Celestial Storm",
       "release_date": "2018-08-03",
       "series": "Sun & Moon",
-      "sha256": "c5362db912c78d585ad85cf020a7a1942562de9015b18869d17d95dac2a7c16a",
-      "version": 1
+      "sha256": "e6deff3e19647394dc7a29793d45333d7a0c29dedcc4dd6b056a22a68f3d66bd",
+      "version": 2
     },
     {
       "card_count": 80,
       "file": "sets/sm75.json",
       "id": "sm75",
+      "is_promo": false,
       "name": "Dragon Majesty",
       "release_date": "2018-09-07",
       "series": "Sun & Moon",
-      "sha256": "a7eff944ce82e681d9387e5516671f2e97036e1ff2bca3b30e5faceb0d2bb779",
-      "version": 1
+      "sha256": "e50f17b88d2bbfc43b5567f8252d78ce096adfad7d7e41fc44e0ca4c021c0ff2",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd18.json",
       "id": "mcd18",
+      "is_promo": true,
       "name": "McDonald's Collection 2018",
       "release_date": "2018-10-16",
       "series": "Other",
-      "sha256": "3cb9d7e57c737d474ab2b1254e63a919e1b34d1052c52b1fc79396a7f6a8d103",
-      "version": 1
+      "sha256": "0fe51d4962396c7b7c9d8af0784b7e8c279da69a17a1d3c122722b02f7f5030d",
+      "version": 2
     },
     {
       "card_count": 240,
       "file": "sets/sm8.json",
       "id": "sm8",
+      "is_promo": false,
       "name": "Lost Thunder",
       "release_date": "2018-11-02",
       "series": "Sun & Moon",
-      "sha256": "4d5c4b42b6d884cf06be6df1294463b3b30981ef0c7da86037043a25225186d9",
-      "version": 1
+      "sha256": "cbe738e76886af8ea615f102f436e79e2caf8bc1aaf1810c83f8c25e01e698f7",
+      "version": 2
     },
     {
       "card_count": 198,
       "file": "sets/sm9.json",
       "id": "sm9",
+      "is_promo": false,
       "name": "Team Up",
       "release_date": "2019-02-01",
       "series": "Sun & Moon",
-      "sha256": "4f0b83cb7e8404dda3b41ce2d7875350911669ac96fac626105ee1c6f0a6b45c",
-      "version": 1
+      "sha256": "22d0957bb444f2e77223f913a453de9ab3e8db36485496a4ace9b987ea3a5ee7",
+      "version": 2
     },
     {
       "card_count": 18,
       "file": "sets/det1.json",
       "id": "det1",
+      "is_promo": false,
       "name": "Detective Pikachu",
       "release_date": "2019-04-05",
       "series": "Sun & Moon",
-      "sha256": "9410bd22c7c8e0fa0ac9809b5b39d273c39e86f7f481bfedbd2291d14ccfdc2f",
-      "version": 1
+      "sha256": "e606940776b7e5f8c1a00d53460d888adadc993390287721c99796dad88b723b",
+      "version": 2
     },
     {
       "card_count": 238,
       "file": "sets/sm10.json",
       "id": "sm10",
+      "is_promo": false,
       "name": "Unbroken Bonds",
       "release_date": "2019-05-03",
       "series": "Sun & Moon",
-      "sha256": "9a7733143c6f65f6ed22799dad14b2249b1865369afa79fdd202e1742e8ec377",
-      "version": 1
+      "sha256": "8fb0dffe12b865e1610e6ff8247e031f3cd5aec1d42998ded19c86d48817e186",
+      "version": 2
     },
     {
       "card_count": 261,
       "file": "sets/sm11.json",
       "id": "sm11",
+      "is_promo": false,
       "name": "Unified Minds",
       "release_date": "2019-08-02",
       "series": "Sun & Moon",
-      "sha256": "c30967334caa46aa871fd19c8f069ee1cee5fd97aef4d50a0d5d301e51834100",
-      "version": 1
+      "sha256": "25d4110c7c135a5d4c35ef6617fe74d7a3b384b4b4bee359c868d5fe2c817202",
+      "version": 2
     },
     {
       "card_count": 69,
       "file": "sets/sm115.json",
       "id": "sm115",
+      "is_promo": false,
       "name": "Hidden Fates",
       "release_date": "2019-08-23",
       "series": "Sun & Moon",
-      "sha256": "3f723f850fde15ca0a6d131e24bbb31144546ba7c43a6a86faa717a0c81e3050",
-      "version": 1
+      "sha256": "39061d79d5775504a21b7d829d3aff1abbe35f7e4ecb463cad44c03cccdefb61",
+      "version": 2
     },
     {
       "card_count": 94,
       "file": "sets/sma.json",
       "id": "sma",
+      "is_promo": false,
       "name": "Hidden Fates Shiny Vault",
       "release_date": "2019-08-23",
       "series": "Sun & Moon",
-      "sha256": "b45f2c075acd89c2a38040beb4723bba779c793ac4f26f7f5932e1bba6bd3045",
-      "version": 1
+      "sha256": "b9703288ba57389e65c5b84293f63d7425364d5a66f6ef4e82b5e67c5efc2014",
+      "version": 2
     },
     {
       "card_count": 12,
       "file": "sets/mcd19.json",
       "id": "mcd19",
+      "is_promo": true,
       "name": "McDonald's Collection 2019",
       "release_date": "2019-10-15",
       "series": "Other",
-      "sha256": "df0f230be29efe9516f9496aa204a3a3bf7e99701ec728b11af8e685fc319918",
-      "version": 1
+      "sha256": "393ca86c533a32665b30aa137595963f25f6cb95f78ae9d55cdf233f175fff44",
+      "version": 2
     },
     {
       "card_count": 272,
       "file": "sets/sm12.json",
       "id": "sm12",
+      "is_promo": false,
       "name": "Cosmic Eclipse",
       "release_date": "2019-11-01",
       "series": "Sun & Moon",
-      "sha256": "da95f4660a19ea20d1918a3585218f66be0afa393d8ba8d7a958ebd1b831f8b4",
-      "version": 1
+      "sha256": "698fb17573c1737cab1e139cf32eea9630993888bbb360500cb3cf7d0ef8edcc",
+      "version": 2
     },
     {
       "card_count": 304,
       "file": "sets/swshp.json",
       "id": "swshp",
+      "is_promo": true,
       "name": "SWSH Black Star Promos",
       "release_date": "2019-11-15",
       "series": "Sword & Shield",
-      "sha256": "10891b848e18d3c74542e52e2468310813d83ab09ad7797c5fb51f8a5c997056",
-      "version": 1
+      "sha256": "c0566729c7411975f642705b22689d487289ec56f05d25c2fc098457a4ea63fe",
+      "version": 2
     },
     {
       "card_count": 216,
       "file": "sets/swsh1.json",
       "id": "swsh1",
+      "is_promo": false,
       "name": "Sword & Shield",
       "release_date": "2020-02-07",
       "series": "Sword & Shield",
-      "sha256": "9f9b6a37fc2f2f754d5effd2f0f75ad48bba187ff0e74acaaa758003c67154f3",
-      "version": 1
+      "sha256": "cd1c9329fbad75ceaee68f7447fb34b855f2fde462c969c80190a81e6a68f817",
+      "version": 2
     },
     {
       "card_count": 209,
       "file": "sets/swsh2.json",
       "id": "swsh2",
+      "is_promo": false,
       "name": "Rebel Clash",
       "release_date": "2020-05-01",
       "series": "Sword & Shield",
-      "sha256": "a711a328f7c527fe58cd7e418955b48b6a6b131f17c3944a1860cdbca66de5f2",
-      "version": 1
+      "sha256": "d21ccfca6c47d1281ce37efdc92a8e954f187632c3f4b9d7f92282363251d032",
+      "version": 2
     },
     {
       "card_count": 201,
       "file": "sets/swsh3.json",
       "id": "swsh3",
+      "is_promo": false,
       "name": "Darkness Ablaze",
       "release_date": "2020-08-14",
       "series": "Sword & Shield",
-      "sha256": "67f0faca0b45f58c512346679bd7260f04df89babec0b8d8376e93e816f21994",
-      "version": 1
+      "sha256": "6f8bebc6bfba89f0c610b2be98b42d438792adb49127d05061a3d22f56efb236",
+      "version": 2
     },
     {
       "card_count": 5,
       "file": "sets/fut20.json",
       "id": "fut20",
+      "is_promo": true,
       "name": "Pokémon Futsal Collection",
       "release_date": "2020-09-11",
       "series": "Other",
-      "sha256": "ed4051e5a4698e91ed39d2f2de71cb6e3125f6b2bfc539d974a68e4b2ad9a40d",
-      "version": 1
+      "sha256": "de211b6d77d661de9129ab7297f4f73f212398f8d956f72792083a406670fa96",
+      "version": 2
     },
     {
       "card_count": 80,
       "file": "sets/swsh35.json",
       "id": "swsh35",
+      "is_promo": false,
       "name": "Champion's Path",
       "release_date": "2020-09-25",
       "series": "Sword & Shield",
-      "sha256": "89272115e8402be272fb51328bbedbf254b40d912e9cb459d2c9529d678e3e9c",
-      "version": 1
+      "sha256": "e2e249cffb2becc5ba1d76797fd2b31ff427056649de4725ffb5d1cd3ca5465d",
+      "version": 2
     },
     {
       "card_count": 203,
       "file": "sets/swsh4.json",
       "id": "swsh4",
+      "is_promo": false,
       "name": "Vivid Voltage",
       "release_date": "2020-11-13",
       "series": "Sword & Shield",
-      "sha256": "9768053037a32bf0fe22ef14172404ae00da34d152dfc875045815fbb0513d31",
-      "version": 1
+      "sha256": "66818e761a43e2014119905e91bb63c61ffaf8c634a8ca5efa8e993660f4723b",
+      "version": 2
     },
     {
       "card_count": 25,
       "file": "sets/mcd21.json",
       "id": "mcd21",
+      "is_promo": true,
       "name": "McDonald's Collection 2021",
       "release_date": "2021-02-09",
       "series": "Other",
-      "sha256": "d4b74f8f0a0fe7a977760dc25177126db9bfc3a7144930094395435657a43d13",
-      "version": 1
+      "sha256": "5ff60498c218a35bd88d603cdfa255282852bd6d5d44a759c8023ac850158276",
+      "version": 2
     },
     {
       "card_count": 73,
       "file": "sets/swsh45.json",
       "id": "swsh45",
+      "is_promo": false,
       "name": "Shining Fates",
       "release_date": "2021-02-19",
       "series": "Sword & Shield",
-      "sha256": "03a931eb1e73b9f95405d1c43dfe26acb666ee0341cacebc38efd5fd1c8f6506",
-      "version": 1
+      "sha256": "5d62bc6d27759ba4a6f5c85e4d2efeab4a0cb7737c1fa6eba7960745d745f3dd",
+      "version": 2
     },
     {
       "card_count": 122,
       "file": "sets/swsh45sv.json",
       "id": "swsh45sv",
+      "is_promo": false,
       "name": "Shining Fates Shiny Vault",
       "release_date": "2021-02-19",
       "series": "Sword & Shield",
-      "sha256": "cfd2aa2aaf4854aa204a318e3d0af76cc49b478e599d0ec140738016f7324786",
-      "version": 1
+      "sha256": "dd010b2403e9edd55ae3976c929e3479675cfd84da3f6696f8da98931e378318",
+      "version": 2
     },
     {
       "card_count": 183,
       "file": "sets/swsh5.json",
       "id": "swsh5",
+      "is_promo": false,
       "name": "Battle Styles",
       "release_date": "2021-03-19",
       "series": "Sword & Shield",
-      "sha256": "55f030f43ce69b47a43fc2310514a6713f69c708475c43b9cc0c271f2d30d0a5",
-      "version": 1
+      "sha256": "f416a1a8471b8a0fb88022c3cb54eaf00a6ed3b8b1d76ca0eb4cb0ceb33bc31a",
+      "version": 2
     },
     {
       "card_count": 233,
       "file": "sets/swsh6.json",
       "id": "swsh6",
+      "is_promo": false,
       "name": "Chilling Reign",
       "release_date": "2021-06-18",
       "series": "Sword & Shield",
-      "sha256": "8171bb2573f5b75acddcef14c2c124431a7a3399fb7c189d12663b57da725b09",
-      "version": 1
+      "sha256": "4d94352276f7818f61b510d13bfdef883e114094e7090942fd5b20b08bcb127a",
+      "version": 2
     },
     {
       "card_count": 237,
       "file": "sets/swsh7.json",
       "id": "swsh7",
+      "is_promo": false,
       "name": "Evolving Skies",
       "release_date": "2021-08-27",
       "series": "Sword & Shield",
-      "sha256": "4e0267a3e31365f1fd17b635013ffdb4aa266e4193ce505655260cc1c3b6cf6f",
-      "version": 1
+      "sha256": "495b3f22b7c88618c4c85d151b5f623aff20ff5131a2c481cb6053d4ae1fbab6",
+      "version": 2
     },
     {
       "card_count": 25,
       "file": "sets/cel25.json",
       "id": "cel25",
+      "is_promo": false,
       "name": "Celebrations",
       "release_date": "2021-10-08",
       "series": "Sword & Shield",
-      "sha256": "7456ba0bd88c959ed014144f2a82d766c5842828b4f0fb4a517b6700a5bc35ce",
-      "version": 1
+      "sha256": "e8f0ada93162259de3714014997b621004fb0fdb90cbcce9f1a0df830650642f",
+      "version": 2
     },
     {
       "card_count": 25,
       "file": "sets/cel25c.json",
       "id": "cel25c",
+      "is_promo": false,
       "name": "Celebrations: Classic Collection",
       "release_date": "2021-10-08",
       "series": "Sword & Shield",
-      "sha256": "c4605df4eff597457f06e4cf1f9bc5f33b913d61d0780c19653b6376d1f2e8a7",
-      "version": 1
+      "sha256": "2ecde4f61772976bb84b9da06ca5c6b84a9e36fc3b707bb314e4f28c555ac6ef",
+      "version": 2
     },
     {
       "card_count": 284,
       "file": "sets/swsh8.json",
       "id": "swsh8",
+      "is_promo": false,
       "name": "Fusion Strike",
       "release_date": "2021-11-12",
       "series": "Sword & Shield",
-      "sha256": "fb4baa056d96831dd176b56834a4413398bdc28e5ed6aa8a6a0e847ad212dbec",
-      "version": 1
+      "sha256": "df47edc8b31b0448a569e19cff2c4422ddd9cde517d09aa4ec573b0ddcd0b200",
+      "version": 2
     },
     {
       "card_count": 186,
       "file": "sets/swsh9.json",
       "id": "swsh9",
+      "is_promo": false,
       "name": "Brilliant Stars",
       "release_date": "2022-02-25",
       "series": "Sword & Shield",
-      "sha256": "fef8fc1f5f0af0b1b6f53da94501319a01a80f751f552079951f9822be8624ae",
-      "version": 1
+      "sha256": "a166b01f2e63dc9b72f4baab7e79f199a8e57398dcd6ac256600a4653b23cceb",
+      "version": 2
     },
     {
       "card_count": 30,
       "file": "sets/swsh9tg.json",
       "id": "swsh9tg",
+      "is_promo": false,
       "name": "Brilliant Stars Trainer Gallery",
       "release_date": "2022-02-25",
       "series": "Sword & Shield",
-      "sha256": "d1ac218069650ae0995fd229400d674aea80f7e38e69a9698684fbecfc4b7cf2",
-      "version": 1
+      "sha256": "04ef4091545909cb1090e9f7f80b7b62e2e80d04b6407398778585a89c8f8931",
+      "version": 2
     },
     {
       "card_count": 216,
       "file": "sets/swsh10.json",
       "id": "swsh10",
+      "is_promo": false,
       "name": "Astral Radiance",
       "release_date": "2022-05-27",
       "series": "Sword & Shield",
-      "sha256": "d72a7540a39aad90f27112b69682ff7c2b52acaf64d30f00c8c70d17336e2a03",
-      "version": 1
+      "sha256": "fadaa0af5fc2289485802da1c9309b4bcb9ecfd3f04c63b60aff51fde2b7f314",
+      "version": 2
     },
     {
       "card_count": 30,
       "file": "sets/swsh10tg.json",
       "id": "swsh10tg",
+      "is_promo": false,
       "name": "Astral Radiance Trainer Gallery",
       "release_date": "2022-05-27",
       "series": "Sword & Shield",
-      "sha256": "b52e468138597a98ae7ad0d6931338163e798a830c98abee362a92b1eb231040",
-      "version": 1
+      "sha256": "df8346ec561a49d1f5c2e03fd3fe9eae3ce57f6ade3d008a6c0baa29da4e1d29",
+      "version": 2
     },
     {
       "card_count": 88,
       "file": "sets/pgo.json",
       "id": "pgo",
+      "is_promo": false,
       "name": "Pokémon GO",
       "release_date": "2022-07-01",
       "series": "Sword & Shield",
-      "sha256": "859cd07a8f889db6515688789ea187ed3acb34f466feb9e1b3c44827ad727262",
-      "version": 1
+      "sha256": "68bf3463253b06cb95ddd6f6c9de364cf13c04fc53e274a645665071ad1288d3",
+      "version": 2
     },
     {
       "card_count": 15,
       "file": "sets/mcd22.json",
       "id": "mcd22",
+      "is_promo": true,
       "name": "McDonald's Collection 2022",
       "release_date": "2022-08-03",
       "series": "Other",
-      "sha256": "49fc4c299ed30a82e9ba4939be5f97fecb066a5074d3ac41267d731dddca777f",
-      "version": 1
+      "sha256": "ee8fed6592c310472b39d2669e2ab674b8698c30565720f2160e477b7d4cd620",
+      "version": 2
     },
     {
       "card_count": 217,
       "file": "sets/swsh11.json",
       "id": "swsh11",
+      "is_promo": false,
       "name": "Lost Origin",
       "release_date": "2022-09-09",
       "series": "Sword & Shield",
-      "sha256": "aea32780205e67d26b8e3b7ee278046c8fef3416961b8c04dcfe04a76de3fa1b",
-      "version": 1
+      "sha256": "c4676b63f10206ae7aa01fe94c396ce16569bd5be29d9ef746d7dd0f671694ce",
+      "version": 2
     },
     {
       "card_count": 30,
       "file": "sets/swsh11tg.json",
       "id": "swsh11tg",
+      "is_promo": false,
       "name": "Lost Origin Trainer Gallery",
       "release_date": "2022-09-09",
       "series": "Sword & Shield",
-      "sha256": "b7ff80c6fe8bdfaa45780e548961c23f490866464617822c0326d6397d40891e",
-      "version": 1
+      "sha256": "4911438e1a7443a7f53ef706a348cbbe89fc20b8a8f7a5ab57cee95a1f99db99",
+      "version": 2
     },
     {
       "card_count": 215,
       "file": "sets/swsh12.json",
       "id": "swsh12",
+      "is_promo": false,
       "name": "Silver Tempest",
       "release_date": "2022-11-11",
       "series": "Sword & Shield",
-      "sha256": "3b59b2e4f3f07ea5d49ff28abeb887b9d6e7a28d55b499c66bdd09a4d0fdddc4",
-      "version": 1
+      "sha256": "98cbf900ed60b1f2a32dd614b33ab7bf381a742ab78141e21d62a0b2bd570255",
+      "version": 2
     },
     {
       "card_count": 30,
       "file": "sets/swsh12tg.json",
       "id": "swsh12tg",
+      "is_promo": false,
       "name": "Silver Tempest Trainer Gallery",
       "release_date": "2022-11-11",
       "series": "Sword & Shield",
-      "sha256": "b3705e27d96296e7174df886502af64f87a33eaa36c419ce0b98004e0aa7daaf",
-      "version": 1
+      "sha256": "818a53dc1070f861185c09d60ba0a7500f90cdb2f9e119eea4c2075aead98126",
+      "version": 2
     },
     {
       "card_count": 225,
       "file": "sets/svp.json",
       "id": "svp",
+      "is_promo": true,
       "name": "Scarlet & Violet Black Star Promos",
       "release_date": "2023-01-01",
       "series": "Scarlet & Violet",
-      "sha256": "30de96d842f9a92683a0a30ea36251482d07abd83c68801ea3617406d51fb2e6",
-      "version": 1
+      "sha256": "36d04a151d0314f4cb4dd39cefd0a575b57a902bb8a0bbb1a0c2568428db1ebe",
+      "version": 2
     },
     {
       "card_count": 160,
       "file": "sets/swsh12pt5.json",
       "id": "swsh12pt5",
+      "is_promo": false,
       "name": "Crown Zenith",
       "release_date": "2023-01-20",
       "series": "Sword & Shield",
-      "sha256": "f16b14999737e047f8d84340508d6892de3918c34df7da70cb6c5803c02d4f3b",
-      "version": 1
+      "sha256": "e1ad340ff6e2d815cf34d653af22959e192fbeeb437e13a7b8763399ae409a11",
+      "version": 2
     },
     {
       "card_count": 70,
       "file": "sets/swsh12pt5gg.json",
       "id": "swsh12pt5gg",
+      "is_promo": false,
       "name": "Crown Zenith Galarian Gallery",
       "release_date": "2023-01-20",
       "series": "Sword & Shield",
-      "sha256": "428a6b6dcd324898715a098cb57bc0c5c144e74726ab2c76227c506f0a0d7631",
-      "version": 1
+      "sha256": "60dc7a937ef90784d70a0d6078f3953b82b30a8dc310438c5eb046915bb0faf8",
+      "version": 2
     },
     {
       "card_count": 258,
       "file": "sets/sv1.json",
       "id": "sv1",
+      "is_promo": false,
       "name": "Scarlet & Violet",
       "release_date": "2023-03-31",
       "series": "Scarlet & Violet",
-      "sha256": "9439e3847cfeb91ae2f53734f76733feda658f182795758e627e5eae3a3adf83",
-      "version": 1
+      "sha256": "d039d9ed97bb2f2a032d4011c04276b27c3774984b9920ed7c87a828acd853d4",
+      "version": 2
     },
     {
       "card_count": 16,
       "file": "sets/sve.json",
       "id": "sve",
+      "is_promo": false,
       "name": "Scarlet & Violet Energies",
       "release_date": "2023-03-31",
       "series": "Scarlet & Violet",
-      "sha256": "1acd2a099d12ef1fca77b5e9a1dd4bd523a81d3b223897e5f28617ec111a0057",
-      "version": 1
+      "sha256": "0c42d75699c98effcd8b9d6ca3654c40249e900bb5bc265c6b34d939adc8ddfe",
+      "version": 2
     },
     {
       "card_count": 279,
       "file": "sets/sv2.json",
       "id": "sv2",
+      "is_promo": false,
       "name": "Paldea Evolved",
       "release_date": "2023-06-09",
       "series": "Scarlet & Violet",
-      "sha256": "e321cba6fe90c567477489fbb45814bb9aead6046df363552db3a7284f789de6",
-      "version": 1
+      "sha256": "0f714c587be84dbf0ceb538937f666c0600ac760b69db451b1d06d6e29eaad9f",
+      "version": 2
     },
     {
       "card_count": 15,
       "file": "sets/mcd23.json",
       "id": "mcd23",
+      "is_promo": true,
       "name": "McDonald's Collection 2023",
       "release_date": "2023-08-01",
       "series": "Other",
-      "sha256": "a7ee9de902e541d09b8924ef4af740226c612083ca4187ddf70a63cc6c3693b1",
-      "version": 1
+      "sha256": "e693c3e2b217ded65457d67c2a392a7d0f1da017757aabd15a78526143513aa5",
+      "version": 2
     },
     {
       "card_count": 230,
       "file": "sets/sv3.json",
       "id": "sv3",
+      "is_promo": false,
       "name": "Obsidian Flames",
       "release_date": "2023-08-11",
       "series": "Scarlet & Violet",
-      "sha256": "4c9e6e80bfecad91a4e4007215bf7d171b97944b5aa54338a0fb9ca39dbca3a6",
-      "version": 1
+      "sha256": "f81712bc549a55f6e9e73d496e26727bac2ae17cc804e43943dc7a6781537dd5",
+      "version": 2
     },
     {
       "card_count": 207,
       "file": "sets/sv3pt5.json",
       "id": "sv3pt5",
+      "is_promo": false,
       "name": "151",
       "release_date": "2023-09-22",
       "series": "Scarlet & Violet",
-      "sha256": "cec67c52a2b36216bd7fcb68d3484f8f2fb4cdc69ba307470b546771c9671263",
-      "version": 1
+      "sha256": "bef024cf19d7b9cb5e948d2e60971db4d2d44d313bb1645c051478949794affc",
+      "version": 2
     },
     {
       "card_count": 266,
       "file": "sets/sv4.json",
       "id": "sv4",
+      "is_promo": false,
       "name": "Paradox Rift",
       "release_date": "2023-11-03",
       "series": "Scarlet & Violet",
-      "sha256": "132937e5a9322489620f243965217a44e1514145f7ee26acf2bcac67b46fbaa2",
-      "version": 1
+      "sha256": "4a93524294607b17154b4202fb08daf02b2e36056a5d457ffb2ec033368d3e5e",
+      "version": 2
     },
     {
       "card_count": 245,
       "file": "sets/sv4pt5.json",
       "id": "sv4pt5",
+      "is_promo": false,
       "name": "Paldean Fates",
       "release_date": "2024-01-26",
       "series": "Scarlet & Violet",
-      "sha256": "87ab40ac3e17cdada7cd6413203daca5aa2e229867ea0dec4ef9f5987d5e2dee",
-      "version": 1
+      "sha256": "f10818be8b1be0ab7f3480a93926088958e950874064f28845e77e1f86086aa2",
+      "version": 2
     },
     {
       "card_count": 218,
       "file": "sets/sv5.json",
       "id": "sv5",
+      "is_promo": false,
       "name": "Temporal Forces",
       "release_date": "2024-03-22",
       "series": "Scarlet & Violet",
-      "sha256": "43ce3f642d6dfe40c7e273ba24510c2a8db53f761b01eaf167d999728e63877e",
-      "version": 1
+      "sha256": "416c007d41f0296ce2747e2b32f97bf159ece0d10b79274744b41af422622c5a",
+      "version": 2
     },
     {
       "card_count": 226,
       "file": "sets/sv6.json",
       "id": "sv6",
+      "is_promo": false,
       "name": "Twilight Masquerade",
       "release_date": "2024-05-24",
       "series": "Scarlet & Violet",
-      "sha256": "dcc844a849a5e04ed93d4099bb9b7bd54d79752e0f105e417dc85dbeb6b9c065",
-      "version": 1
+      "sha256": "6ad626eec7211b6a704a5da9565300dec978d26966c8f517b686d78ba48f6624",
+      "version": 2
     },
     {
       "card_count": 99,
       "file": "sets/sv6pt5.json",
       "id": "sv6pt5",
+      "is_promo": false,
       "name": "Shrouded Fable",
       "release_date": "2024-08-02",
       "series": "Scarlet & Violet",
-      "sha256": "c031e18afa9a4cf728018717c55e2658ce4a0ae94eaefcdd6c867059f702596a",
-      "version": 1
+      "sha256": "5e8fc316768ccd5e035e6ebc17a6608e55904500cff030a7e335b001a888c3fd",
+      "version": 2
     },
     {
       "card_count": 175,
       "file": "sets/sv7.json",
       "id": "sv7",
+      "is_promo": false,
       "name": "Stellar Crown",
       "release_date": "2024-09-13",
       "series": "Scarlet & Violet",
-      "sha256": "31f961e7a59b26fde17a245d9c2f2b305167fced323c56f773a29af307d63eb4",
-      "version": 1
+      "sha256": "bd15a1504639815c675fe8c848234b3468dcfe77dc75655878fe8f9549b52d11",
+      "version": 2
     },
     {
       "card_count": 252,
       "file": "sets/sv8.json",
       "id": "sv8",
+      "is_promo": false,
       "name": "Surging Sparks",
       "release_date": "2024-11-08",
       "series": "Scarlet & Violet",
-      "sha256": "d8abda3f07b1be261b639d870385a3aca74b4ee883c06e8cb7210e0a433be3d3",
-      "version": 1
+      "sha256": "01652898cc3531bf31ebe77fbc3e06f3d8663d3d20c05ce2c56b9458238c5240",
+      "version": 2
     },
     {
       "card_count": 15,
       "file": "sets/mcd24.json",
       "id": "mcd24",
+      "is_promo": true,
       "name": "McDonald's Collection 2024",
       "release_date": "2024-12-04",
       "series": "Other",
-      "sha256": "61b69a94566e7f01880949ec2aed44804eff68db9f6bba32017e19268779c903",
-      "version": 1
+      "sha256": "34154298d2ddbfba651dd11781d4282e9abc44d0c1f960b4aa2f3e9c8a15626f",
+      "version": 2
     },
     {
       "card_count": 180,
       "file": "sets/sv8pt5.json",
       "id": "sv8pt5",
+      "is_promo": false,
       "name": "Prismatic Evolutions",
       "release_date": "2025-01-17",
       "series": "Scarlet & Violet",
-      "sha256": "d313af5fb0c3b1ced934d96d8b3493a9c08f3e7003db70fd34dd4564a445aded",
-      "version": 1
+      "sha256": "8e35c9b7ccfd3d9ae32a8c4b471d625807bbfb6d8a600ba20fd43c2cc4977de8",
+      "version": 2
     },
     {
       "card_count": 190,
       "file": "sets/sv9.json",
       "id": "sv9",
+      "is_promo": false,
       "name": "Journey Together",
       "release_date": "2025-03-28",
       "series": "Scarlet & Violet",
-      "sha256": "fcfb939ecffde9bfd14f69911db1a77b1e9e499223679309d3d27ed1ef72999f",
-      "version": 1
+      "sha256": "04831c01daa85d2818e9cd83a4443d2461890077f00fb282005674a39293882d",
+      "version": 2
     },
     {
       "card_count": 244,
       "file": "sets/sv10.json",
       "id": "sv10",
+      "is_promo": false,
       "name": "Destined Rivals",
       "release_date": "2025-05-30",
       "series": "Scarlet & Violet",
-      "sha256": "83f636278f31556ab78364b3d4c416e30d7d610546bd2d6373e5b92c0399a223",
-      "version": 1
+      "sha256": "39beedee8319bc8d8419093cbf4bf12e9f1e7a73c34b86efdb111805ba3b01fd",
+      "version": 2
     },
     {
       "card_count": 173,
       "file": "sets/rsv10pt5.json",
       "id": "rsv10pt5",
+      "is_promo": false,
       "name": "White Flare",
       "release_date": "2025-07-18",
       "series": "Scarlet & Violet",
-      "sha256": "c11615da8802acb3f278017daa477e6180a4f1e50347a90cfce52069a91772f8",
-      "version": 1
+      "sha256": "2a8b4c1adbbcdffd348ae8b43a1e1943b8611a17b1e375aaf3b1ae017238e58d",
+      "version": 2
     },
     {
       "card_count": 172,
       "file": "sets/zsv10pt5.json",
       "id": "zsv10pt5",
+      "is_promo": false,
       "name": "Black Bolt",
       "release_date": "2025-07-18",
       "series": "Scarlet & Violet",
-      "sha256": "df25d43243e23f692fbd0e39b5a8c66f1fa7b0dcf84a483b9aa576393ef732a9",
-      "version": 1
+      "sha256": "ba749f569fd1874d1dcc241d0a7d3ab433b5ea1070fc0d151e8e0466694153f7",
+      "version": 2
     },
     {
       "card_count": 188,
       "file": "sets/me1.json",
       "id": "me1",
+      "is_promo": false,
       "name": "Mega Evolution",
       "release_date": "2025-09-26",
       "series": "Mega Evolution",
-      "sha256": "18d25a563e0703dcb113c30b132f237285f7d2b3b6d45db4bb8c7e4aa70212c6",
-      "version": 1
+      "sha256": "68977e4391d30ccfebc4cbd19f399a7ff984ebe7279e4e4ae7106cd79f3f85f3",
+      "version": 2
     },
     {
       "card_count": 130,
       "file": "sets/me2.json",
       "id": "me2",
+      "is_promo": false,
       "name": "Phantasmal Flames",
       "release_date": "2025-11-14",
       "series": "Mega Evolution",
-      "sha256": "27465a4ceed8edd325025d4bfc3b58f42cc93604a434b7ca841aba0f06479e2a",
-      "version": 1
+      "sha256": "bdee27c398ebb26f94f8043a7fe2368d2e8668ed9174641ceff03964b7e950a9",
+      "version": 2
     },
     {
       "card_count": 295,
       "file": "sets/me2pt5.json",
       "id": "me2pt5",
+      "is_promo": false,
       "name": "Ascended Heroes",
       "release_date": "2026-01-30",
       "series": "Mega Evolution",
-      "sha256": "ff69e855c43fc03a50beecdc9338f494bf867c67ad6e792c40a7b3de78a00cd5",
-      "version": 1
+      "sha256": "f84fe8b8deb7e38ea8dc3ae594925692c012b9dd3eb130928916a1a2d9b7bfca",
+      "version": 2
     },
     {
       "card_count": 124,
       "file": "sets/me3.json",
       "id": "me3",
+      "is_promo": false,
       "name": "Perfect Order",
       "release_date": "2026-03-27",
       "series": "Mega Evolution",
-      "sha256": "45ad1ed2535ab479decd021dbca9e6c79a23033799eeafa8fb387eb49fcfb5ea",
-      "version": 1
+      "sha256": "49eeaef5485a5edc131ed80f9f47153542d8bbe294c77f0cead500206d479c24",
+      "version": 2
     },
     {
       "card_count": 122,
       "file": "sets/me4.json",
       "id": "me4",
+      "is_promo": false,
       "name": "Chaos Rising",
       "release_date": "2026-05-22",
       "series": "Mega Evolution",
-      "sha256": "cfc1943562708c012aca1d209dcb7356e0b989d43e5c17ba2d3f8c0c12b62d64",
-      "version": 1
+      "sha256": "ce95156402f557930e191d7be891067b7b919f73cef4bbedac09cf8251c1895d",
+      "version": 2
     },
     {
       "card_count": 120,
       "file": "sets/me5.json",
       "id": "me5",
+      "is_promo": false,
       "name": "Pitch Black",
       "release_date": "2026-07-17",
       "series": "Mega Evolution",
-      "sha256": "13e394759e4638395e119e12aff461ab7d510687d11f6c90ba071e21d68fa828",
-      "version": 1
+      "sha256": "3e73fc8352fbe62f12f9ab62376950ee55121ec2095855175f5e85671930a3c1",
+      "version": 2
     },
     {
       "card_count": 161,
       "file": "sets/me55.json",
       "id": "me55",
+      "is_promo": false,
       "name": "30th Celebration",
       "release_date": "2026-09-16",
       "series": "Mega Evolution",
-      "sha256": "d983b19794b21abcd66317fda42e5984cac7e6058474f33b1f551101754bcf70",
-      "version": 1
+      "sha256": "7fd324c7fa8c917d44d31402b42e854e591d0ae3521a2718c377270d8274018a",
+      "version": 2
     },
     {
       "card_count": 30,
       "file": "sets/me55c.json",
       "id": "me55c",
+      "is_promo": false,
       "name": "30th Celebration: Classic Collection",
       "release_date": "2026-09-16",
       "series": "Mega Evolution",
-      "sha256": "99eb0fef3d8f6a2e79a2a43416e93f02b1ea8b7937f5d2f9fcbae34f16d1123b",
-      "version": 1
+      "sha256": "d22d97b3c24523694ad1e746b4750f8b64b3c12791cd0b5c7607a15be4bcbad0",
+      "version": 2
     },
     {
       "card_count": 88,
       "file": "sets/mep.json",
       "id": "mep",
+      "is_promo": true,
       "name": "MEP Black Star Promos",
       "release_date": null,
       "series": "Mega Evolution",
-      "sha256": "101fc7ea5783efd4de1be1036aebb8917cc5902d5e11956b3934983b5b37e83a",
-      "version": 1
+      "sha256": "cb6bf80bc66028f34a884dcb40a65fa89b5004806ae62d3b72a7e5be7549a91a",
+      "version": 2
     }
   ],
-  "updated_at": "2026-09-16T18:44:41Z"
+  "updated_at": "2026-09-16T20:11:20Z"
 }

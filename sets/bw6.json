@@ -1156,6 +1156,7 @@
   ],
   "set": {
     "id": "bw6",
+    "is_promo": false,
     "name": "Dragons Exalted",
     "release_date": "2012-08-15",
     "series": "Black & White"

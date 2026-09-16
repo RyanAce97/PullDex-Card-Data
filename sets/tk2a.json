@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "tk2a",
+    "is_promo": false,
     "name": "EX Trainer Kit 2 Plusle",
     "release_date": "2006-03-01",
     "series": "EX"

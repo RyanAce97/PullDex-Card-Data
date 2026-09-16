@@ -2101,6 +2101,7 @@
   ],
   "set": {
     "id": "swsh6",
+    "is_promo": false,
     "name": "Chilling Reign",
     "release_date": "2021-06-18",
     "series": "Sword & Shield"

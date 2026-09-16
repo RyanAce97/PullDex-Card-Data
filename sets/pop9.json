@@ -157,6 +157,7 @@
   ],
   "set": {
     "id": "pop9",
+    "is_promo": true,
     "name": "POP Series 9",
     "release_date": "2009-03-01",
     "series": "POP"

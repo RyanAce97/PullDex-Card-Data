@@ -1309,6 +1309,7 @@
   ],
   "set": {
     "id": "ex10",
+    "is_promo": false,
     "name": "Unseen Forces",
     "release_date": "2005-08-01",
     "series": "EX"

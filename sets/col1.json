@@ -958,6 +958,7 @@
   ],
   "set": {
     "id": "col1",
+    "is_promo": false,
     "name": "Call of Legends",
     "release_date": "2011-02-09",
     "series": "HeartGold & SoulSilver"

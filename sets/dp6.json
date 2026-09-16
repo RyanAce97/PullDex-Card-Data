@@ -1318,6 +1318,7 @@
   ],
   "set": {
     "id": "dp6",
+    "is_promo": false,
     "name": "Legends Awakened",
     "release_date": "2008-08-01",
     "series": "Diamond & Pearl"

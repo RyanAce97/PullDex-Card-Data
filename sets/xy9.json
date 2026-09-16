@@ -1138,6 +1138,7 @@
   ],
   "set": {
     "id": "xy9",
+    "is_promo": false,
     "name": "BREAKpoint",
     "release_date": "2016-02-03",
     "series": "XY"

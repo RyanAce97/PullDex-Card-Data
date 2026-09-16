@@ -1624,6 +1624,7 @@
   ],
   "set": {
     "id": "sm2",
+    "is_promo": false,
     "name": "Guardians Rising",
     "release_date": "2017-05-05",
     "series": "Sun & Moon"

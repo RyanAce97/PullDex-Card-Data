@@ -2515,6 +2515,7 @@
   ],
   "set": {
     "id": "sv2",
+    "is_promo": false,
     "name": "Paldea Evolved",
     "release_date": "2023-06-09",
     "series": "Scarlet & Violet"

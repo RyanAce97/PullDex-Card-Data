@@ -1714,6 +1714,7 @@
   ],
   "set": {
     "id": "sv9",
+    "is_promo": false,
     "name": "Journey Together",
     "release_date": "2025-03-28",
     "series": "Scarlet & Violet"

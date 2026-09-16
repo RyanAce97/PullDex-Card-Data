@@ -2164,6 +2164,7 @@
   ],
   "set": {
     "id": "sm8",
+    "is_promo": false,
     "name": "Lost Thunder",
     "release_date": "2018-11-02",
     "series": "Sun & Moon"

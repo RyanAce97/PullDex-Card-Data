@@ -1120,6 +1120,7 @@
   ],
   "set": {
     "id": "me3",
+    "is_promo": false,
     "name": "Perfect Order",
     "release_date": "2026-03-27",
     "series": "Mega Evolution"

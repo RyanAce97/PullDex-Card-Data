@@ -1102,6 +1102,7 @@
   ],
   "set": {
     "id": "swsh45sv",
+    "is_promo": false,
     "name": "Shining Fates Shiny Vault",
     "release_date": "2021-02-19",
     "series": "Sword & Shield"

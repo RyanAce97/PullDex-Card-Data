@@ -1489,6 +1489,7 @@
   ],
   "set": {
     "id": "xy8",
+    "is_promo": false,
     "name": "BREAKthrough",
     "release_date": "2015-11-04",
     "series": "XY"

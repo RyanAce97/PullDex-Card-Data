@@ -1084,6 +1084,7 @@
   ],
   "set": {
     "id": "me5",
+    "is_promo": false,
     "name": "Pitch Black",
     "release_date": "2026-07-17",
     "series": "Mega Evolution"

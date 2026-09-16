@@ -580,6 +580,7 @@
   ],
   "set": {
     "id": "base2",
+    "is_promo": false,
     "name": "Jungle",
     "release_date": "1999-06-16",
     "series": "Base"

@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "mcd11",
+    "is_promo": true,
     "name": "McDonald's Collection 2011",
     "release_date": "2011-06-17",
     "series": "Other"

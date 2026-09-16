@@ -1174,6 +1174,7 @@
   ],
   "set": {
     "id": "me2",
+    "is_promo": false,
     "name": "Phantasmal Flames",
     "release_date": "2025-11-14",
     "series": "Mega Evolution"

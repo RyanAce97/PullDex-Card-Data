@@ -1003,6 +1003,7 @@
   ],
   "set": {
     "id": "ex13",
+    "is_promo": false,
     "name": "Holon Phantoms",
     "release_date": "2006-05-01",
     "series": "EX"

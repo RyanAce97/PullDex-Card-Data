@@ -994,6 +994,7 @@
   ],
   "set": {
     "id": "xy2",
+    "is_promo": false,
     "name": "Flashfire",
     "release_date": "2014-05-07",
     "series": "XY"

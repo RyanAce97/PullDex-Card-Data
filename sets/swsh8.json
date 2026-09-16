@@ -2560,6 +2560,7 @@
   ],
   "set": {
     "id": "swsh8",
+    "is_promo": false,
     "name": "Fusion Strike",
     "release_date": "2021-11-12",
     "series": "Sword & Shield"

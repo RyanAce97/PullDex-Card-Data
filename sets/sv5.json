@@ -1966,6 +1966,7 @@
   ],
   "set": {
     "id": "sv5",
+    "is_promo": false,
     "name": "Temporal Forces",
     "release_date": "2024-03-22",
     "series": "Scarlet & Violet"

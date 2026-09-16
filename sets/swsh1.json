@@ -1948,6 +1948,7 @@
   ],
   "set": {
     "id": "swsh1",
+    "is_promo": false,
     "name": "Sword & Shield",
     "release_date": "2020-02-07",
     "series": "Sword & Shield"

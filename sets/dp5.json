@@ -904,6 +904,7 @@
   ],
   "set": {
     "id": "dp5",
+    "is_promo": false,
     "name": "Majestic Dawn",
     "release_date": "2008-05-01",
     "series": "Diamond & Pearl"

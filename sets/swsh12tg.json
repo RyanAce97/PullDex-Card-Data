@@ -274,6 +274,7 @@
   ],
   "set": {
     "id": "swsh12tg",
+    "is_promo": false,
     "name": "Silver Tempest Trainer Gallery",
     "release_date": "2022-11-11",
     "series": "Sword & Shield"

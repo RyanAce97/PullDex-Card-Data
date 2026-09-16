@@ -94,6 +94,7 @@
   ],
   "set": {
     "id": "tk1b",
+    "is_promo": false,
     "name": "EX Trainer Kit Latios",
     "release_date": "2004-06-01",
     "series": "EX"

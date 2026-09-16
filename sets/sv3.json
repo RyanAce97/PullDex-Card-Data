@@ -2074,6 +2074,7 @@
   ],
   "set": {
     "id": "sv3",
+    "is_promo": false,
     "name": "Obsidian Flames",
     "release_date": "2023-08-11",
     "series": "Scarlet & Violet"

@@ -1579,6 +1579,7 @@
   ],
   "set": {
     "id": "sv7",
+    "is_promo": false,
     "name": "Stellar Crown",
     "release_date": "2024-09-13",
     "series": "Scarlet & Violet"

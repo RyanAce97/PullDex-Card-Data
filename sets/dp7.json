@@ -958,6 +958,7 @@
   ],
   "set": {
     "id": "dp7",
+    "is_promo": false,
     "name": "Stormfront",
     "release_date": "2008-11-01",
     "series": "Diamond & Pearl"

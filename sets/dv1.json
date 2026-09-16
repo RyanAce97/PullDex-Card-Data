@@ -193,6 +193,7 @@
   ],
   "set": {
     "id": "dv1",
+    "is_promo": false,
     "name": "Dragon Vault",
     "release_date": "2012-10-05",
     "series": "Black & White"

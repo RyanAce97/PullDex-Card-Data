@@ -886,6 +886,7 @@
   ],
   "set": {
     "id": "bw2",
+    "is_promo": false,
     "name": "Emerging Powers",
     "release_date": "2011-08-31",
     "series": "Black & White"

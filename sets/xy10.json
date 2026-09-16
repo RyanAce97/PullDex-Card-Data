@@ -1165,6 +1165,7 @@
   ],
   "set": {
     "id": "xy10",
+    "is_promo": false,
     "name": "Fates Collide",
     "release_date": "2016-05-02",
     "series": "XY"

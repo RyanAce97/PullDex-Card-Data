@@ -1354,6 +1354,7 @@
   ],
   "set": {
     "id": "sm6",
+    "is_promo": false,
     "name": "Forbidden Light",
     "release_date": "2018-05-04",
     "series": "Sun & Moon"

@@ -1867,6 +1867,7 @@
   ],
   "set": {
     "id": "sv3pt5",
+    "is_promo": false,
     "name": "151",
     "release_date": "2023-09-22",
     "series": "Scarlet & Violet"

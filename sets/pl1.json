@@ -1201,6 +1201,7 @@
   ],
   "set": {
     "id": "pl1",
+    "is_promo": false,
     "name": "Platinum",
     "release_date": "2009-02-11",
     "series": "Platinum"

@@ -931,6 +931,7 @@
   ],
   "set": {
     "id": "bw4",
+    "is_promo": false,
     "name": "Next Destinies",
     "release_date": "2012-02-08",
     "series": "Black & White"

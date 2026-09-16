@@ -1003,6 +1003,7 @@
   ],
   "set": {
     "id": "ex7",
+    "is_promo": false,
     "name": "Team Rocket Returns",
     "release_date": "2004-11-01",
     "series": "EX"

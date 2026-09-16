@@ -994,6 +994,7 @@
   ],
   "set": {
     "id": "base6",
+    "is_promo": false,
     "name": "Legendary Collection",
     "release_date": "2002-05-24",
     "series": "Other"

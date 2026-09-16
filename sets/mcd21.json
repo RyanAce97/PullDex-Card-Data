@@ -229,6 +229,7 @@
   ],
   "set": {
     "id": "mcd21",
+    "is_promo": true,
     "name": "McDonald's Collection 2021",
     "release_date": "2021-02-09",
     "series": "Other"

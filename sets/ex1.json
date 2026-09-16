@@ -985,6 +985,7 @@
   ],
   "set": {
     "id": "ex1",
+    "is_promo": false,
     "name": "Ruby & Sapphire",
     "release_date": "2003-07-01",
     "series": "EX"

@@ -895,6 +895,7 @@
   ],
   "set": {
     "id": "sv6pt5",
+    "is_promo": false,
     "name": "Shrouded Fable",
     "release_date": "2024-08-02",
     "series": "Scarlet & Violet"

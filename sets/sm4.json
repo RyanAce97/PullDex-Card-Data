@@ -1138,6 +1138,7 @@
   ],
   "set": {
     "id": "sm4",
+    "is_promo": false,
     "name": "Crimson Invasion",
     "release_date": "2017-11-03",
     "series": "Sun & Moon"

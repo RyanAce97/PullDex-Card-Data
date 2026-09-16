@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "mcd14",
+    "is_promo": true,
     "name": "McDonald's Collection 2014",
     "release_date": "2014-05-23",
     "series": "Other"

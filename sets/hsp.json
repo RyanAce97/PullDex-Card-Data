@@ -229,6 +229,7 @@
   ],
   "set": {
     "id": "hsp",
+    "is_promo": true,
     "name": "HGSS Black Star Promos",
     "release_date": "2010-02-10",
     "series": "HeartGold & SoulSilver"

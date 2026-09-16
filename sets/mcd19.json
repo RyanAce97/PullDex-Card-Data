@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "mcd19",
+    "is_promo": true,
     "name": "McDonald's Collection 2019",
     "release_date": "2019-10-15",
     "series": "Other"

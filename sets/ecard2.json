@@ -1642,6 +1642,7 @@
   ],
   "set": {
     "id": "ecard2",
+    "is_promo": false,
     "name": "Aquapolis",
     "release_date": "2003-01-15",
     "series": "E-Card"

@@ -931,6 +931,7 @@
   ],
   "set": {
     "id": "hgss4",
+    "is_promo": false,
     "name": "HS—Triumphant",
     "release_date": "2010-11-03",
     "series": "HeartGold & SoulSilver"

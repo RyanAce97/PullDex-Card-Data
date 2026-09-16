@@ -85,6 +85,7 @@
   ],
   "set": {
     "id": "bp",
+    "is_promo": true,
     "name": "Best of Game",
     "release_date": "2002-12-01",
     "series": "Other"

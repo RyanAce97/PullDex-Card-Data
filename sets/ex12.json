@@ -841,6 +841,7 @@
   ],
   "set": {
     "id": "ex12",
+    "is_promo": false,
     "name": "Legend Maker",
     "release_date": "2006-02-01",
     "series": "EX"

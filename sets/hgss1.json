@@ -1120,6 +1120,7 @@
   ],
   "set": {
     "id": "hgss1",
+    "is_promo": false,
     "name": "HeartGold & SoulSilver",
     "release_date": "2010-02-10",
     "series": "HeartGold & SoulSilver"

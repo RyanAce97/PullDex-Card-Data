@@ -1039,6 +1039,7 @@
   ],
   "set": {
     "id": "bw1",
+    "is_promo": false,
     "name": "Black & White",
     "release_date": "2011-04-25",
     "series": "Black & White"

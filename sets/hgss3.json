@@ -823,6 +823,7 @@
   ],
   "set": {
     "id": "hgss3",
+    "is_promo": false,
     "name": "HS—Undaunted",
     "release_date": "2010-08-18",
     "series": "HeartGold & SoulSilver"

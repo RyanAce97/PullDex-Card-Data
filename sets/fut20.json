@@ -49,6 +49,7 @@
   ],
   "set": {
     "id": "fut20",
+    "is_promo": true,
     "name": "Pokémon Futsal Collection",
     "release_date": "2020-09-11",
     "series": "Other"

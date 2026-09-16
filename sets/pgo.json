@@ -796,6 +796,7 @@
   ],
   "set": {
     "id": "pgo",
+    "is_promo": false,
     "name": "Pokémon GO",
     "release_date": "2022-07-01",
     "series": "Sword & Shield"

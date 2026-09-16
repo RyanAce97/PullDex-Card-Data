@@ -1642,6 +1642,7 @@
   ],
   "set": {
     "id": "ecard3",
+    "is_promo": false,
     "name": "Skyridge",
     "release_date": "2003-05-12",
     "series": "E-Card"

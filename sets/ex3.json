@@ -904,6 +904,7 @@
   ],
   "set": {
     "id": "ex3",
+    "is_promo": false,
     "name": "Dragon",
     "release_date": "2003-11-24",
     "series": "EX"

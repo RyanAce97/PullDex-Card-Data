@@ -148,6 +148,7 @@
   ],
   "set": {
     "id": "sve",
+    "is_promo": false,
     "name": "Scarlet & Violet Energies",
     "release_date": "2023-03-31",
     "series": "Scarlet & Violet"

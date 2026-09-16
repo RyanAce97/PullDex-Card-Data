@@ -976,6 +976,7 @@
   ],
   "set": {
     "id": "ex8",
+    "is_promo": false,
     "name": "Deoxys",
     "release_date": "2005-02-01",
     "series": "EX"

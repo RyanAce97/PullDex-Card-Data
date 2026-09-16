@@ -310,6 +310,7 @@
   ],
   "set": {
     "id": "dc1",
+    "is_promo": false,
     "name": "Double Crisis",
     "release_date": "2015-03-25",
     "series": "XY"

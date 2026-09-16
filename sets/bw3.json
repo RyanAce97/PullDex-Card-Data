@@ -922,6 +922,7 @@
   ],
   "set": {
     "id": "bw3",
+    "is_promo": false,
     "name": "Noble Victories",
     "release_date": "2011-11-16",
     "series": "Black & White"

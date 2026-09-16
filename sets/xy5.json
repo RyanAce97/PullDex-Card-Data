@@ -1480,6 +1480,7 @@
   ],
   "set": {
     "id": "xy5",
+    "is_promo": false,
     "name": "Primal Clash",
     "release_date": "2015-02-04",
     "series": "XY"

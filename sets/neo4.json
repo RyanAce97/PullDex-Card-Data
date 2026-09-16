@@ -1021,6 +1021,7 @@
   ],
   "set": {
     "id": "neo4",
+    "is_promo": false,
     "name": "Neo Destiny",
     "release_date": "2002-02-28",
     "series": "Neo"

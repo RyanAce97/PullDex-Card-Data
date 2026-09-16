@@ -112,6 +112,7 @@
   ],
   "set": {
     "id": "tk2b",
+    "is_promo": false,
     "name": "EX Trainer Kit 2 Minun",
     "release_date": "2006-03-01",
     "series": "EX"

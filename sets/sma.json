@@ -850,6 +850,7 @@
   ],
   "set": {
     "id": "sma",
+    "is_promo": false,
     "name": "Hidden Fates Shiny Vault",
     "release_date": "2019-08-23",
     "series": "Sun & Moon"

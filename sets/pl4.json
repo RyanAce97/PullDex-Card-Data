@@ -1003,6 +1003,7 @@
   ],
   "set": {
     "id": "pl4",
+    "is_promo": false,
     "name": "Arceus",
     "release_date": "2009-11-04",
     "series": "Platinum"

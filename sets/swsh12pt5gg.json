@@ -634,6 +634,7 @@
   ],
   "set": {
     "id": "swsh12pt5gg",
+    "is_promo": false,
     "name": "Crown Zenith Galarian Gallery",
     "release_date": "2023-01-20",
     "series": "Sword & Shield"

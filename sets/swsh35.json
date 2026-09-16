@@ -724,6 +724,7 @@
   ],
   "set": {
     "id": "swsh35",
+    "is_promo": false,
     "name": "Champion's Path",
     "release_date": "2020-09-25",
     "series": "Sword & Shield"

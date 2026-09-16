@@ -1696,6 +1696,7 @@
   ],
   "set": {
     "id": "me1",
+    "is_promo": false,
     "name": "Mega Evolution",
     "release_date": "2025-09-26",
     "series": "Mega Evolution"

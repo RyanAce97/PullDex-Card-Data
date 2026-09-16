@@ -1318,6 +1318,7 @@
   ],
   "set": {
     "id": "xy1",
+    "is_promo": false,
     "name": "XY",
     "release_date": "2014-02-05",
     "series": "XY"

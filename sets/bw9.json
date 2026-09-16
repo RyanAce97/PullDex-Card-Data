@@ -1102,6 +1102,7 @@
   ],
   "set": {
     "id": "bw9",
+    "is_promo": false,
     "name": "Plasma Freeze",
     "release_date": "2013-05-08",
     "series": "Black & White"

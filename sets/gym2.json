@@ -1192,6 +1192,7 @@
   ],
   "set": {
     "id": "gym2",
+    "is_promo": false,
     "name": "Gym Challenge",
     "release_date": "2000-10-16",
     "series": "Gym"

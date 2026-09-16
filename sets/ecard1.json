@@ -1489,6 +1489,7 @@
   ],
   "set": {
     "id": "ecard1",
+    "is_promo": false,
     "name": "Expedition Base Set",
     "release_date": "2002-09-15",
     "series": "E-Card"

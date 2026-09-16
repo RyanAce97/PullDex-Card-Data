@@ -1624,6 +1624,7 @@
   ],
   "set": {
     "id": "sv8pt5",
+    "is_promo": false,
     "name": "Prismatic Evolutions",
     "release_date": "2025-01-17",
     "series": "Scarlet & Violet"

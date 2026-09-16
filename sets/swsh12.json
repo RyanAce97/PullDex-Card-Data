@@ -1939,6 +1939,7 @@
   ],
   "set": {
     "id": "swsh12",
+    "is_promo": false,
     "name": "Silver Tempest",
     "release_date": "2022-11-11",
     "series": "Sword & Shield"

@@ -796,6 +796,7 @@
   ],
   "set": {
     "id": "mep",
+    "is_promo": true,
     "name": "MEP Black Star Promos",
     "release_date": null,
     "series": "Mega Evolution"

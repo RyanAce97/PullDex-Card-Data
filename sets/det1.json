@@ -166,6 +166,7 @@
   ],
   "set": {
     "id": "det1",
+    "is_promo": false,
     "name": "Detective Pikachu",
     "release_date": "2019-04-05",
     "series": "Sun & Moon"

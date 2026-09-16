@@ -148,6 +148,7 @@
   ],
   "set": {
     "id": "ru1",
+    "is_promo": true,
     "name": "Pokémon Rumble",
     "release_date": "2009-12-02",
     "series": "Other"

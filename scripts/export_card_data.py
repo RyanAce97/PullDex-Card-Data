@@ -135,7 +135,8 @@ def _open_readonly(db_path: Path) -> sqlite3.Connection:
 
 def _load_sets(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute(
-        "SELECT id, api_set_id, name, series, release_date FROM sets"
+        "SELECT id, api_set_id, name, series, release_date, "
+        "COALESCE(is_promo, 0) AS is_promo FROM sets"
     ).fetchall()
     sets = []
     for r in rows:
@@ -150,6 +151,9 @@ def _load_sets(conn: sqlite3.Connection) -> list[dict]:
                 "name": r["name"],
                 "series": r["series"],
                 "release_date": r["release_date"],
+                # Promotional flag is explicit reference data (never inferred
+                # from name/series). Stored as a boolean in the catalogue.
+                "is_promo": bool(r["is_promo"]),
             }
         )
     return sets
@@ -225,6 +229,7 @@ def _build_set_payload(set_row: dict, cards: list[dict]) -> dict:
             "name": set_row["name"],
             "series": set_row["series"],
             "release_date": set_row["release_date"],
+            "is_promo": bool(set_row.get("is_promo", False)),
         },
         "card_count": len(exported_cards),
         "cards": exported_cards,
@@ -318,6 +323,7 @@ def export(seed_db: Path, check_only: bool = False) -> dict:
                 "card_count": payload["card_count"],
                 "version": version,
                 "sha256": sha,
+                "is_promo": bool(s.get("is_promo", False)),
             }
         )
 

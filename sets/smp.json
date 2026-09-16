@@ -2263,6 +2263,7 @@
   ],
   "set": {
     "id": "smp",
+    "is_promo": true,
     "name": "SM Black Star Promos",
     "release_date": "2017-02-03",
     "series": "Sun & Moon"

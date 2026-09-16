@@ -913,6 +913,7 @@
   ],
   "set": {
     "id": "ex15",
+    "is_promo": false,
     "name": "Dragon Frontiers",
     "release_date": "2006-11-01",
     "series": "EX"

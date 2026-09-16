@@ -2452,6 +2452,7 @@
   ],
   "set": {
     "id": "sm12",
+    "is_promo": false,
     "name": "Cosmic Eclipse",
     "release_date": "2019-11-01",
     "series": "Sun & Moon"

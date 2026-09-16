@@ -2029,6 +2029,7 @@
   ],
   "set": {
     "id": "svp",
+    "is_promo": true,
     "name": "Scarlet & Violet Black Star Promos",
     "release_date": "2023-01-01",
     "series": "Scarlet & Violet"

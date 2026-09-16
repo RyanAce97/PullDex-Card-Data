@@ -58,6 +58,7 @@ REQUIRED_MANIFEST_SET_FIELDS = {
     "card_count",
     "version",
     "sha256",
+    "is_promo",
 }
 
 # Known 30th Celebration corrections that must be preserved.
@@ -179,6 +180,19 @@ def main() -> int:
         # --- set metadata matches manifest ---
         set_meta = payload.get("set", {})
         c.check(set_meta.get("id") == set_id, f"{s.get('file')}: set.id != manifest id")
+        # --- is_promo: required boolean in the set file, mirrored in manifest ---
+        c.check(
+            isinstance(set_meta.get("is_promo"), bool),
+            f"{s.get('file')}: set.is_promo must be present and boolean",
+        )
+        c.check(
+            isinstance(s.get("is_promo"), bool),
+            f"manifest set {set_id}: is_promo must be present and boolean",
+        )
+        c.check(
+            set_meta.get("is_promo") == s.get("is_promo"),
+            f"{s.get('file')}: set.is_promo ({set_meta.get('is_promo')}) != manifest is_promo ({s.get('is_promo')})",
+        )
         c.check(
             payload.get("card_count") == len(payload.get("cards", [])),
             f"{s.get('file')}: card_count != len(cards)",

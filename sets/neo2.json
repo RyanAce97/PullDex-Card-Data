@@ -679,6 +679,7 @@
   ],
   "set": {
     "id": "neo2",
+    "is_promo": false,
     "name": "Neo Discovery",
     "release_date": "2001-06-01",
     "series": "Neo"

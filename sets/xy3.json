@@ -1030,6 +1030,7 @@
   ],
   "set": {
     "id": "xy3",
+    "is_promo": false,
     "name": "Furious Fists",
     "release_date": "2014-08-13",
     "series": "XY"

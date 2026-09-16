@@ -2740,6 +2740,7 @@
   ],
   "set": {
     "id": "swshp",
+    "is_promo": true,
     "name": "SWSH Black Star Promos",
     "release_date": "2019-11-15",
     "series": "Sword & Shield"

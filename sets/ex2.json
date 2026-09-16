@@ -904,6 +904,7 @@
   ],
   "set": {
     "id": "ex2",
+    "is_promo": false,
     "name": "Sandstorm",
     "release_date": "2003-09-18",
     "series": "EX"

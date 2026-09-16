@@ -751,6 +751,7 @@
   ],
   "set": {
     "id": "base5",
+    "is_promo": false,
     "name": "Team Rocket",
     "release_date": "2000-04-24",
     "series": "Base"

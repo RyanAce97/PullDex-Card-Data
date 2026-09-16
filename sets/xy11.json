@@ -1048,6 +1048,7 @@
   ],
   "set": {
     "id": "xy11",
+    "is_promo": false,
     "name": "Steam Siege",
     "release_date": "2016-08-03",
     "series": "XY"

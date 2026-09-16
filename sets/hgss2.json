@@ -868,6 +868,7 @@
   ],
   "set": {
     "id": "hgss2",
+    "is_promo": false,
     "name": "HS—Unleashed",
     "release_date": "2010-05-12",
     "series": "HeartGold & SoulSilver"

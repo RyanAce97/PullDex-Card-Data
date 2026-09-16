@@ -904,6 +904,7 @@
   ],
   "set": {
     "id": "ex14",
+    "is_promo": false,
     "name": "Crystal Guardians",
     "release_date": "2006-08-01",
     "series": "EX"
