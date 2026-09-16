@@ -1,0 +1,164 @@
+{
+  "card_count": 17,
+  "cards": [
+    {
+      "api_card_id": "pop5-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/pop5/1_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Rare",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/pop5/2_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Rare",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/pop5/3_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/pop5/4_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/pop5/5_hires.png",
+      "national_dex_number": 5,
+      "rarity": "Uncommon",
+      "species_name": "charmeleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/pop5/6_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/pop5/7_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/pop5/8_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/pop5/9_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/pop5/10_hires.png",
+      "national_dex_number": 4,
+      "rarity": "Common",
+      "species_name": "charmander",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/pop5/11_hires.png",
+      "national_dex_number": 52,
+      "rarity": "Common",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/pop5/12_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Common",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/pop5/13_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Common",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/pop5/14_hires.png",
+      "national_dex_number": 279,
+      "rarity": "Common",
+      "species_name": "pelipper",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/pop5/15_hires.png",
+      "national_dex_number": 335,
+      "rarity": "Common",
+      "species_name": "zangoose",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/pop5/16_hires.png",
+      "national_dex_number": 196,
+      "rarity": "Rare",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "pop5-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/pop5/17_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Rare",
+      "species_name": "umbreon",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "pop5",
+    "name": "POP Series 5",
+    "release_date": "2007-03-01",
+    "series": "POP"
+  }
+}

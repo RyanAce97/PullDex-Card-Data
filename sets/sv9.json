@@ -1,0 +1,1721 @@
+{
+  "card_count": 190,
+  "cards": [
+    {
+      "api_card_id": "sv9-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/sv9/1_hires.png",
+      "national_dex_number": 10,
+      "rarity": "Common",
+      "species_name": "caterpie",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/sv9/2_hires.png",
+      "national_dex_number": 11,
+      "rarity": "Common",
+      "species_name": "metapod",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/sv9/3_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/sv9/4_hires.png",
+      "national_dex_number": 46,
+      "rarity": "Common",
+      "species_name": "paras",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/sv9/5_hires.png",
+      "national_dex_number": 47,
+      "rarity": "Common",
+      "species_name": "parasect",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/sv9/6_hires.png",
+      "national_dex_number": 548,
+      "rarity": "Common",
+      "species_name": "petilil",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/sv9/7_hires.png",
+      "national_dex_number": 549,
+      "rarity": "Common",
+      "species_name": "lilligant",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/sv9/8_hires.png",
+      "national_dex_number": 556,
+      "rarity": "Uncommon",
+      "species_name": "maractus",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/sv9/9_hires.png",
+      "national_dex_number": 588,
+      "rarity": "Common",
+      "species_name": "karrablast",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/sv9/10_hires.png",
+      "national_dex_number": 590,
+      "rarity": "Common",
+      "species_name": "foongus",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/sv9/11_hires.png",
+      "national_dex_number": 591,
+      "rarity": "Double Rare",
+      "species_name": "amoonguss",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/sv9/12_hires.png",
+      "national_dex_number": 616,
+      "rarity": "Common",
+      "species_name": "shelmet",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/sv9/13_hires.png",
+      "national_dex_number": 617,
+      "rarity": "Uncommon",
+      "species_name": "accelgor",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/sv9/14_hires.png",
+      "national_dex_number": 632,
+      "rarity": "Common",
+      "species_name": "durant",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/sv9/15_hires.png",
+      "national_dex_number": 640,
+      "rarity": "Uncommon",
+      "species_name": "virizion",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/sv9/16_hires.png",
+      "national_dex_number": 906,
+      "rarity": "Common",
+      "species_name": "sprigatito",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/sv9/17_hires.png",
+      "national_dex_number": 907,
+      "rarity": "Common",
+      "species_name": "floragato",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/sv9/18_hires.png",
+      "national_dex_number": 908,
+      "rarity": "Rare",
+      "species_name": "meowscarada",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/sv9/19_hires.png",
+      "national_dex_number": 919,
+      "rarity": "Common",
+      "species_name": "nymble",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/sv9/20_hires.png",
+      "national_dex_number": 126,
+      "rarity": "Common",
+      "species_name": "magmar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/sv9/21_hires.png",
+      "national_dex_number": 467,
+      "rarity": "Rare",
+      "species_name": "magmortar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/sv9/22_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Common",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/sv9/23_hires.png",
+      "national_dex_number": 256,
+      "rarity": "Uncommon",
+      "species_name": "combusken",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/sv9/24_hires.png",
+      "national_dex_number": 257,
+      "rarity": "Double Rare",
+      "species_name": "blaziken",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/sv9/25_hires.png",
+      "national_dex_number": 324,
+      "rarity": "Common",
+      "species_name": "torkoal",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/sv9/26_hires.png",
+      "national_dex_number": 554,
+      "rarity": "Common",
+      "species_name": "darumaka",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/sv9/27_hires.png",
+      "national_dex_number": 555,
+      "rarity": "Uncommon",
+      "species_name": "darmanitan",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/sv9/28_hires.png",
+      "national_dex_number": 636,
+      "rarity": "Common",
+      "species_name": "larvesta",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/sv9/29_hires.png",
+      "national_dex_number": 637,
+      "rarity": "Uncommon",
+      "species_name": "volcarona",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/sv9/30_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Double Rare",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/sv9/31_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Double Rare",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/sv9/32_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Uncommon",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/sv9/33_hires.png",
+      "national_dex_number": 223,
+      "rarity": "Common",
+      "species_name": "remoraid",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/sv9/34_hires.png",
+      "national_dex_number": 224,
+      "rarity": "Uncommon",
+      "species_name": "octillery",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/sv9/35_hires.png",
+      "national_dex_number": 270,
+      "rarity": "Common",
+      "species_name": "lotad",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/sv9/36_hires.png",
+      "national_dex_number": 271,
+      "rarity": "Common",
+      "species_name": "lombre",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/sv9/37_hires.png",
+      "national_dex_number": 272,
+      "rarity": "Rare",
+      "species_name": "ludicolo",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/sv9/38_hires.png",
+      "national_dex_number": 278,
+      "rarity": "Common",
+      "species_name": "wingull",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/sv9/39_hires.png",
+      "national_dex_number": 279,
+      "rarity": "Uncommon",
+      "species_name": "pelipper",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-40",
+      "card_number": "40",
+      "image_url": "https://images.pokemontcg.io/sv9/40_hires.png",
+      "national_dex_number": 320,
+      "rarity": "Common",
+      "species_name": "wailmer",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-41",
+      "card_number": "41",
+      "image_url": "https://images.pokemontcg.io/sv9/41_hires.png",
+      "national_dex_number": 321,
+      "rarity": "Rare",
+      "species_name": "wailord",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-42",
+      "card_number": "42",
+      "image_url": "https://images.pokemontcg.io/sv9/42_hires.png",
+      "national_dex_number": 378,
+      "rarity": "Uncommon",
+      "species_name": "regice",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-43",
+      "card_number": "43",
+      "image_url": "https://images.pokemontcg.io/sv9/43_hires.png",
+      "national_dex_number": 976,
+      "rarity": "Double Rare",
+      "species_name": "veluza",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-44",
+      "card_number": "44",
+      "image_url": "https://images.pokemontcg.io/sv9/44_hires.png",
+      "national_dex_number": 74,
+      "rarity": "Common",
+      "species_name": "geodude",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-45",
+      "card_number": "45",
+      "image_url": "https://images.pokemontcg.io/sv9/45_hires.png",
+      "national_dex_number": 75,
+      "rarity": "Common",
+      "species_name": "graveler",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-46",
+      "card_number": "46",
+      "image_url": "https://images.pokemontcg.io/sv9/46_hires.png",
+      "national_dex_number": 76,
+      "rarity": "Uncommon",
+      "species_name": "golem",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-47",
+      "card_number": "47",
+      "image_url": "https://images.pokemontcg.io/sv9/47_hires.png",
+      "national_dex_number": 100,
+      "rarity": "Common",
+      "species_name": "voltorb",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-48",
+      "card_number": "48",
+      "image_url": "https://images.pokemontcg.io/sv9/48_hires.png",
+      "national_dex_number": 101,
+      "rarity": "Uncommon",
+      "species_name": "electrode",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-49",
+      "card_number": "49",
+      "image_url": "https://images.pokemontcg.io/sv9/49_hires.png",
+      "national_dex_number": 595,
+      "rarity": "Common",
+      "species_name": "joltik",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-50",
+      "card_number": "50",
+      "image_url": "https://images.pokemontcg.io/sv9/50_hires.png",
+      "national_dex_number": 777,
+      "rarity": "Common",
+      "species_name": "togedemaru",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-51",
+      "card_number": "51",
+      "image_url": "https://images.pokemontcg.io/sv9/51_hires.png",
+      "national_dex_number": 785,
+      "rarity": "Double Rare",
+      "species_name": "tapu-koko",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-52",
+      "card_number": "52",
+      "image_url": "https://images.pokemontcg.io/sv9/52_hires.png",
+      "national_dex_number": 938,
+      "rarity": "Common",
+      "species_name": "tadbulb",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-53",
+      "card_number": "53",
+      "image_url": "https://images.pokemontcg.io/sv9/53_hires.png",
+      "national_dex_number": 939,
+      "rarity": "Double Rare",
+      "species_name": "bellibolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-54",
+      "card_number": "54",
+      "image_url": "https://images.pokemontcg.io/sv9/54_hires.png",
+      "national_dex_number": 940,
+      "rarity": "Common",
+      "species_name": "wattrel",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-55",
+      "card_number": "55",
+      "image_url": "https://images.pokemontcg.io/sv9/55_hires.png",
+      "national_dex_number": 941,
+      "rarity": "Rare",
+      "species_name": "kilowattrel",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-56",
+      "card_number": "56",
+      "image_url": "https://images.pokemontcg.io/sv9/56_hires.png",
+      "national_dex_number": 35,
+      "rarity": "Double Rare",
+      "species_name": "clefairy",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-57",
+      "card_number": "57",
+      "image_url": "https://images.pokemontcg.io/sv9/57_hires.png",
+      "national_dex_number": 105,
+      "rarity": "Uncommon",
+      "species_name": "marowak",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-58",
+      "card_number": "58",
+      "image_url": "https://images.pokemontcg.io/sv9/58_hires.png",
+      "national_dex_number": 122,
+      "rarity": "Common",
+      "species_name": "mr-mime",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-59",
+      "card_number": "59",
+      "image_url": "https://images.pokemontcg.io/sv9/59_hires.png",
+      "national_dex_number": 353,
+      "rarity": "Common",
+      "species_name": "shuppet",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-60",
+      "card_number": "60",
+      "image_url": "https://images.pokemontcg.io/sv9/60_hires.png",
+      "national_dex_number": 354,
+      "rarity": "Uncommon",
+      "species_name": "banette",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-61",
+      "card_number": "61",
+      "image_url": "https://images.pokemontcg.io/sv9/61_hires.png",
+      "national_dex_number": 374,
+      "rarity": "Common",
+      "species_name": "beldum",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-62",
+      "card_number": "62",
+      "image_url": "https://images.pokemontcg.io/sv9/62_hires.png",
+      "national_dex_number": 375,
+      "rarity": "Common",
+      "species_name": "metang",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-63",
+      "card_number": "63",
+      "image_url": "https://images.pokemontcg.io/sv9/63_hires.png",
+      "national_dex_number": 376,
+      "rarity": "Rare",
+      "species_name": "metagross",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-64",
+      "card_number": "64",
+      "image_url": "https://images.pokemontcg.io/sv9/64_hires.png",
+      "national_dex_number": 561,
+      "rarity": "Common",
+      "species_name": "sigilyph",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-65",
+      "card_number": "65",
+      "image_url": "https://images.pokemontcg.io/sv9/65_hires.png",
+      "national_dex_number": 741,
+      "rarity": "Common",
+      "species_name": "oricorio",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-66",
+      "card_number": "66",
+      "image_url": "https://images.pokemontcg.io/sv9/66_hires.png",
+      "national_dex_number": 742,
+      "rarity": "Common",
+      "species_name": "cutiefly",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-67",
+      "card_number": "67",
+      "image_url": "https://images.pokemontcg.io/sv9/67_hires.png",
+      "national_dex_number": 743,
+      "rarity": "Rare",
+      "species_name": "ribombee",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-68",
+      "card_number": "68",
+      "image_url": "https://images.pokemontcg.io/sv9/68_hires.png",
+      "national_dex_number": 764,
+      "rarity": "Common",
+      "species_name": "comfey",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-69",
+      "card_number": "69",
+      "image_url": "https://images.pokemontcg.io/sv9/69_hires.png",
+      "national_dex_number": 778,
+      "rarity": "Double Rare",
+      "species_name": "mimikyu",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-70",
+      "card_number": "70",
+      "image_url": "https://images.pokemontcg.io/sv9/70_hires.png",
+      "national_dex_number": 781,
+      "rarity": "Common",
+      "species_name": "dhelmise",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-71",
+      "card_number": "71",
+      "image_url": "https://images.pokemontcg.io/sv9/71_hires.png",
+      "national_dex_number": 859,
+      "rarity": "Common",
+      "species_name": "impidimp",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-72",
+      "card_number": "72",
+      "image_url": "https://images.pokemontcg.io/sv9/72_hires.png",
+      "national_dex_number": 860,
+      "rarity": "Common",
+      "species_name": "morgrem",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-73",
+      "card_number": "73",
+      "image_url": "https://images.pokemontcg.io/sv9/73_hires.png",
+      "national_dex_number": 861,
+      "rarity": "Uncommon",
+      "species_name": "grimmsnarl",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-74",
+      "card_number": "74",
+      "image_url": "https://images.pokemontcg.io/sv9/74_hires.png",
+      "national_dex_number": 868,
+      "rarity": "Common",
+      "species_name": "milcery",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-75",
+      "card_number": "75",
+      "image_url": "https://images.pokemontcg.io/sv9/75_hires.png",
+      "national_dex_number": 869,
+      "rarity": "Double Rare",
+      "species_name": "alcremie",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-76",
+      "card_number": "76",
+      "image_url": "https://images.pokemontcg.io/sv9/76_hires.png",
+      "national_dex_number": 104,
+      "rarity": "Common",
+      "species_name": "cubone",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-77",
+      "card_number": "77",
+      "image_url": "https://images.pokemontcg.io/sv9/77_hires.png",
+      "national_dex_number": 220,
+      "rarity": "Common",
+      "species_name": "swinub",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-78",
+      "card_number": "78",
+      "image_url": "https://images.pokemontcg.io/sv9/78_hires.png",
+      "national_dex_number": 221,
+      "rarity": "Common",
+      "species_name": "piloswine",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-79",
+      "card_number": "79",
+      "image_url": "https://images.pokemontcg.io/sv9/79_hires.png",
+      "national_dex_number": 473,
+      "rarity": "Double Rare",
+      "species_name": "mamoswine",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-80",
+      "card_number": "80",
+      "image_url": "https://images.pokemontcg.io/sv9/80_hires.png",
+      "national_dex_number": 246,
+      "rarity": "Common",
+      "species_name": "larvitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-81",
+      "card_number": "81",
+      "image_url": "https://images.pokemontcg.io/sv9/81_hires.png",
+      "national_dex_number": 247,
+      "rarity": "Common",
+      "species_name": "pupitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-82",
+      "card_number": "82",
+      "image_url": "https://images.pokemontcg.io/sv9/82_hires.png",
+      "national_dex_number": 377,
+      "rarity": "Rare",
+      "species_name": "regirock",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-83",
+      "card_number": "83",
+      "image_url": "https://images.pokemontcg.io/sv9/83_hires.png",
+      "national_dex_number": 674,
+      "rarity": "Common",
+      "species_name": "pancham",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-84",
+      "card_number": "84",
+      "image_url": "https://images.pokemontcg.io/sv9/84_hires.png",
+      "national_dex_number": 744,
+      "rarity": "Common",
+      "species_name": "rockruff",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-85",
+      "card_number": "85",
+      "image_url": "https://images.pokemontcg.io/sv9/85_hires.png",
+      "national_dex_number": 745,
+      "rarity": "Rare",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-86",
+      "card_number": "86",
+      "image_url": "https://images.pokemontcg.io/sv9/86_hires.png",
+      "national_dex_number": 843,
+      "rarity": "Common",
+      "species_name": "silicobra",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-87",
+      "card_number": "87",
+      "image_url": "https://images.pokemontcg.io/sv9/87_hires.png",
+      "national_dex_number": 844,
+      "rarity": "Uncommon",
+      "species_name": "sandaconda",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-88",
+      "card_number": "88",
+      "image_url": "https://images.pokemontcg.io/sv9/88_hires.png",
+      "national_dex_number": 948,
+      "rarity": "Common",
+      "species_name": "toedscool",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-89",
+      "card_number": "89",
+      "image_url": "https://images.pokemontcg.io/sv9/89_hires.png",
+      "national_dex_number": 949,
+      "rarity": "Uncommon",
+      "species_name": "toedscruel",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-90",
+      "card_number": "90",
+      "image_url": "https://images.pokemontcg.io/sv9/90_hires.png",
+      "national_dex_number": 950,
+      "rarity": "Uncommon",
+      "species_name": "klawf",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-91",
+      "card_number": "91",
+      "image_url": "https://images.pokemontcg.io/sv9/91_hires.png",
+      "national_dex_number": 109,
+      "rarity": "Common",
+      "species_name": "koffing",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-92",
+      "card_number": "92",
+      "image_url": "https://images.pokemontcg.io/sv9/92_hires.png",
+      "national_dex_number": 110,
+      "rarity": "Uncommon",
+      "species_name": "weezing",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-93",
+      "card_number": "93",
+      "image_url": "https://images.pokemontcg.io/sv9/93_hires.png",
+      "national_dex_number": 194,
+      "rarity": "Common",
+      "species_name": "wooper",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-94",
+      "card_number": "94",
+      "image_url": "https://images.pokemontcg.io/sv9/94_hires.png",
+      "national_dex_number": 980,
+      "rarity": "Double Rare",
+      "species_name": "clodsire",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-95",
+      "card_number": "95",
+      "image_url": "https://images.pokemontcg.io/sv9/95_hires.png",
+      "national_dex_number": 248,
+      "rarity": "Rare",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-96",
+      "card_number": "96",
+      "image_url": "https://images.pokemontcg.io/sv9/96_hires.png",
+      "national_dex_number": 509,
+      "rarity": "Common",
+      "species_name": "purrloin",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-97",
+      "card_number": "97",
+      "image_url": "https://images.pokemontcg.io/sv9/97_hires.png",
+      "national_dex_number": 570,
+      "rarity": "Common",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-98",
+      "card_number": "98",
+      "image_url": "https://images.pokemontcg.io/sv9/98_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Double Rare",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-99",
+      "card_number": "99",
+      "image_url": "https://images.pokemontcg.io/sv9/99_hires.png",
+      "national_dex_number": 675,
+      "rarity": "Uncommon",
+      "species_name": "pangoro",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-100",
+      "card_number": "100",
+      "image_url": "https://images.pokemontcg.io/sv9/100_hires.png",
+      "national_dex_number": 920,
+      "rarity": "Uncommon",
+      "species_name": "lokix",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-101",
+      "card_number": "101",
+      "image_url": "https://images.pokemontcg.io/sv9/101_hires.png",
+      "national_dex_number": 962,
+      "rarity": "Common",
+      "species_name": "bombirdier",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-102",
+      "card_number": "102",
+      "image_url": "https://images.pokemontcg.io/sv9/102_hires.png",
+      "national_dex_number": 589,
+      "rarity": "Uncommon",
+      "species_name": "escavalier",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-103",
+      "card_number": "103",
+      "image_url": "https://images.pokemontcg.io/sv9/103_hires.png",
+      "national_dex_number": 599,
+      "rarity": "Common",
+      "species_name": "klink",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-104",
+      "card_number": "104",
+      "image_url": "https://images.pokemontcg.io/sv9/104_hires.png",
+      "national_dex_number": 600,
+      "rarity": "Common",
+      "species_name": "klang",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-105",
+      "card_number": "105",
+      "image_url": "https://images.pokemontcg.io/sv9/105_hires.png",
+      "national_dex_number": 601,
+      "rarity": "Uncommon",
+      "species_name": "klinklang",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-106",
+      "card_number": "106",
+      "image_url": "https://images.pokemontcg.io/sv9/106_hires.png",
+      "national_dex_number": 618,
+      "rarity": "Common",
+      "species_name": "stunfisk",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-107",
+      "card_number": "107",
+      "image_url": "https://images.pokemontcg.io/sv9/107_hires.png",
+      "national_dex_number": 801,
+      "rarity": "Rare",
+      "species_name": "magearna",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-108",
+      "card_number": "108",
+      "image_url": "https://images.pokemontcg.io/sv9/108_hires.png",
+      "national_dex_number": 823,
+      "rarity": "Uncommon",
+      "species_name": "corviknight",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-109",
+      "card_number": "109",
+      "image_url": "https://images.pokemontcg.io/sv9/109_hires.png",
+      "national_dex_number": 878,
+      "rarity": "Common",
+      "species_name": "cufant",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-110",
+      "card_number": "110",
+      "image_url": "https://images.pokemontcg.io/sv9/110_hires.png",
+      "national_dex_number": 879,
+      "rarity": "Uncommon",
+      "species_name": "copperajah",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-111",
+      "card_number": "111",
+      "image_url": "https://images.pokemontcg.io/sv9/111_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Double Rare",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-112",
+      "card_number": "112",
+      "image_url": "https://images.pokemontcg.io/sv9/112_hires.png",
+      "national_dex_number": 371,
+      "rarity": "Common",
+      "species_name": "bagon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-113",
+      "card_number": "113",
+      "image_url": "https://images.pokemontcg.io/sv9/113_hires.png",
+      "national_dex_number": 372,
+      "rarity": "Common",
+      "species_name": "shelgon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-114",
+      "card_number": "114",
+      "image_url": "https://images.pokemontcg.io/sv9/114_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Double Rare",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-115",
+      "card_number": "115",
+      "image_url": "https://images.pokemontcg.io/sv9/115_hires.png",
+      "national_dex_number": 621,
+      "rarity": "Common",
+      "species_name": "druddigon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-116",
+      "card_number": "116",
+      "image_url": "https://images.pokemontcg.io/sv9/116_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Rare",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-117",
+      "card_number": "117",
+      "image_url": "https://images.pokemontcg.io/sv9/117_hires.png",
+      "national_dex_number": 143,
+      "rarity": "Rare",
+      "species_name": "snorlax",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-118",
+      "card_number": "118",
+      "image_url": "https://images.pokemontcg.io/sv9/118_hires.png",
+      "national_dex_number": 161,
+      "rarity": "Common",
+      "species_name": "sentret",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-119",
+      "card_number": "119",
+      "image_url": "https://images.pokemontcg.io/sv9/119_hires.png",
+      "national_dex_number": 162,
+      "rarity": "Common",
+      "species_name": "furret",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-120",
+      "card_number": "120",
+      "image_url": "https://images.pokemontcg.io/sv9/120_hires.png",
+      "national_dex_number": 206,
+      "rarity": "Common",
+      "species_name": "dunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-121",
+      "card_number": "121",
+      "image_url": "https://images.pokemontcg.io/sv9/121_hires.png",
+      "national_dex_number": 982,
+      "rarity": "Double Rare",
+      "species_name": "dudunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-122",
+      "card_number": "122",
+      "image_url": "https://images.pokemontcg.io/sv9/122_hires.png",
+      "national_dex_number": 352,
+      "rarity": "Common",
+      "species_name": "kecleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-123",
+      "card_number": "123",
+      "image_url": "https://images.pokemontcg.io/sv9/123_hires.png",
+      "national_dex_number": 357,
+      "rarity": "Common",
+      "species_name": "tropius",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-124",
+      "card_number": "124",
+      "image_url": "https://images.pokemontcg.io/sv9/124_hires.png",
+      "national_dex_number": 531,
+      "rarity": "Common",
+      "species_name": "audino",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-125",
+      "card_number": "125",
+      "image_url": "https://images.pokemontcg.io/sv9/125_hires.png",
+      "national_dex_number": 572,
+      "rarity": "Common",
+      "species_name": "minccino",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-126",
+      "card_number": "126",
+      "image_url": "https://images.pokemontcg.io/sv9/126_hires.png",
+      "national_dex_number": 573,
+      "rarity": "Uncommon",
+      "species_name": "cinccino",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-127",
+      "card_number": "127",
+      "image_url": "https://images.pokemontcg.io/sv9/127_hires.png",
+      "national_dex_number": 714,
+      "rarity": "Common",
+      "species_name": "noibat",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-128",
+      "card_number": "128",
+      "image_url": "https://images.pokemontcg.io/sv9/128_hires.png",
+      "national_dex_number": 715,
+      "rarity": "Rare",
+      "species_name": "noivern",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-129",
+      "card_number": "129",
+      "image_url": "https://images.pokemontcg.io/sv9/129_hires.png",
+      "national_dex_number": 775,
+      "rarity": "Common",
+      "species_name": "komala",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-130",
+      "card_number": "130",
+      "image_url": "https://images.pokemontcg.io/sv9/130_hires.png",
+      "national_dex_number": 780,
+      "rarity": "Common",
+      "species_name": "drampa",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-131",
+      "card_number": "131",
+      "image_url": "https://images.pokemontcg.io/sv9/131_hires.png",
+      "national_dex_number": 819,
+      "rarity": "Common",
+      "species_name": "skwovet",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-132",
+      "card_number": "132",
+      "image_url": "https://images.pokemontcg.io/sv9/132_hires.png",
+      "national_dex_number": 820,
+      "rarity": "Uncommon",
+      "species_name": "greedent",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-133",
+      "card_number": "133",
+      "image_url": "https://images.pokemontcg.io/sv9/133_hires.png",
+      "national_dex_number": 821,
+      "rarity": "Common",
+      "species_name": "rookidee",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-134",
+      "card_number": "134",
+      "image_url": "https://images.pokemontcg.io/sv9/134_hires.png",
+      "national_dex_number": 822,
+      "rarity": "Common",
+      "species_name": "corvisquire",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-135",
+      "card_number": "135",
+      "image_url": "https://images.pokemontcg.io/sv9/135_hires.png",
+      "national_dex_number": 831,
+      "rarity": "Common",
+      "species_name": "wooloo",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-136",
+      "card_number": "136",
+      "image_url": "https://images.pokemontcg.io/sv9/136_hires.png",
+      "national_dex_number": 832,
+      "rarity": "Rare",
+      "species_name": "dubwool",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-137",
+      "card_number": "137",
+      "image_url": "https://images.pokemontcg.io/sv9/137_hires.png",
+      "national_dex_number": 845,
+      "rarity": "Common",
+      "species_name": "cramorant",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-138",
+      "card_number": "138",
+      "image_url": "https://images.pokemontcg.io/sv9/138_hires.png",
+      "national_dex_number": 845,
+      "rarity": "Uncommon",
+      "species_name": "cramorant",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-139",
+      "card_number": "139",
+      "image_url": "https://images.pokemontcg.io/sv9/139_hires.png",
+      "national_dex_number": 915,
+      "rarity": "Common",
+      "species_name": "lechonk",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-140",
+      "card_number": "140",
+      "image_url": "https://images.pokemontcg.io/sv9/140_hires.png",
+      "national_dex_number": 916,
+      "rarity": "Uncommon",
+      "species_name": "oinkologne",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-141",
+      "card_number": "141",
+      "image_url": "https://images.pokemontcg.io/sv9/141_hires.png",
+      "national_dex_number": 931,
+      "rarity": "Common",
+      "species_name": "squawkabilly",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-142",
+      "card_number": "142",
+      "image_url": "https://images.pokemontcg.io/sv9/142_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-143",
+      "card_number": "143",
+      "image_url": "https://images.pokemontcg.io/sv9/143_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-144",
+      "card_number": "144",
+      "image_url": "https://images.pokemontcg.io/sv9/144_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-145",
+      "card_number": "145",
+      "image_url": "https://images.pokemontcg.io/sv9/145_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-146",
+      "card_number": "146",
+      "image_url": "https://images.pokemontcg.io/sv9/146_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-147",
+      "card_number": "147",
+      "image_url": "https://images.pokemontcg.io/sv9/147_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-148",
+      "card_number": "148",
+      "image_url": "https://images.pokemontcg.io/sv9/148_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-149",
+      "card_number": "149",
+      "image_url": "https://images.pokemontcg.io/sv9/149_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-150",
+      "card_number": "150",
+      "image_url": "https://images.pokemontcg.io/sv9/150_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-151",
+      "card_number": "151",
+      "image_url": "https://images.pokemontcg.io/sv9/151_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-152",
+      "card_number": "152",
+      "image_url": "https://images.pokemontcg.io/sv9/152_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-153",
+      "card_number": "153",
+      "image_url": "https://images.pokemontcg.io/sv9/153_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-154",
+      "card_number": "154",
+      "image_url": "https://images.pokemontcg.io/sv9/154_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-155",
+      "card_number": "155",
+      "image_url": "https://images.pokemontcg.io/sv9/155_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-156",
+      "card_number": "156",
+      "image_url": "https://images.pokemontcg.io/sv9/156_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-157",
+      "card_number": "157",
+      "image_url": "https://images.pokemontcg.io/sv9/157_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-158",
+      "card_number": "158",
+      "image_url": "https://images.pokemontcg.io/sv9/158_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-159",
+      "card_number": "159",
+      "image_url": "https://images.pokemontcg.io/sv9/159_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-160",
+      "card_number": "160",
+      "image_url": "https://images.pokemontcg.io/sv9/160_hires.png",
+      "national_dex_number": 556,
+      "rarity": "Illustration Rare",
+      "species_name": "maractus",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-161",
+      "card_number": "161",
+      "image_url": "https://images.pokemontcg.io/sv9/161_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Illustration Rare",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-162",
+      "card_number": "162",
+      "image_url": "https://images.pokemontcg.io/sv9/162_hires.png",
+      "national_dex_number": 321,
+      "rarity": "Illustration Rare",
+      "species_name": "wailord",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-163",
+      "card_number": "163",
+      "image_url": "https://images.pokemontcg.io/sv9/163_hires.png",
+      "national_dex_number": 941,
+      "rarity": "Illustration Rare",
+      "species_name": "kilowattrel",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-164",
+      "card_number": "164",
+      "image_url": "https://images.pokemontcg.io/sv9/164_hires.png",
+      "national_dex_number": 743,
+      "rarity": "Illustration Rare",
+      "species_name": "ribombee",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-165",
+      "card_number": "165",
+      "image_url": "https://images.pokemontcg.io/sv9/165_hires.png",
+      "national_dex_number": 220,
+      "rarity": "Illustration Rare",
+      "species_name": "swinub",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-166",
+      "card_number": "166",
+      "image_url": "https://images.pokemontcg.io/sv9/166_hires.png",
+      "national_dex_number": 745,
+      "rarity": "Illustration Rare",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-167",
+      "card_number": "167",
+      "image_url": "https://images.pokemontcg.io/sv9/167_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Illustration Rare",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-168",
+      "card_number": "168",
+      "image_url": "https://images.pokemontcg.io/sv9/168_hires.png",
+      "national_dex_number": 162,
+      "rarity": "Illustration Rare",
+      "species_name": "furret",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-169",
+      "card_number": "169",
+      "image_url": "https://images.pokemontcg.io/sv9/169_hires.png",
+      "national_dex_number": 714,
+      "rarity": "Illustration Rare",
+      "species_name": "noibat",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-170",
+      "card_number": "170",
+      "image_url": "https://images.pokemontcg.io/sv9/170_hires.png",
+      "national_dex_number": 831,
+      "rarity": "Illustration Rare",
+      "species_name": "wooloo",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-171",
+      "card_number": "171",
+      "image_url": "https://images.pokemontcg.io/sv9/171_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Ultra Rare",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-172",
+      "card_number": "172",
+      "image_url": "https://images.pokemontcg.io/sv9/172_hires.png",
+      "national_dex_number": 939,
+      "rarity": "Ultra Rare",
+      "species_name": "bellibolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-173",
+      "card_number": "173",
+      "image_url": "https://images.pokemontcg.io/sv9/173_hires.png",
+      "national_dex_number": 35,
+      "rarity": "Ultra Rare",
+      "species_name": "clefairy",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-174",
+      "card_number": "174",
+      "image_url": "https://images.pokemontcg.io/sv9/174_hires.png",
+      "national_dex_number": 473,
+      "rarity": "Ultra Rare",
+      "species_name": "mamoswine",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-175",
+      "card_number": "175",
+      "image_url": "https://images.pokemontcg.io/sv9/175_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Ultra Rare",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-176",
+      "card_number": "176",
+      "image_url": "https://images.pokemontcg.io/sv9/176_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Ultra Rare",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-177",
+      "card_number": "177",
+      "image_url": "https://images.pokemontcg.io/sv9/177_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Ultra Rare",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-178",
+      "card_number": "178",
+      "image_url": "https://images.pokemontcg.io/sv9/178_hires.png",
+      "national_dex_number": 982,
+      "rarity": "Ultra Rare",
+      "species_name": "dudunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-179",
+      "card_number": "179",
+      "image_url": "https://images.pokemontcg.io/sv9/179_hires.png",
+      "national_dex_number": null,
+      "rarity": "Ultra Rare",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-180",
+      "card_number": "180",
+      "image_url": "https://images.pokemontcg.io/sv9/180_hires.png",
+      "national_dex_number": null,
+      "rarity": "Ultra Rare",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-181",
+      "card_number": "181",
+      "image_url": "https://images.pokemontcg.io/sv9/181_hires.png",
+      "national_dex_number": null,
+      "rarity": "Ultra Rare",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-182",
+      "card_number": "182",
+      "image_url": "https://images.pokemontcg.io/sv9/182_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Special Illustration Rare",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-183",
+      "card_number": "183",
+      "image_url": "https://images.pokemontcg.io/sv9/183_hires.png",
+      "national_dex_number": 939,
+      "rarity": "Special Illustration Rare",
+      "species_name": "bellibolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-184",
+      "card_number": "184",
+      "image_url": "https://images.pokemontcg.io/sv9/184_hires.png",
+      "national_dex_number": 35,
+      "rarity": "Special Illustration Rare",
+      "species_name": "clefairy",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-185",
+      "card_number": "185",
+      "image_url": "https://images.pokemontcg.io/sv9/185_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Special Illustration Rare",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-186",
+      "card_number": "186",
+      "image_url": "https://images.pokemontcg.io/sv9/186_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Special Illustration Rare",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-187",
+      "card_number": "187",
+      "image_url": "https://images.pokemontcg.io/sv9/187_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Special Illustration Rare",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-188",
+      "card_number": "188",
+      "image_url": "https://images.pokemontcg.io/sv9/188_hires.png",
+      "national_dex_number": 939,
+      "rarity": "Hyper Rare",
+      "species_name": "bellibolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-189",
+      "card_number": "189",
+      "image_url": "https://images.pokemontcg.io/sv9/189_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Hyper Rare",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "sv9-190",
+      "card_number": "190",
+      "image_url": "https://images.pokemontcg.io/sv9/190_hires.png",
+      "national_dex_number": null,
+      "rarity": "Hyper Rare",
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "sv9",
+    "name": "Journey Together",
+    "release_date": "2025-03-28",
+    "series": "Scarlet & Violet"
+  }
+}

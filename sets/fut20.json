@@ -1,0 +1,56 @@
+{
+  "card_count": 5,
+  "cards": [
+    {
+      "api_card_id": "fut20-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/fut20/1_hires.png",
+      "national_dex_number": 25,
+      "rarity": null,
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "fut20-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/fut20/2_hires.png",
+      "national_dex_number": 133,
+      "rarity": null,
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "fut20-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/fut20/3_hires.png",
+      "national_dex_number": 810,
+      "rarity": null,
+      "species_name": "grookey",
+      "variant": null
+    },
+    {
+      "api_card_id": "fut20-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/fut20/4_hires.png",
+      "national_dex_number": 813,
+      "rarity": null,
+      "species_name": "scorbunny",
+      "variant": null
+    },
+    {
+      "api_card_id": "fut20-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/fut20/5_hires.png",
+      "national_dex_number": 816,
+      "rarity": null,
+      "species_name": "sobble",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "fut20",
+    "name": "Pokémon Futsal Collection",
+    "release_date": "2020-09-11",
+    "series": "Other"
+  }
+}

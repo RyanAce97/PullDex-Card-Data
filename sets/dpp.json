@@ -1,0 +1,515 @@
+{
+  "card_count": 56,
+  "cards": [
+    {
+      "api_card_id": "dpp-DP01",
+      "card_number": "DP01",
+      "image_url": "https://images.pokemontcg.io/dpp/DP01_hires.png",
+      "national_dex_number": 387,
+      "rarity": "Promo",
+      "species_name": "turtwig",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP02",
+      "card_number": "DP02",
+      "image_url": "https://images.pokemontcg.io/dpp/DP02_hires.png",
+      "national_dex_number": 390,
+      "rarity": "Promo",
+      "species_name": "chimchar",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP03",
+      "card_number": "DP03",
+      "image_url": "https://images.pokemontcg.io/dpp/DP03_hires.png",
+      "national_dex_number": 393,
+      "rarity": "Promo",
+      "species_name": "piplup",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP04",
+      "card_number": "DP04",
+      "image_url": "https://images.pokemontcg.io/dpp/DP04_hires.png",
+      "national_dex_number": 417,
+      "rarity": "Promo",
+      "species_name": "pachirisu",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP05",
+      "card_number": "DP05",
+      "image_url": "https://images.pokemontcg.io/dpp/DP05_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP06",
+      "card_number": "DP06",
+      "image_url": "https://images.pokemontcg.io/dpp/DP06_hires.png",
+      "national_dex_number": 427,
+      "rarity": "Promo",
+      "species_name": "buneary",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP07",
+      "card_number": "DP07",
+      "image_url": "https://images.pokemontcg.io/dpp/DP07_hires.png",
+      "national_dex_number": 408,
+      "rarity": "Promo",
+      "species_name": "cranidos",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP08",
+      "card_number": "DP08",
+      "image_url": "https://images.pokemontcg.io/dpp/DP08_hires.png",
+      "national_dex_number": 410,
+      "rarity": "Promo",
+      "species_name": "shieldon",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP09",
+      "card_number": "DP09",
+      "image_url": "https://images.pokemontcg.io/dpp/DP09_hires.png",
+      "national_dex_number": 389,
+      "rarity": "Promo",
+      "species_name": "torterra",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP10",
+      "card_number": "DP10",
+      "image_url": "https://images.pokemontcg.io/dpp/DP10_hires.png",
+      "national_dex_number": 392,
+      "rarity": "Promo",
+      "species_name": "infernape",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP11",
+      "card_number": "DP11",
+      "image_url": "https://images.pokemontcg.io/dpp/DP11_hires.png",
+      "national_dex_number": 395,
+      "rarity": "Promo",
+      "species_name": "empoleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP12",
+      "card_number": "DP12",
+      "image_url": "https://images.pokemontcg.io/dpp/DP12_hires.png",
+      "national_dex_number": 448,
+      "rarity": "Promo",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP13",
+      "card_number": "DP13",
+      "image_url": "https://images.pokemontcg.io/dpp/DP13_hires.png",
+      "national_dex_number": 418,
+      "rarity": "Promo",
+      "species_name": "buizel",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP14",
+      "card_number": "DP14",
+      "image_url": "https://images.pokemontcg.io/dpp/DP14_hires.png",
+      "national_dex_number": 441,
+      "rarity": "Promo",
+      "species_name": "chatot",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP15",
+      "card_number": "DP15",
+      "image_url": "https://images.pokemontcg.io/dpp/DP15_hires.png",
+      "national_dex_number": 403,
+      "rarity": "Promo",
+      "species_name": "shinx",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP16",
+      "card_number": "DP16",
+      "image_url": "https://images.pokemontcg.io/dpp/DP16_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP17",
+      "card_number": "DP17",
+      "image_url": "https://images.pokemontcg.io/dpp/DP17_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Promo",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP18",
+      "card_number": "DP18",
+      "image_url": "https://images.pokemontcg.io/dpp/DP18_hires.png",
+      "national_dex_number": 484,
+      "rarity": "Promo",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP19",
+      "card_number": "DP19",
+      "image_url": "https://images.pokemontcg.io/dpp/DP19_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP20",
+      "card_number": "DP20",
+      "image_url": "https://images.pokemontcg.io/dpp/DP20_hires.png",
+      "national_dex_number": 467,
+      "rarity": "Promo",
+      "species_name": "magmortar",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP21",
+      "card_number": "DP21",
+      "image_url": "https://images.pokemontcg.io/dpp/DP21_hires.png",
+      "national_dex_number": 26,
+      "rarity": "Promo",
+      "species_name": "raichu",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP22",
+      "card_number": "DP22",
+      "image_url": "https://images.pokemontcg.io/dpp/DP22_hires.png",
+      "national_dex_number": 439,
+      "rarity": "Promo",
+      "species_name": "mime-jr",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP23",
+      "card_number": "DP23",
+      "image_url": "https://images.pokemontcg.io/dpp/DP23_hires.png",
+      "national_dex_number": 431,
+      "rarity": "Promo",
+      "species_name": "glameow",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP24",
+      "card_number": "DP24",
+      "image_url": "https://images.pokemontcg.io/dpp/DP24_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP25",
+      "card_number": "DP25",
+      "image_url": "https://images.pokemontcg.io/dpp/DP25_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP26",
+      "card_number": "DP26",
+      "image_url": "https://images.pokemontcg.io/dpp/DP26_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Promo",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP27",
+      "card_number": "DP27",
+      "image_url": "https://images.pokemontcg.io/dpp/DP27_hires.png",
+      "national_dex_number": 484,
+      "rarity": "Promo",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP28",
+      "card_number": "DP28",
+      "image_url": "https://images.pokemontcg.io/dpp/DP28_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP29",
+      "card_number": "DP29",
+      "image_url": "https://images.pokemontcg.io/dpp/DP29_hires.png",
+      "national_dex_number": 464,
+      "rarity": "Promo",
+      "species_name": "rhyperior",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP30",
+      "card_number": "DP30",
+      "image_url": "https://images.pokemontcg.io/dpp/DP30_hires.png",
+      "national_dex_number": 486,
+      "rarity": "Promo",
+      "species_name": "regigigas",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP31",
+      "card_number": "DP31",
+      "image_url": "https://images.pokemontcg.io/dpp/DP31_hires.png",
+      "national_dex_number": 485,
+      "rarity": "Promo",
+      "species_name": "heatran",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP32",
+      "card_number": "DP32",
+      "image_url": "https://images.pokemontcg.io/dpp/DP32_hires.png",
+      "national_dex_number": 462,
+      "rarity": "Promo",
+      "species_name": "magnezone",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP33",
+      "card_number": "DP33",
+      "image_url": "https://images.pokemontcg.io/dpp/DP33_hires.png",
+      "national_dex_number": 477,
+      "rarity": "Promo",
+      "species_name": "dusknoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP34",
+      "card_number": "DP34",
+      "image_url": "https://images.pokemontcg.io/dpp/DP34_hires.png",
+      "national_dex_number": 426,
+      "rarity": "Promo",
+      "species_name": "drifblim",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP35",
+      "card_number": "DP35",
+      "image_url": "https://images.pokemontcg.io/dpp/DP35_hires.png",
+      "national_dex_number": 474,
+      "rarity": "Promo",
+      "species_name": "porygon-z",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP36",
+      "card_number": "DP36",
+      "image_url": "https://images.pokemontcg.io/dpp/DP36_hires.png",
+      "national_dex_number": 472,
+      "rarity": "Promo",
+      "species_name": "gliscor",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP37",
+      "card_number": "DP37",
+      "image_url": "https://images.pokemontcg.io/dpp/DP37_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Promo",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP38",
+      "card_number": "DP38",
+      "image_url": "https://images.pokemontcg.io/dpp/DP38_hires.png",
+      "national_dex_number": 487,
+      "rarity": "Promo",
+      "species_name": "giratina",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP39",
+      "card_number": "DP39",
+      "image_url": "https://images.pokemontcg.io/dpp/DP39_hires.png",
+      "national_dex_number": 492,
+      "rarity": "Promo",
+      "species_name": "shaymin",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP40",
+      "card_number": "DP40",
+      "image_url": "https://images.pokemontcg.io/dpp/DP40_hires.png",
+      "national_dex_number": 486,
+      "rarity": "Promo",
+      "species_name": "regigigas",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP41",
+      "card_number": "DP41",
+      "image_url": "https://images.pokemontcg.io/dpp/DP41_hires.png",
+      "national_dex_number": 454,
+      "rarity": "Promo",
+      "species_name": "toxicroak",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP42",
+      "card_number": "DP42",
+      "image_url": "https://images.pokemontcg.io/dpp/DP42_hires.png",
+      "national_dex_number": 455,
+      "rarity": "Promo",
+      "species_name": "carnivine",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP43",
+      "card_number": "DP43",
+      "image_url": "https://images.pokemontcg.io/dpp/DP43_hires.png",
+      "national_dex_number": 476,
+      "rarity": "Promo",
+      "species_name": "probopass",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP44",
+      "card_number": "DP44",
+      "image_url": "https://images.pokemontcg.io/dpp/DP44_hires.png",
+      "national_dex_number": 462,
+      "rarity": "Promo",
+      "species_name": "magnezone",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP45",
+      "card_number": "DP45",
+      "image_url": "https://images.pokemontcg.io/dpp/DP45_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP46",
+      "card_number": "DP46",
+      "image_url": "https://images.pokemontcg.io/dpp/DP46_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Promo",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP47",
+      "card_number": "DP47",
+      "image_url": "https://images.pokemontcg.io/dpp/DP47_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP48",
+      "card_number": "DP48",
+      "image_url": "https://images.pokemontcg.io/dpp/DP48_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP49",
+      "card_number": "DP49",
+      "image_url": "https://images.pokemontcg.io/dpp/DP49_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Promo",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP50",
+      "card_number": "DP50",
+      "image_url": "https://images.pokemontcg.io/dpp/DP50_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP51",
+      "card_number": "DP51",
+      "image_url": "https://images.pokemontcg.io/dpp/DP51_hires.png",
+      "national_dex_number": 488,
+      "rarity": "Promo",
+      "species_name": "cresselia",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP52",
+      "card_number": "DP52",
+      "image_url": "https://images.pokemontcg.io/dpp/DP52_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP53",
+      "card_number": "DP53",
+      "image_url": "https://images.pokemontcg.io/dpp/DP53_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP54",
+      "card_number": "DP54",
+      "image_url": "https://images.pokemontcg.io/dpp/DP54_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP55",
+      "card_number": "DP55",
+      "image_url": "https://images.pokemontcg.io/dpp/DP55_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "dpp-DP56",
+      "card_number": "DP56",
+      "image_url": "https://images.pokemontcg.io/dpp/DP56_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "dpp",
+    "name": "DP Black Star Promos",
+    "release_date": "2007-05-01",
+    "series": "Diamond & Pearl"
+  }
+}

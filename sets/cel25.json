@@ -1,0 +1,236 @@
+{
+  "card_count": 25,
+  "cards": [
+    {
+      "api_card_id": "cel25-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/cel25/1_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Rare",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/cel25/2_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Rare",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/cel25/3_hires.png",
+      "national_dex_number": 382,
+      "rarity": "Rare",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/cel25/4_hires.png",
+      "national_dex_number": 484,
+      "rarity": "Rare",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/cel25/5_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/cel25/6_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo V",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/cel25/7_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/cel25/8_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo V",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/cel25/9_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/cel25/10_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Rare",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/cel25/11_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Rare Holo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/cel25/12_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Rare",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/cel25/13_hires.png",
+      "national_dex_number": 789,
+      "rarity": "Rare",
+      "species_name": "cosmog",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/cel25/14_hires.png",
+      "national_dex_number": 790,
+      "rarity": "Rare",
+      "species_name": "cosmoem",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/cel25/15_hires.png",
+      "national_dex_number": 792,
+      "rarity": "Rare Holo",
+      "species_name": "lunala",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/cel25/16_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Rare Holo V",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/cel25/17_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Rare",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/cel25/18_hires.png",
+      "national_dex_number": 889,
+      "rarity": "Rare Holo V",
+      "species_name": "zamazenta",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/cel25/19_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Rare",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/cel25/20_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Rare",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/cel25/21_hires.png",
+      "national_dex_number": 791,
+      "rarity": "Rare Holo",
+      "species_name": "solgaleo",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/cel25/22_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Rare",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/cel25/23_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Holo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/cel25/24_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/cel25/25_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Rare Holo",
+      "species_name": "mew",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "cel25",
+    "name": "Celebrations",
+    "release_date": "2021-10-08",
+    "series": "Sword & Shield"
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "card_count": 94,
+  "cards": [
+    {
+      "api_card_id": "sma-SV1",
+      "card_number": "SV1",
+      "image_url": "https://images.pokemontcg.io/sma/SV1_hires.png",
+      "national_dex_number": 123,
+      "rarity": "Rare Shiny",
+      "species_name": "scyther",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV10",
+      "card_number": "SV10",
+      "image_url": "https://images.pokemontcg.io/sma/SV10_hires.png",
+      "national_dex_number": 195,
+      "rarity": "Rare Shiny",
+      "species_name": "quagsire",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV11",
+      "card_number": "SV11",
+      "image_url": "https://images.pokemontcg.io/sma/SV11_hires.png",
+      "national_dex_number": 656,
+      "rarity": "Rare Shiny",
+      "species_name": "froakie",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV12",
+      "card_number": "SV12",
+      "image_url": "https://images.pokemontcg.io/sma/SV12_hires.png",
+      "national_dex_number": 657,
+      "rarity": "Rare Shiny",
+      "species_name": "frogadier",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV13",
+      "card_number": "SV13",
+      "image_url": "https://images.pokemontcg.io/sma/SV13_hires.png",
+      "national_dex_number": 100,
+      "rarity": "Rare Shiny",
+      "species_name": "voltorb",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV14",
+      "card_number": "SV14",
+      "image_url": "https://images.pokemontcg.io/sma/SV14_hires.png",
+      "national_dex_number": 796,
+      "rarity": "Rare Shiny",
+      "species_name": "xurkitree",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV15",
+      "card_number": "SV15",
+      "image_url": "https://images.pokemontcg.io/sma/SV15_hires.png",
+      "national_dex_number": 336,
+      "rarity": "Rare Shiny",
+      "species_name": "seviper",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV16",
+      "card_number": "SV16",
+      "image_url": "https://images.pokemontcg.io/sma/SV16_hires.png",
+      "national_dex_number": 353,
+      "rarity": "Rare Shiny",
+      "species_name": "shuppet",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV17",
+      "card_number": "SV17",
+      "image_url": "https://images.pokemontcg.io/sma/SV17_hires.png",
+      "national_dex_number": 686,
+      "rarity": "Rare Shiny",
+      "species_name": "inkay",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV18",
+      "card_number": "SV18",
+      "image_url": "https://images.pokemontcg.io/sma/SV18_hires.png",
+      "national_dex_number": 687,
+      "rarity": "Rare Shiny",
+      "species_name": "malamar",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV19",
+      "card_number": "SV19",
+      "image_url": "https://images.pokemontcg.io/sma/SV19_hires.png",
+      "national_dex_number": 803,
+      "rarity": "Rare Shiny",
+      "species_name": "poipole",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV2",
+      "card_number": "SV2",
+      "image_url": "https://images.pokemontcg.io/sma/SV2_hires.png",
+      "national_dex_number": 722,
+      "rarity": "Rare Shiny",
+      "species_name": "rowlet",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV20",
+      "card_number": "SV20",
+      "image_url": "https://images.pokemontcg.io/sma/SV20_hires.png",
+      "national_dex_number": 185,
+      "rarity": "Rare Shiny",
+      "species_name": "sudowoodo",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV21",
+      "card_number": "SV21",
+      "image_url": "https://images.pokemontcg.io/sma/SV21_hires.png",
+      "national_dex_number": 447,
+      "rarity": "Rare Shiny",
+      "species_name": "riolu",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV22",
+      "card_number": "SV22",
+      "image_url": "https://images.pokemontcg.io/sma/SV22_hires.png",
+      "national_dex_number": 448,
+      "rarity": "Rare Shiny",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV23",
+      "card_number": "SV23",
+      "image_url": "https://images.pokemontcg.io/sma/SV23_hires.png",
+      "national_dex_number": 744,
+      "rarity": "Rare Shiny",
+      "species_name": "rockruff",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV24",
+      "card_number": "SV24",
+      "image_url": "https://images.pokemontcg.io/sma/SV24_hires.png",
+      "national_dex_number": 794,
+      "rarity": "Rare Shiny",
+      "species_name": "buzzwole",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV25",
+      "card_number": "SV25",
+      "image_url": "https://images.pokemontcg.io/sma/SV25_hires.png",
+      "national_dex_number": 570,
+      "rarity": "Rare Shiny",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV26",
+      "card_number": "SV26",
+      "image_url": "https://images.pokemontcg.io/sma/SV26_hires.png",
+      "national_dex_number": 799,
+      "rarity": "Rare Shiny",
+      "species_name": "guzzlord",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV27",
+      "card_number": "SV27",
+      "image_url": "https://images.pokemontcg.io/sma/SV27_hires.png",
+      "national_dex_number": 81,
+      "rarity": "Rare Shiny",
+      "species_name": "magnemite",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV28",
+      "card_number": "SV28",
+      "image_url": "https://images.pokemontcg.io/sma/SV28_hires.png",
+      "national_dex_number": 82,
+      "rarity": "Rare Shiny",
+      "species_name": "magneton",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV29",
+      "card_number": "SV29",
+      "image_url": "https://images.pokemontcg.io/sma/SV29_hires.png",
+      "national_dex_number": 462,
+      "rarity": "Rare Shiny",
+      "species_name": "magnezone",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV3",
+      "card_number": "SV3",
+      "image_url": "https://images.pokemontcg.io/sma/SV3_hires.png",
+      "national_dex_number": 723,
+      "rarity": "Rare Shiny",
+      "species_name": "dartrix",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV30",
+      "card_number": "SV30",
+      "image_url": "https://images.pokemontcg.io/sma/SV30_hires.png",
+      "national_dex_number": 374,
+      "rarity": "Rare Shiny",
+      "species_name": "beldum",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV31",
+      "card_number": "SV31",
+      "image_url": "https://images.pokemontcg.io/sma/SV31_hires.png",
+      "national_dex_number": 375,
+      "rarity": "Rare Shiny",
+      "species_name": "metang",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV32",
+      "card_number": "SV32",
+      "image_url": "https://images.pokemontcg.io/sma/SV32_hires.png",
+      "national_dex_number": 797,
+      "rarity": "Rare Shiny",
+      "species_name": "celesteela",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV33",
+      "card_number": "SV33",
+      "image_url": "https://images.pokemontcg.io/sma/SV33_hires.png",
+      "national_dex_number": 798,
+      "rarity": "Rare Shiny",
+      "species_name": "kartana",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV34",
+      "card_number": "SV34",
+      "image_url": "https://images.pokemontcg.io/sma/SV34_hires.png",
+      "national_dex_number": 280,
+      "rarity": "Rare Shiny",
+      "species_name": "ralts",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV35",
+      "card_number": "SV35",
+      "image_url": "https://images.pokemontcg.io/sma/SV35_hires.png",
+      "national_dex_number": 281,
+      "rarity": "Rare Shiny",
+      "species_name": "kirlia",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV36",
+      "card_number": "SV36",
+      "image_url": "https://images.pokemontcg.io/sma/SV36_hires.png",
+      "national_dex_number": 719,
+      "rarity": "Rare Shiny",
+      "species_name": "diancie",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV37",
+      "card_number": "SV37",
+      "image_url": "https://images.pokemontcg.io/sma/SV37_hires.png",
+      "national_dex_number": 334,
+      "rarity": "Rare Shiny",
+      "species_name": "altaria",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV38",
+      "card_number": "SV38",
+      "image_url": "https://images.pokemontcg.io/sma/SV38_hires.png",
+      "national_dex_number": 443,
+      "rarity": "Rare Shiny",
+      "species_name": "gible",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV39",
+      "card_number": "SV39",
+      "image_url": "https://images.pokemontcg.io/sma/SV39_hires.png",
+      "national_dex_number": 444,
+      "rarity": "Rare Shiny",
+      "species_name": "gabite",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV4",
+      "card_number": "SV4",
+      "image_url": "https://images.pokemontcg.io/sma/SV4_hires.png",
+      "national_dex_number": 767,
+      "rarity": "Rare Shiny",
+      "species_name": "wimpod",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV40",
+      "card_number": "SV40",
+      "image_url": "https://images.pokemontcg.io/sma/SV40_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Rare Shiny",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV41",
+      "card_number": "SV41",
+      "image_url": "https://images.pokemontcg.io/sma/SV41_hires.png",
+      "national_dex_number": 133,
+      "rarity": "Rare Shiny",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV42",
+      "card_number": "SV42",
+      "image_url": "https://images.pokemontcg.io/sma/SV42_hires.png",
+      "national_dex_number": 333,
+      "rarity": "Rare Shiny",
+      "species_name": "swablu",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV43",
+      "card_number": "SV43",
+      "image_url": "https://images.pokemontcg.io/sma/SV43_hires.png",
+      "national_dex_number": 714,
+      "rarity": "Rare Shiny",
+      "species_name": "noibat",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV44",
+      "card_number": "SV44",
+      "image_url": "https://images.pokemontcg.io/sma/SV44_hires.png",
+      "national_dex_number": 765,
+      "rarity": "Rare Shiny",
+      "species_name": "oranguru",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV45",
+      "card_number": "SV45",
+      "image_url": "https://images.pokemontcg.io/sma/SV45_hires.png",
+      "national_dex_number": 772,
+      "rarity": "Rare Shiny",
+      "species_name": "type-null",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV46",
+      "card_number": "SV46",
+      "image_url": "https://images.pokemontcg.io/sma/SV46_hires.png",
+      "national_dex_number": 470,
+      "rarity": "Rare Shiny GX",
+      "species_name": "leafeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV47",
+      "card_number": "SV47",
+      "image_url": "https://images.pokemontcg.io/sma/SV47_hires.png",
+      "national_dex_number": 724,
+      "rarity": "Rare Shiny GX",
+      "species_name": "decidueye",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV48",
+      "card_number": "SV48",
+      "image_url": "https://images.pokemontcg.io/sma/SV48_hires.png",
+      "national_dex_number": 768,
+      "rarity": "Rare Shiny GX",
+      "species_name": "golisopod",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV49",
+      "card_number": "SV49",
+      "image_url": "https://images.pokemontcg.io/sma/SV49_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Rare Shiny GX",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV5",
+      "card_number": "SV5",
+      "image_url": "https://images.pokemontcg.io/sma/SV5_hires.png",
+      "national_dex_number": 795,
+      "rarity": "Rare Shiny",
+      "species_name": "pheromosa",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV50",
+      "card_number": "SV50",
+      "image_url": "https://images.pokemontcg.io/sma/SV50_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Rare Shiny GX",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV51",
+      "card_number": "SV51",
+      "image_url": "https://images.pokemontcg.io/sma/SV51_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Rare Shiny GX",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV52",
+      "card_number": "SV52",
+      "image_url": "https://images.pokemontcg.io/sma/SV52_hires.png",
+      "national_dex_number": 776,
+      "rarity": "Rare Shiny GX",
+      "species_name": "turtonator",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV53",
+      "card_number": "SV53",
+      "image_url": "https://images.pokemontcg.io/sma/SV53_hires.png",
+      "national_dex_number": 38,
+      "rarity": "Rare Shiny GX",
+      "species_name": "ninetales",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV54",
+      "card_number": "SV54",
+      "image_url": "https://images.pokemontcg.io/sma/SV54_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Rare Shiny GX",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV55",
+      "card_number": "SV55",
+      "image_url": "https://images.pokemontcg.io/sma/SV55_hires.png",
+      "national_dex_number": 471,
+      "rarity": "Rare Shiny GX",
+      "species_name": "glaceon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV56",
+      "card_number": "SV56",
+      "image_url": "https://images.pokemontcg.io/sma/SV56_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Rare Shiny GX",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV57",
+      "card_number": "SV57",
+      "image_url": "https://images.pokemontcg.io/sma/SV57_hires.png",
+      "national_dex_number": 101,
+      "rarity": "Rare Shiny GX",
+      "species_name": "electrode",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV58",
+      "card_number": "SV58",
+      "image_url": "https://images.pokemontcg.io/sma/SV58_hires.png",
+      "national_dex_number": 796,
+      "rarity": "Rare Shiny GX",
+      "species_name": "xurkitree",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV59",
+      "card_number": "SV59",
+      "image_url": "https://images.pokemontcg.io/sma/SV59_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Rare Shiny GX",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV6",
+      "card_number": "SV6",
+      "image_url": "https://images.pokemontcg.io/sma/SV6_hires.png",
+      "national_dex_number": 4,
+      "rarity": "Rare Shiny",
+      "species_name": "charmander",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV60",
+      "card_number": "SV60",
+      "image_url": "https://images.pokemontcg.io/sma/SV60_hires.png",
+      "national_dex_number": 196,
+      "rarity": "Rare Shiny GX",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV61",
+      "card_number": "SV61",
+      "image_url": "https://images.pokemontcg.io/sma/SV61_hires.png",
+      "national_dex_number": 354,
+      "rarity": "Rare Shiny GX",
+      "species_name": "banette",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV62",
+      "card_number": "SV62",
+      "image_url": "https://images.pokemontcg.io/sma/SV62_hires.png",
+      "national_dex_number": 793,
+      "rarity": "Rare Shiny GX",
+      "species_name": "nihilego",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV63",
+      "card_number": "SV63",
+      "image_url": "https://images.pokemontcg.io/sma/SV63_hires.png",
+      "national_dex_number": 804,
+      "rarity": "Rare Shiny GX",
+      "species_name": "naganadel",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV64",
+      "card_number": "SV64",
+      "image_url": "https://images.pokemontcg.io/sma/SV64_hires.png",
+      "national_dex_number": 448,
+      "rarity": "Rare Shiny GX",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV65",
+      "card_number": "SV65",
+      "image_url": "https://images.pokemontcg.io/sma/SV65_hires.png",
+      "national_dex_number": 718,
+      "rarity": "Rare Shiny GX",
+      "species_name": "zygarde",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV66",
+      "card_number": "SV66",
+      "image_url": "https://images.pokemontcg.io/sma/SV66_hires.png",
+      "national_dex_number": 745,
+      "rarity": "Rare Shiny GX",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV67",
+      "card_number": "SV67",
+      "image_url": "https://images.pokemontcg.io/sma/SV67_hires.png",
+      "national_dex_number": 745,
+      "rarity": "Rare Shiny GX",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV68",
+      "card_number": "SV68",
+      "image_url": "https://images.pokemontcg.io/sma/SV68_hires.png",
+      "national_dex_number": 794,
+      "rarity": "Rare Shiny GX",
+      "species_name": "buzzwole",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV69",
+      "card_number": "SV69",
+      "image_url": "https://images.pokemontcg.io/sma/SV69_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Rare Shiny GX",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV7",
+      "card_number": "SV7",
+      "image_url": "https://images.pokemontcg.io/sma/SV7_hires.png",
+      "national_dex_number": 5,
+      "rarity": "Rare Shiny",
+      "species_name": "charmeleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV70",
+      "card_number": "SV70",
+      "image_url": "https://images.pokemontcg.io/sma/SV70_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Rare Shiny GX",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV71",
+      "card_number": "SV71",
+      "image_url": "https://images.pokemontcg.io/sma/SV71_hires.png",
+      "national_dex_number": 799,
+      "rarity": "Rare Shiny GX",
+      "species_name": "guzzlord",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV72",
+      "card_number": "SV72",
+      "image_url": "https://images.pokemontcg.io/sma/SV72_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Shiny GX",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV73",
+      "card_number": "SV73",
+      "image_url": "https://images.pokemontcg.io/sma/SV73_hires.png",
+      "national_dex_number": 798,
+      "rarity": "Rare Shiny GX",
+      "species_name": "kartana",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV74",
+      "card_number": "SV74",
+      "image_url": "https://images.pokemontcg.io/sma/SV74_hires.png",
+      "national_dex_number": 805,
+      "rarity": "Rare Shiny GX",
+      "species_name": "stakataka",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV75",
+      "card_number": "SV75",
+      "image_url": "https://images.pokemontcg.io/sma/SV75_hires.png",
+      "national_dex_number": 282,
+      "rarity": "Rare Shiny GX",
+      "species_name": "gardevoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV76",
+      "card_number": "SV76",
+      "image_url": "https://images.pokemontcg.io/sma/SV76_hires.png",
+      "national_dex_number": 700,
+      "rarity": "Rare Shiny GX",
+      "species_name": "sylveon",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV77",
+      "card_number": "SV77",
+      "image_url": "https://images.pokemontcg.io/sma/SV77_hires.png",
+      "national_dex_number": 334,
+      "rarity": "Rare Shiny GX",
+      "species_name": "altaria",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV78",
+      "card_number": "SV78",
+      "image_url": "https://images.pokemontcg.io/sma/SV78_hires.png",
+      "national_dex_number": 715,
+      "rarity": "Rare Shiny GX",
+      "species_name": "noivern",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV79",
+      "card_number": "SV79",
+      "image_url": "https://images.pokemontcg.io/sma/SV79_hires.png",
+      "national_dex_number": 773,
+      "rarity": "Rare Shiny GX",
+      "species_name": "silvally",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV8",
+      "card_number": "SV8",
+      "image_url": "https://images.pokemontcg.io/sma/SV8_hires.png",
+      "national_dex_number": 37,
+      "rarity": "Rare Shiny",
+      "species_name": "vulpix",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV80",
+      "card_number": "SV80",
+      "image_url": "https://images.pokemontcg.io/sma/SV80_hires.png",
+      "national_dex_number": 780,
+      "rarity": "Rare Shiny GX",
+      "species_name": "drampa",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV81",
+      "card_number": "SV81",
+      "image_url": "https://images.pokemontcg.io/sma/SV81_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV82",
+      "card_number": "SV82",
+      "image_url": "https://images.pokemontcg.io/sma/SV82_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV83",
+      "card_number": "SV83",
+      "image_url": "https://images.pokemontcg.io/sma/SV83_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV84",
+      "card_number": "SV84",
+      "image_url": "https://images.pokemontcg.io/sma/SV84_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV85",
+      "card_number": "SV85",
+      "image_url": "https://images.pokemontcg.io/sma/SV85_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV86",
+      "card_number": "SV86",
+      "image_url": "https://images.pokemontcg.io/sma/SV86_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV87",
+      "card_number": "SV87",
+      "image_url": "https://images.pokemontcg.io/sma/SV87_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV88",
+      "card_number": "SV88",
+      "image_url": "https://images.pokemontcg.io/sma/SV88_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV89",
+      "card_number": "SV89",
+      "image_url": "https://images.pokemontcg.io/sma/SV89_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV9",
+      "card_number": "SV9",
+      "image_url": "https://images.pokemontcg.io/sma/SV9_hires.png",
+      "national_dex_number": 194,
+      "rarity": "Rare Shiny",
+      "species_name": "wooper",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV90",
+      "card_number": "SV90",
+      "image_url": "https://images.pokemontcg.io/sma/SV90_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV91",
+      "card_number": "SV91",
+      "image_url": "https://images.pokemontcg.io/sma/SV91_hires.png",
+      "national_dex_number": 787,
+      "rarity": "Rare Secret",
+      "species_name": "tapu-bulu",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV92",
+      "card_number": "SV92",
+      "image_url": "https://images.pokemontcg.io/sma/SV92_hires.png",
+      "national_dex_number": 788,
+      "rarity": "Rare Secret",
+      "species_name": "tapu-fini",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV93",
+      "card_number": "SV93",
+      "image_url": "https://images.pokemontcg.io/sma/SV93_hires.png",
+      "national_dex_number": 785,
+      "rarity": "Rare Secret",
+      "species_name": "tapu-koko",
+      "variant": null
+    },
+    {
+      "api_card_id": "sma-SV94",
+      "card_number": "SV94",
+      "image_url": "https://images.pokemontcg.io/sma/SV94_hires.png",
+      "national_dex_number": 786,
+      "rarity": "Rare Secret",
+      "species_name": "tapu-lele",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "sma",
+    "name": "Hidden Fates Shiny Vault",
+    "release_date": "2019-08-23",
+    "series": "Sun & Moon"
+  }
+}

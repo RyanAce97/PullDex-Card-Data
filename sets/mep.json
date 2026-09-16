@@ -1,0 +1,803 @@
+{
+  "card_count": 88,
+  "cards": [
+    {
+      "api_card_id": "mep-1",
+      "card_number": "1",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/001/high.webp",
+      "national_dex_number": 154,
+      "rarity": "Promo",
+      "species_name": "meganium",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-2",
+      "card_number": "2",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/002/high.webp",
+      "national_dex_number": 818,
+      "rarity": "Promo",
+      "species_name": "inteleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-3",
+      "card_number": "3",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/003/high.webp",
+      "national_dex_number": 65,
+      "rarity": "Promo",
+      "species_name": "alakazam",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-4",
+      "card_number": "4",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/004/high.webp",
+      "national_dex_number": 337,
+      "rarity": "Promo",
+      "species_name": "lunatone",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-5",
+      "card_number": "5",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/005/high.webp",
+      "national_dex_number": 425,
+      "rarity": "Promo",
+      "species_name": "drifloon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-6",
+      "card_number": "6",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/006/high.webp",
+      "national_dex_number": 426,
+      "rarity": "Promo",
+      "species_name": "drifblim",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-7",
+      "card_number": "7",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/007/high.webp",
+      "national_dex_number": 54,
+      "rarity": "Promo",
+      "species_name": "psyduck",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-8",
+      "card_number": "8",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/008/high.webp",
+      "national_dex_number": 55,
+      "rarity": "Promo",
+      "species_name": "golduck",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-9",
+      "card_number": "9",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/009/high.webp",
+      "national_dex_number": 65,
+      "rarity": "Promo",
+      "species_name": "alakazam",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-10",
+      "card_number": "10",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/010/high.webp",
+      "national_dex_number": 447,
+      "rarity": "Promo",
+      "species_name": "riolu",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-11",
+      "card_number": "11",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/011/high.webp",
+      "national_dex_number": 380,
+      "rarity": "Promo",
+      "species_name": "latias",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-12",
+      "card_number": "12",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/012/high.webp",
+      "national_dex_number": 448,
+      "rarity": "Promo",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-13",
+      "card_number": "13",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/013/high.webp",
+      "national_dex_number": 3,
+      "rarity": "Promo",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-14",
+      "card_number": "14",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/014/high.webp",
+      "national_dex_number": 937,
+      "rarity": "Promo",
+      "species_name": "ceruledge",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-15",
+      "card_number": "15",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/015/high.webp",
+      "national_dex_number": 888,
+      "rarity": "Promo",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-16",
+      "card_number": "16",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/016/high.webp",
+      "national_dex_number": 330,
+      "rarity": "Promo",
+      "species_name": "flygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-17",
+      "card_number": "17",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/017/high.webp",
+      "national_dex_number": 849,
+      "rarity": "Promo",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-18",
+      "card_number": "18",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/018/high.webp",
+      "national_dex_number": 546,
+      "rarity": "Promo",
+      "species_name": "cottonee",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-19",
+      "card_number": "19",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/019/high.webp",
+      "national_dex_number": 547,
+      "rarity": "Promo",
+      "species_name": "whimsicott",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-20",
+      "card_number": "20",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/020/high.webp",
+      "national_dex_number": 215,
+      "rarity": "Promo",
+      "species_name": "sneasel",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-21",
+      "card_number": "21",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/021/high.webp",
+      "national_dex_number": 461,
+      "rarity": "Promo",
+      "species_name": "weavile",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-22",
+      "card_number": "22",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/022/high.webp",
+      "national_dex_number": 935,
+      "rarity": "Promo",
+      "species_name": "charcadet",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-23",
+      "card_number": "23",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/023/high.webp",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-24",
+      "card_number": "24",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/024/high.webp",
+      "national_dex_number": 741,
+      "rarity": "Promo",
+      "species_name": "oricorio",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-25",
+      "card_number": "25",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/025/high.webp",
+      "national_dex_number": 115,
+      "rarity": "Promo",
+      "species_name": "kangaskhan",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-26",
+      "card_number": "26",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/026/high.webp",
+      "national_dex_number": 648,
+      "rarity": "Promo",
+      "species_name": "meloetta",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-27",
+      "card_number": "27",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/027/high.webp",
+      "national_dex_number": 93,
+      "rarity": "Promo",
+      "species_name": "haunter",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-28",
+      "card_number": "28",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/028/high.webp",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-29",
+      "card_number": "29",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/029/high.webp",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-30",
+      "card_number": "30",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/030/high.webp",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-31",
+      "card_number": "31",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/031/high.webp",
+      "national_dex_number": 644,
+      "rarity": "Promo",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-32",
+      "card_number": "32",
+      "image_url": "https://images.scrydex.com/pokemon/mep-32/large",
+      "national_dex_number": 282,
+      "rarity": "Promo",
+      "species_name": "gardevoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-33",
+      "card_number": "33",
+      "image_url": "https://images.scrydex.com/pokemon/mep-33/large",
+      "national_dex_number": 448,
+      "rarity": "Promo",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-34",
+      "card_number": "34",
+      "image_url": "https://images.scrydex.com/pokemon/mep-34/large",
+      "national_dex_number": 154,
+      "rarity": "Promo",
+      "species_name": "meganium",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-35",
+      "card_number": "35",
+      "image_url": "https://images.scrydex.com/pokemon/mep-35/large",
+      "national_dex_number": 500,
+      "rarity": "Promo",
+      "species_name": "emboar",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-36",
+      "card_number": "36",
+      "image_url": "https://images.scrydex.com/pokemon/mep-36/large",
+      "national_dex_number": 160,
+      "rarity": "Promo",
+      "species_name": "feraligatr",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-37",
+      "card_number": "37",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/037/high.webp",
+      "national_dex_number": 1,
+      "rarity": "Promo",
+      "species_name": "bulbasaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-38",
+      "card_number": "38",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/038/high.webp",
+      "national_dex_number": 4,
+      "rarity": "Promo",
+      "species_name": "charmander",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-39",
+      "card_number": "39",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/039/high.webp",
+      "national_dex_number": 7,
+      "rarity": "Promo",
+      "species_name": "squirtle",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-40",
+      "card_number": "40",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/040/high.webp",
+      "national_dex_number": 387,
+      "rarity": "Promo",
+      "species_name": "turtwig",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-41",
+      "card_number": "41",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/041/high.webp",
+      "national_dex_number": 390,
+      "rarity": "Promo",
+      "species_name": "chimchar",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-42",
+      "card_number": "42",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/042/high.webp",
+      "national_dex_number": 393,
+      "rarity": "Promo",
+      "species_name": "piplup",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-43",
+      "card_number": "43",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/043/high.webp",
+      "national_dex_number": 722,
+      "rarity": "Promo",
+      "species_name": "rowlet",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-44",
+      "card_number": "44",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/044/high.webp",
+      "national_dex_number": 725,
+      "rarity": "Promo",
+      "species_name": "litten",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-45",
+      "card_number": "45",
+      "image_url": "https://assets.tcgdex.net/en/me/mep/045/high.webp",
+      "national_dex_number": 728,
+      "rarity": "Promo",
+      "species_name": "popplio",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-46",
+      "card_number": "46",
+      "image_url": "https://images.scrydex.com/pokemon/mep-46/large",
+      "national_dex_number": 152,
+      "rarity": "Promo",
+      "species_name": "chikorita",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-47",
+      "card_number": "47",
+      "image_url": "https://images.scrydex.com/pokemon/mep-47/large",
+      "national_dex_number": 155,
+      "rarity": "Promo",
+      "species_name": "cyndaquil",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-48",
+      "card_number": "48",
+      "image_url": "https://images.scrydex.com/pokemon/mep-48/large",
+      "national_dex_number": 158,
+      "rarity": "Promo",
+      "species_name": "totodile",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-49",
+      "card_number": "49",
+      "image_url": "https://images.scrydex.com/pokemon/mep-49/large",
+      "national_dex_number": 495,
+      "rarity": "Promo",
+      "species_name": "snivy",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-50",
+      "card_number": "50",
+      "image_url": "https://images.scrydex.com/pokemon/mep-50/large",
+      "national_dex_number": 498,
+      "rarity": "Promo",
+      "species_name": "tepig",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-51",
+      "card_number": "51",
+      "image_url": "https://images.scrydex.com/pokemon/mep-51/large",
+      "national_dex_number": 501,
+      "rarity": "Promo",
+      "species_name": "oshawott",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-52",
+      "card_number": "52",
+      "image_url": "https://images.scrydex.com/pokemon/mep-52/large",
+      "national_dex_number": 810,
+      "rarity": "Promo",
+      "species_name": "grookey",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-53",
+      "card_number": "53",
+      "image_url": "https://images.scrydex.com/pokemon/mep-53/large",
+      "national_dex_number": 813,
+      "rarity": "Promo",
+      "species_name": "scorbunny",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-54",
+      "card_number": "54",
+      "image_url": "https://images.scrydex.com/pokemon/mep-54/large",
+      "national_dex_number": 816,
+      "rarity": "Promo",
+      "species_name": "sobble",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-55",
+      "card_number": "55",
+      "image_url": "https://images.scrydex.com/pokemon/mep-55/large",
+      "national_dex_number": 252,
+      "rarity": "Promo",
+      "species_name": "treecko",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-56",
+      "card_number": "56",
+      "image_url": "https://images.scrydex.com/pokemon/mep-56/large",
+      "national_dex_number": 255,
+      "rarity": "Promo",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-57",
+      "card_number": "57",
+      "image_url": "https://images.scrydex.com/pokemon/mep-57/large",
+      "national_dex_number": 258,
+      "rarity": "Promo",
+      "species_name": "mudkip",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-58",
+      "card_number": "58",
+      "image_url": "https://images.scrydex.com/pokemon/mep-58/large",
+      "national_dex_number": 650,
+      "rarity": "Promo",
+      "species_name": "chespin",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-59",
+      "card_number": "59",
+      "image_url": "https://images.scrydex.com/pokemon/mep-59/large",
+      "national_dex_number": 653,
+      "rarity": "Promo",
+      "species_name": "fennekin",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-60",
+      "card_number": "60",
+      "image_url": "https://images.scrydex.com/pokemon/mep-60/large",
+      "national_dex_number": 656,
+      "rarity": "Promo",
+      "species_name": "froakie",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-61",
+      "card_number": "61",
+      "image_url": "https://images.scrydex.com/pokemon/mep-61/large",
+      "national_dex_number": 906,
+      "rarity": "Promo",
+      "species_name": "sprigatito",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-62",
+      "card_number": "62",
+      "image_url": "https://images.scrydex.com/pokemon/mep-62/large",
+      "national_dex_number": 909,
+      "rarity": "Promo",
+      "species_name": "fuecoco",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-63",
+      "card_number": "63",
+      "image_url": "https://images.scrydex.com/pokemon/mep-63/large",
+      "national_dex_number": 912,
+      "rarity": "Promo",
+      "species_name": "quaxly",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-64",
+      "card_number": "64",
+      "image_url": "https://images.scrydex.com/pokemon/mep-64/large",
+      "national_dex_number": 497,
+      "rarity": "Promo",
+      "species_name": "serperior",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-65",
+      "card_number": "65",
+      "image_url": "https://images.scrydex.com/pokemon/mep-65/large",
+      "national_dex_number": 689,
+      "rarity": "Promo",
+      "species_name": "barbaracle",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-66",
+      "card_number": "66",
+      "image_url": "https://images.scrydex.com/pokemon/mep-66/large",
+      "national_dex_number": 697,
+      "rarity": "Promo",
+      "species_name": "tyrantrum",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-67",
+      "card_number": "67",
+      "image_url": "https://images.scrydex.com/pokemon/mep-67/large",
+      "national_dex_number": 680,
+      "rarity": "Promo",
+      "species_name": "doublade",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-68",
+      "card_number": "68",
+      "image_url": "https://images.scrydex.com/pokemon/mep-68/large",
+      "national_dex_number": 296,
+      "rarity": "Promo",
+      "species_name": "makuhita",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-69",
+      "card_number": "69",
+      "image_url": "https://images.scrydex.com/pokemon/mep-69/large",
+      "national_dex_number": 152,
+      "rarity": "Promo",
+      "species_name": "chikorita",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-70",
+      "card_number": "70",
+      "image_url": "https://images.scrydex.com/pokemon/mep-70/large",
+      "national_dex_number": 696,
+      "rarity": "Promo",
+      "species_name": "tyrunt",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-71",
+      "card_number": "71",
+      "image_url": "https://images.scrydex.com/pokemon/mep-71/large",
+      "national_dex_number": 718,
+      "rarity": "Promo",
+      "species_name": "zygarde",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-72",
+      "card_number": "72",
+      "image_url": "https://images.scrydex.com/pokemon/mep-72/large",
+      "national_dex_number": 36,
+      "rarity": "Promo",
+      "species_name": "clefable",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-73",
+      "card_number": "73",
+      "image_url": "https://images.scrydex.com/pokemon/mep-73/large",
+      "national_dex_number": 94,
+      "rarity": "Promo",
+      "species_name": "gengar",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-74",
+      "card_number": "74",
+      "image_url": "https://images.scrydex.com/pokemon/mep-74/large",
+      "national_dex_number": 655,
+      "rarity": "Promo",
+      "species_name": "delphox",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-75",
+      "card_number": "75",
+      "image_url": "https://images.scrydex.com/pokemon/mep-75/large",
+      "national_dex_number": 181,
+      "rarity": "Promo",
+      "species_name": "ampharos",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-76",
+      "card_number": "76",
+      "image_url": "https://images.scrydex.com/pokemon/mep-76/large",
+      "national_dex_number": 169,
+      "rarity": "Promo",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-77",
+      "card_number": "77",
+      "image_url": "https://images.scrydex.com/pokemon/mep-77/large",
+      "national_dex_number": 706,
+      "rarity": "Promo",
+      "species_name": "goodra",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-78",
+      "card_number": "78",
+      "image_url": "https://images.scrydex.com/pokemon/mep-78/large",
+      "national_dex_number": 848,
+      "rarity": "Promo",
+      "species_name": "toxel",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-79",
+      "card_number": "79",
+      "image_url": "https://images.scrydex.com/pokemon/mep-79/large",
+      "national_dex_number": 5,
+      "rarity": "Promo",
+      "species_name": "charmeleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-80",
+      "card_number": "80",
+      "image_url": "https://images.scrydex.com/pokemon/mep-80/large",
+      "national_dex_number": 653,
+      "rarity": "Promo",
+      "species_name": "fennekin",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-81",
+      "card_number": "81",
+      "image_url": "https://images.scrydex.com/pokemon/mep-81/large",
+      "national_dex_number": 658,
+      "rarity": "Promo",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-82",
+      "card_number": "82",
+      "image_url": "https://images.scrydex.com/pokemon/mep-82/large",
+      "national_dex_number": 1008,
+      "rarity": "Promo",
+      "species_name": "miraidon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-83",
+      "card_number": "83",
+      "image_url": "https://images.scrydex.com/pokemon/mep-83/large",
+      "national_dex_number": 80,
+      "rarity": "Promo",
+      "species_name": "slowbro",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-84",
+      "card_number": "84",
+      "image_url": "https://images.scrydex.com/pokemon/mep-84/large",
+      "national_dex_number": 781,
+      "rarity": "Promo",
+      "species_name": "dhelmise",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-85",
+      "card_number": "85",
+      "image_url": "https://images.scrydex.com/pokemon/mep-85/large",
+      "national_dex_number": 411,
+      "rarity": "Promo",
+      "species_name": "bastiodon",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-86",
+      "card_number": "86",
+      "image_url": "https://images.scrydex.com/pokemon/mep-86/large",
+      "national_dex_number": 79,
+      "rarity": "Promo",
+      "species_name": "slowpoke",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-87",
+      "card_number": "87",
+      "image_url": "https://images.scrydex.com/pokemon/mep-87/large",
+      "national_dex_number": 688,
+      "rarity": "Promo",
+      "species_name": "binacle",
+      "variant": null
+    },
+    {
+      "api_card_id": "mep-88",
+      "card_number": "88",
+      "image_url": "https://images.scrydex.com/pokemon/mep-88/large",
+      "national_dex_number": 893,
+      "rarity": "Promo",
+      "species_name": "zarude",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "release_date": null,
+    "series": "Mega Evolution"
+  }
+}

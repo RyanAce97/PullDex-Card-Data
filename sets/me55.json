@@ -1,0 +1,1460 @@
+{
+  "card_count": 161,
+  "cards": [
+    {
+      "api_card_id": "me55-1",
+      "card_number": "1",
+      "image_url": "https://images.scrydex.com/pokemon/me55-1/medium",
+      "national_dex_number": 102,
+      "rarity": "Common",
+      "species_name": "exeggcute",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-2",
+      "card_number": "2",
+      "image_url": "https://images.scrydex.com/pokemon/me55-2/medium",
+      "national_dex_number": 103,
+      "rarity": "Common",
+      "species_name": "exeggutor",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-3",
+      "card_number": "3",
+      "image_url": "https://images.scrydex.com/pokemon/me55-3/medium",
+      "national_dex_number": 313,
+      "rarity": "Common",
+      "species_name": "volbeat",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-4",
+      "card_number": "4",
+      "image_url": "https://images.scrydex.com/pokemon/me55-4/medium",
+      "national_dex_number": 314,
+      "rarity": "Common",
+      "species_name": "illumise",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-5",
+      "card_number": "5",
+      "image_url": "https://images.scrydex.com/pokemon/me55-5/medium",
+      "national_dex_number": 357,
+      "rarity": "Common",
+      "species_name": "tropius",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-6",
+      "card_number": "6",
+      "image_url": "https://images.scrydex.com/pokemon/me55-6/medium",
+      "national_dex_number": 420,
+      "rarity": "Common",
+      "species_name": "cherubi",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-7",
+      "card_number": "7",
+      "image_url": "https://images.scrydex.com/pokemon/me55-7/medium",
+      "national_dex_number": 421,
+      "rarity": "Common",
+      "species_name": "cherrim",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-8",
+      "card_number": "8",
+      "image_url": "https://images.scrydex.com/pokemon/me55-8/medium",
+      "national_dex_number": 666,
+      "rarity": "Common",
+      "species_name": "vivillon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-9",
+      "card_number": "9",
+      "image_url": "https://images.scrydex.com/pokemon/me55-9/medium",
+      "national_dex_number": 37,
+      "rarity": "Common",
+      "species_name": "vulpix",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-10",
+      "card_number": "10",
+      "image_url": "https://images.scrydex.com/pokemon/me55-10/medium",
+      "national_dex_number": 38,
+      "rarity": "Common",
+      "species_name": "ninetales",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-11",
+      "card_number": "11",
+      "image_url": "https://images.scrydex.com/pokemon/me55-11/medium",
+      "national_dex_number": 146,
+      "rarity": "Common",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-12",
+      "card_number": "12",
+      "image_url": "https://images.scrydex.com/pokemon/me55-12/medium",
+      "national_dex_number": 250,
+      "rarity": "Rare",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-13",
+      "card_number": "13",
+      "image_url": "https://images.scrydex.com/pokemon/me55-13/medium",
+      "national_dex_number": 494,
+      "rarity": "Common",
+      "species_name": "victini",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-14",
+      "card_number": "14",
+      "image_url": "https://images.scrydex.com/pokemon/me55-14/medium",
+      "national_dex_number": 643,
+      "rarity": "Rare",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-15",
+      "card_number": "15",
+      "image_url": "https://images.scrydex.com/pokemon/me55-15/medium",
+      "national_dex_number": 909,
+      "rarity": "Double Rare",
+      "species_name": "fuecoco",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-16",
+      "card_number": "16",
+      "image_url": "https://images.scrydex.com/pokemon/me55-16/medium",
+      "national_dex_number": 79,
+      "rarity": "Common",
+      "species_name": "slowpoke",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-17",
+      "card_number": "17",
+      "image_url": "https://images.scrydex.com/pokemon/me55-17/medium",
+      "national_dex_number": 131,
+      "rarity": "Common",
+      "species_name": "lapras",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-18",
+      "card_number": "18",
+      "image_url": "https://images.scrydex.com/pokemon/me55-18/medium",
+      "national_dex_number": 144,
+      "rarity": "Common",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-19",
+      "card_number": "19",
+      "image_url": "https://images.scrydex.com/pokemon/me55-19/medium",
+      "national_dex_number": 382,
+      "rarity": "Rare",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-20",
+      "card_number": "20",
+      "image_url": "https://images.scrydex.com/pokemon/me55-20/medium",
+      "national_dex_number": 484,
+      "rarity": "Rare",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-21",
+      "card_number": "21",
+      "image_url": "https://images.scrydex.com/pokemon/me55-21/medium",
+      "national_dex_number": 658,
+      "rarity": "Double Rare",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-22",
+      "card_number": "22",
+      "image_url": "https://images.scrydex.com/pokemon/me55-22/medium",
+      "national_dex_number": 746,
+      "rarity": "Common",
+      "species_name": "wishiwashi",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-23",
+      "card_number": "23",
+      "image_url": "https://images.scrydex.com/pokemon/me55-23/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-24",
+      "card_number": "24",
+      "image_url": "https://images.scrydex.com/pokemon/me55-24/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-25",
+      "card_number": "25",
+      "image_url": "https://images.scrydex.com/pokemon/me55-25/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-26",
+      "card_number": "26",
+      "image_url": "https://images.scrydex.com/pokemon/me55-26/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-27",
+      "card_number": "27",
+      "image_url": "https://images.scrydex.com/pokemon/me55-27/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-28",
+      "card_number": "28",
+      "image_url": "https://images.scrydex.com/pokemon/me55-28/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-29",
+      "card_number": "29",
+      "image_url": "https://images.scrydex.com/pokemon/me55-29/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-30",
+      "card_number": "30",
+      "image_url": "https://images.scrydex.com/pokemon/me55-30/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-31",
+      "card_number": "31",
+      "image_url": "https://images.scrydex.com/pokemon/me55-31/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-32",
+      "card_number": "32",
+      "image_url": "https://images.scrydex.com/pokemon/me55-32/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-33",
+      "card_number": "33",
+      "image_url": "https://images.scrydex.com/pokemon/me55-33/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-34",
+      "card_number": "34",
+      "image_url": "https://images.scrydex.com/pokemon/me55-34/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-35",
+      "card_number": "35",
+      "image_url": "https://images.scrydex.com/pokemon/me55-35/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-36",
+      "card_number": "36",
+      "image_url": "https://images.scrydex.com/pokemon/me55-36/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-37",
+      "card_number": "37",
+      "image_url": "https://images.scrydex.com/pokemon/me55-37/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-38",
+      "card_number": "38",
+      "image_url": "https://images.scrydex.com/pokemon/me55-38/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-39",
+      "card_number": "39",
+      "image_url": "https://images.scrydex.com/pokemon/me55-39/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-40",
+      "card_number": "40",
+      "image_url": "https://images.scrydex.com/pokemon/me55-40/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-41",
+      "card_number": "41",
+      "image_url": "https://images.scrydex.com/pokemon/me55-41/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-42",
+      "card_number": "42",
+      "image_url": "https://images.scrydex.com/pokemon/me55-42/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-43",
+      "card_number": "43",
+      "image_url": "https://images.scrydex.com/pokemon/me55-43/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-44",
+      "card_number": "44",
+      "image_url": "https://images.scrydex.com/pokemon/me55-44/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-45",
+      "card_number": "45",
+      "image_url": "https://images.scrydex.com/pokemon/me55-45/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-46",
+      "card_number": "46",
+      "image_url": "https://images.scrydex.com/pokemon/me55-46/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-47",
+      "card_number": "47",
+      "image_url": "https://images.scrydex.com/pokemon/me55-47/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-48",
+      "card_number": "48",
+      "image_url": "https://images.scrydex.com/pokemon/me55-48/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-49",
+      "card_number": "49",
+      "image_url": "https://images.scrydex.com/pokemon/me55-49/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-50",
+      "card_number": "50",
+      "image_url": "https://images.scrydex.com/pokemon/me55-50/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-51",
+      "card_number": "51",
+      "image_url": "https://images.scrydex.com/pokemon/me55-51/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-52",
+      "card_number": "52",
+      "image_url": "https://images.scrydex.com/pokemon/me55-52/medium",
+      "national_dex_number": 25,
+      "rarity": "Pikachu Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-53",
+      "card_number": "53",
+      "image_url": "https://images.scrydex.com/pokemon/me55-53/medium",
+      "national_dex_number": 25,
+      "rarity": "Double Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-54",
+      "card_number": "54",
+      "image_url": "https://images.scrydex.com/pokemon/me55-54/medium",
+      "national_dex_number": 25,
+      "rarity": "Double Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-55",
+      "card_number": "55",
+      "image_url": "https://images.scrydex.com/pokemon/me55-55/medium",
+      "national_dex_number": 145,
+      "rarity": "Common",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-56",
+      "card_number": "56",
+      "image_url": "https://images.scrydex.com/pokemon/me55-56/medium",
+      "national_dex_number": 644,
+      "rarity": "Rare",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-57",
+      "card_number": "57",
+      "image_url": "https://images.scrydex.com/pokemon/me55-57/medium",
+      "national_dex_number": 807,
+      "rarity": "Common",
+      "species_name": "zeraora",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-58",
+      "card_number": "58",
+      "image_url": "https://images.scrydex.com/pokemon/me55-58/medium",
+      "national_dex_number": 848,
+      "rarity": "Common",
+      "species_name": "toxel",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-59",
+      "card_number": "59",
+      "image_url": "https://images.scrydex.com/pokemon/me55-59/medium",
+      "national_dex_number": 849,
+      "rarity": "Common",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-60",
+      "card_number": "60",
+      "image_url": "https://images.scrydex.com/pokemon/me55-60/medium",
+      "national_dex_number": 849,
+      "rarity": "Common",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-61",
+      "card_number": "61",
+      "image_url": "https://images.scrydex.com/pokemon/me55-61/medium",
+      "national_dex_number": 877,
+      "rarity": "Common",
+      "species_name": "morpeko",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-62",
+      "card_number": "62",
+      "image_url": "https://images.scrydex.com/pokemon/me55-62/medium",
+      "national_dex_number": 1008,
+      "rarity": "Rare",
+      "species_name": "miraidon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-63",
+      "card_number": "63",
+      "image_url": "https://images.scrydex.com/pokemon/me55-63/medium",
+      "national_dex_number": 150,
+      "rarity": "Rare",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-64",
+      "card_number": "64",
+      "image_url": "https://images.scrydex.com/pokemon/me55-64/medium",
+      "national_dex_number": 150,
+      "rarity": "Double Rare",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-65",
+      "card_number": "65",
+      "image_url": "https://images.scrydex.com/pokemon/me55-65/medium",
+      "national_dex_number": 151,
+      "rarity": "Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-66",
+      "card_number": "66",
+      "image_url": "https://images.scrydex.com/pokemon/me55-66/medium",
+      "national_dex_number": 151,
+      "rarity": "Double Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-67",
+      "card_number": "67",
+      "image_url": "https://images.scrydex.com/pokemon/me55-67/medium",
+      "national_dex_number": 183,
+      "rarity": "Common",
+      "species_name": "marill",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-68",
+      "card_number": "68",
+      "image_url": "https://images.scrydex.com/pokemon/me55-68/medium",
+      "national_dex_number": 184,
+      "rarity": "Common",
+      "species_name": "azumarill",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-69",
+      "card_number": "69",
+      "image_url": "https://images.scrydex.com/pokemon/me55-69/medium",
+      "national_dex_number": 196,
+      "rarity": "Common",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-70",
+      "card_number": "70",
+      "image_url": "https://images.scrydex.com/pokemon/me55-70/medium",
+      "national_dex_number": 196,
+      "rarity": "Double Rare",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-71",
+      "card_number": "71",
+      "image_url": "https://images.scrydex.com/pokemon/me55-71/medium",
+      "national_dex_number": 700,
+      "rarity": "Double Rare",
+      "species_name": "sylveon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-72",
+      "card_number": "72",
+      "image_url": "https://images.scrydex.com/pokemon/me55-72/medium",
+      "national_dex_number": 201,
+      "rarity": "Common",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-73",
+      "card_number": "73",
+      "image_url": "https://images.scrydex.com/pokemon/me55-73/medium",
+      "national_dex_number": 425,
+      "rarity": "Common",
+      "species_name": "drifloon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-74",
+      "card_number": "74",
+      "image_url": "https://images.scrydex.com/pokemon/me55-74/medium",
+      "national_dex_number": 488,
+      "rarity": "Common",
+      "species_name": "cresselia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-75",
+      "card_number": "75",
+      "image_url": "https://images.scrydex.com/pokemon/me55-75/medium",
+      "national_dex_number": 609,
+      "rarity": "Common",
+      "species_name": "chandelure",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-76",
+      "card_number": "76",
+      "image_url": "https://images.scrydex.com/pokemon/me55-76/medium",
+      "national_dex_number": 716,
+      "rarity": "Rare",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-77",
+      "card_number": "77",
+      "image_url": "https://images.scrydex.com/pokemon/me55-77/medium",
+      "national_dex_number": 764,
+      "rarity": "Common",
+      "species_name": "comfey",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-78",
+      "card_number": "78",
+      "image_url": "https://images.scrydex.com/pokemon/me55-78/medium",
+      "national_dex_number": 789,
+      "rarity": "Common",
+      "species_name": "cosmog",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-79",
+      "card_number": "79",
+      "image_url": "https://images.scrydex.com/pokemon/me55-79/medium",
+      "national_dex_number": 790,
+      "rarity": "Common",
+      "species_name": "cosmoem",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-80",
+      "card_number": "80",
+      "image_url": "https://images.scrydex.com/pokemon/me55-80/medium",
+      "national_dex_number": 792,
+      "rarity": "Rare",
+      "species_name": "lunala",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-81",
+      "card_number": "81",
+      "image_url": "https://images.scrydex.com/pokemon/me55-81/medium",
+      "national_dex_number": 999,
+      "rarity": "Common",
+      "species_name": "gimmighoul",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-82",
+      "card_number": "82",
+      "image_url": "https://images.scrydex.com/pokemon/me55-82/medium",
+      "national_dex_number": 383,
+      "rarity": "Rare",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-83",
+      "card_number": "83",
+      "image_url": "https://images.scrydex.com/pokemon/me55-83/medium",
+      "national_dex_number": 448,
+      "rarity": "Common",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-84",
+      "card_number": "84",
+      "image_url": "https://images.scrydex.com/pokemon/me55-84/medium",
+      "national_dex_number": 537,
+      "rarity": "Common",
+      "species_name": "seismitoad",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-85",
+      "card_number": "85",
+      "image_url": "https://images.scrydex.com/pokemon/me55-85/medium",
+      "national_dex_number": 745,
+      "rarity": "Common",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-86",
+      "card_number": "86",
+      "image_url": "https://images.scrydex.com/pokemon/me55-86/medium",
+      "national_dex_number": 1007,
+      "rarity": "Rare",
+      "species_name": "koraidon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-87",
+      "card_number": "87",
+      "image_url": "https://images.scrydex.com/pokemon/me55-87/medium",
+      "national_dex_number": 29,
+      "rarity": "Common",
+      "species_name": "nidoran-f",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-88",
+      "card_number": "88",
+      "image_url": "https://images.scrydex.com/pokemon/me55-88/medium",
+      "national_dex_number": 30,
+      "rarity": "Common",
+      "species_name": "nidorina",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-89",
+      "card_number": "89",
+      "image_url": "https://images.scrydex.com/pokemon/me55-89/medium",
+      "national_dex_number": 52,
+      "rarity": "Common",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-90",
+      "card_number": "90",
+      "image_url": "https://images.scrydex.com/pokemon/me55-90/medium",
+      "national_dex_number": 94,
+      "rarity": "Double Rare",
+      "species_name": "gengar",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-91",
+      "card_number": "91",
+      "image_url": "https://images.scrydex.com/pokemon/me55-91/medium",
+      "national_dex_number": 197,
+      "rarity": "Common",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-92",
+      "card_number": "92",
+      "image_url": "https://images.scrydex.com/pokemon/me55-92/medium",
+      "national_dex_number": 197,
+      "rarity": "Double Rare",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-93",
+      "card_number": "93",
+      "image_url": "https://images.scrydex.com/pokemon/me55-93/medium",
+      "national_dex_number": 198,
+      "rarity": "Common",
+      "species_name": "murkrow",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-94",
+      "card_number": "94",
+      "image_url": "https://images.scrydex.com/pokemon/me55-94/medium",
+      "national_dex_number": 559,
+      "rarity": "Common",
+      "species_name": "scraggy",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-95",
+      "card_number": "95",
+      "image_url": "https://images.scrydex.com/pokemon/me55-95/medium",
+      "national_dex_number": 570,
+      "rarity": "Common",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-96",
+      "card_number": "96",
+      "image_url": "https://images.scrydex.com/pokemon/me55-96/medium",
+      "national_dex_number": 571,
+      "rarity": "Common",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-97",
+      "card_number": "97",
+      "image_url": "https://images.scrydex.com/pokemon/me55-97/medium",
+      "national_dex_number": 633,
+      "rarity": "Common",
+      "species_name": "deino",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-98",
+      "card_number": "98",
+      "image_url": "https://images.scrydex.com/pokemon/me55-98/medium",
+      "national_dex_number": 634,
+      "rarity": "Common",
+      "species_name": "zweilous",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-99",
+      "card_number": "99",
+      "image_url": "https://images.scrydex.com/pokemon/me55-99/medium",
+      "national_dex_number": 635,
+      "rarity": "Common",
+      "species_name": "hydreigon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-100",
+      "card_number": "100",
+      "image_url": "https://images.scrydex.com/pokemon/me55-100/medium",
+      "national_dex_number": 717,
+      "rarity": "Rare",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-101",
+      "card_number": "101",
+      "image_url": "https://images.scrydex.com/pokemon/me55-101/medium",
+      "national_dex_number": 52,
+      "rarity": "Common",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-102",
+      "card_number": "102",
+      "image_url": "https://images.scrydex.com/pokemon/me55-102/medium",
+      "national_dex_number": 385,
+      "rarity": "Double Rare",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-103",
+      "card_number": "103",
+      "image_url": "https://images.scrydex.com/pokemon/me55-103/medium",
+      "national_dex_number": 483,
+      "rarity": "Rare",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-104",
+      "card_number": "104",
+      "image_url": "https://images.scrydex.com/pokemon/me55-104/medium",
+      "national_dex_number": 598,
+      "rarity": "Common",
+      "species_name": "ferrothorn",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-105",
+      "card_number": "105",
+      "image_url": "https://images.scrydex.com/pokemon/me55-105/medium",
+      "national_dex_number": 791,
+      "rarity": "Rare",
+      "species_name": "solgaleo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-106",
+      "card_number": "106",
+      "image_url": "https://images.scrydex.com/pokemon/me55-106/medium",
+      "national_dex_number": 888,
+      "rarity": "Rare",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-107",
+      "card_number": "107",
+      "image_url": "https://images.scrydex.com/pokemon/me55-107/medium",
+      "national_dex_number": 889,
+      "rarity": "Rare",
+      "species_name": "zamazenta",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-108",
+      "card_number": "108",
+      "image_url": "https://images.scrydex.com/pokemon/me55-108/medium",
+      "national_dex_number": 1000,
+      "rarity": "Common",
+      "species_name": "gholdengo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-109",
+      "card_number": "109",
+      "image_url": "https://images.scrydex.com/pokemon/me55-109/medium",
+      "national_dex_number": 373,
+      "rarity": "Double Rare",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-110",
+      "card_number": "110",
+      "image_url": "https://images.scrydex.com/pokemon/me55-110/medium",
+      "national_dex_number": 782,
+      "rarity": "Common",
+      "species_name": "jangmo-o",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-111",
+      "card_number": "111",
+      "image_url": "https://images.scrydex.com/pokemon/me55-111/medium",
+      "national_dex_number": 783,
+      "rarity": "Common",
+      "species_name": "hakamo-o",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-112",
+      "card_number": "112",
+      "image_url": "https://images.scrydex.com/pokemon/me55-112/medium",
+      "national_dex_number": 784,
+      "rarity": "Common",
+      "species_name": "kommo-o",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-113",
+      "card_number": "113",
+      "image_url": "https://images.scrydex.com/pokemon/me55-113/medium",
+      "national_dex_number": 52,
+      "rarity": "Common",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-114",
+      "card_number": "114",
+      "image_url": "https://images.scrydex.com/pokemon/me55-114/medium",
+      "national_dex_number": 115,
+      "rarity": "Common",
+      "species_name": "kangaskhan",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-115",
+      "card_number": "115",
+      "image_url": "https://images.scrydex.com/pokemon/me55-115/medium",
+      "national_dex_number": 132,
+      "rarity": "Common",
+      "species_name": "ditto",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-116",
+      "card_number": "116",
+      "image_url": "https://images.scrydex.com/pokemon/me55-116/medium",
+      "national_dex_number": 133,
+      "rarity": "Common",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-117",
+      "card_number": "117",
+      "image_url": "https://images.scrydex.com/pokemon/me55-117/medium",
+      "national_dex_number": 133,
+      "rarity": "Common",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-118",
+      "card_number": "118",
+      "image_url": "https://images.scrydex.com/pokemon/me55-118/medium",
+      "national_dex_number": 133,
+      "rarity": "Common",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-119",
+      "card_number": "119",
+      "image_url": "https://images.scrydex.com/pokemon/me55-119/medium",
+      "national_dex_number": 143,
+      "rarity": "Common",
+      "species_name": "snorlax",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-120",
+      "card_number": "120",
+      "image_url": "https://images.scrydex.com/pokemon/me55-120/medium",
+      "national_dex_number": 174,
+      "rarity": "Common",
+      "species_name": "igglybuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-121",
+      "card_number": "121",
+      "image_url": "https://images.scrydex.com/pokemon/me55-121/medium",
+      "national_dex_number": 249,
+      "rarity": "Rare",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-122",
+      "card_number": "122",
+      "image_url": "https://images.scrydex.com/pokemon/me55-122/medium",
+      "national_dex_number": 570,
+      "rarity": "Common",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-123",
+      "card_number": "123",
+      "image_url": "https://images.scrydex.com/pokemon/me55-123/medium",
+      "national_dex_number": 571,
+      "rarity": "Common",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-124",
+      "card_number": "124",
+      "image_url": "https://images.scrydex.com/pokemon/me55-124/medium",
+      "national_dex_number": 774,
+      "rarity": "Common",
+      "species_name": "minior",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-125",
+      "card_number": "125",
+      "image_url": "https://images.scrydex.com/pokemon/me55-125/medium",
+      "national_dex_number": 925,
+      "rarity": "Common",
+      "species_name": "maushold",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-126",
+      "card_number": "126",
+      "image_url": "https://images.scrydex.com/pokemon/me55-126/medium",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-127",
+      "card_number": "127",
+      "image_url": "https://images.scrydex.com/pokemon/me55-127/medium",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-128",
+      "card_number": "128",
+      "image_url": "https://images.scrydex.com/pokemon/me55-128/medium",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-129",
+      "card_number": "129",
+      "image_url": "https://images.scrydex.com/pokemon/me55-129/medium",
+      "national_dex_number": 103,
+      "rarity": "Illustration Rare",
+      "species_name": "exeggutor",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-130",
+      "card_number": "130",
+      "image_url": "https://images.scrydex.com/pokemon/me55-130/medium",
+      "national_dex_number": 146,
+      "rarity": "Illustration Rare",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-131",
+      "card_number": "131",
+      "image_url": "https://images.scrydex.com/pokemon/me55-131/medium",
+      "national_dex_number": 131,
+      "rarity": "Illustration Rare",
+      "species_name": "lapras",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-132",
+      "card_number": "132",
+      "image_url": "https://images.scrydex.com/pokemon/me55-132/medium",
+      "national_dex_number": 144,
+      "rarity": "Illustration Rare",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-133",
+      "card_number": "133",
+      "image_url": "https://images.scrydex.com/pokemon/me55-133/medium",
+      "national_dex_number": 145,
+      "rarity": "Illustration Rare",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-134",
+      "card_number": "134",
+      "image_url": "https://images.scrydex.com/pokemon/me55-134/medium",
+      "national_dex_number": 849,
+      "rarity": "Illustration Rare",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-135",
+      "card_number": "135",
+      "image_url": "https://images.scrydex.com/pokemon/me55-135/medium",
+      "national_dex_number": 877,
+      "rarity": "Illustration Rare",
+      "species_name": "morpeko",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-136",
+      "card_number": "136",
+      "image_url": "https://images.scrydex.com/pokemon/me55-136/medium",
+      "national_dex_number": 425,
+      "rarity": "Illustration Rare",
+      "species_name": "drifloon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-137",
+      "card_number": "137",
+      "image_url": "https://images.scrydex.com/pokemon/me55-137/medium",
+      "national_dex_number": 609,
+      "rarity": "Illustration Rare",
+      "species_name": "chandelure",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-138",
+      "card_number": "138",
+      "image_url": "https://images.scrydex.com/pokemon/me55-138/medium",
+      "national_dex_number": 745,
+      "rarity": "Illustration Rare",
+      "species_name": "lycanroc",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-139",
+      "card_number": "139",
+      "image_url": "https://images.scrydex.com/pokemon/me55-139/medium",
+      "national_dex_number": 52,
+      "rarity": "Illustration Rare",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-140",
+      "card_number": "140",
+      "image_url": "https://images.scrydex.com/pokemon/me55-140/medium",
+      "national_dex_number": 559,
+      "rarity": "Illustration Rare",
+      "species_name": "scraggy",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-141",
+      "card_number": "141",
+      "image_url": "https://images.scrydex.com/pokemon/me55-141/medium",
+      "national_dex_number": 52,
+      "rarity": "Illustration Rare",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-142",
+      "card_number": "142",
+      "image_url": "https://images.scrydex.com/pokemon/me55-142/medium",
+      "national_dex_number": 1000,
+      "rarity": "Illustration Rare",
+      "species_name": "gholdengo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-143",
+      "card_number": "143",
+      "image_url": "https://images.scrydex.com/pokemon/me55-143/medium",
+      "national_dex_number": 784,
+      "rarity": "Illustration Rare",
+      "species_name": "kommo-o",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-144",
+      "card_number": "144",
+      "image_url": "https://images.scrydex.com/pokemon/me55-144/medium",
+      "national_dex_number": 52,
+      "rarity": "Illustration Rare",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-145",
+      "card_number": "145",
+      "image_url": "https://images.scrydex.com/pokemon/me55-145/medium",
+      "national_dex_number": 570,
+      "rarity": "Illustration Rare",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-146",
+      "card_number": "146",
+      "image_url": "https://images.scrydex.com/pokemon/me55-146/medium",
+      "national_dex_number": 925,
+      "rarity": "Illustration Rare",
+      "species_name": "maushold",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-147",
+      "card_number": "147",
+      "image_url": "https://images.scrydex.com/pokemon/me55-147/medium",
+      "national_dex_number": 909,
+      "rarity": "Special Illustration Rare",
+      "species_name": "fuecoco",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-148",
+      "card_number": "148",
+      "image_url": "https://images.scrydex.com/pokemon/me55-148/medium",
+      "national_dex_number": 658,
+      "rarity": "Special Illustration Rare",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-149",
+      "card_number": "149",
+      "image_url": "https://images.scrydex.com/pokemon/me55-149/medium",
+      "national_dex_number": 25,
+      "rarity": "Special Illustration Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-150",
+      "card_number": "150",
+      "image_url": "https://images.scrydex.com/pokemon/me55-150/medium",
+      "national_dex_number": 25,
+      "rarity": "Special Illustration Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-151",
+      "card_number": "151",
+      "image_url": "https://images.scrydex.com/pokemon/me55-151/medium",
+      "national_dex_number": 150,
+      "rarity": "Special Illustration Rare",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-152",
+      "card_number": "152",
+      "image_url": "https://images.scrydex.com/pokemon/me55-152/medium",
+      "national_dex_number": 151,
+      "rarity": "Special Illustration Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-153",
+      "card_number": "153",
+      "image_url": "https://images.scrydex.com/pokemon/me55-153/medium",
+      "national_dex_number": 700,
+      "rarity": "Special Illustration Rare",
+      "species_name": "sylveon",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-154",
+      "card_number": "154",
+      "image_url": "https://images.scrydex.com/pokemon/me55-154/medium",
+      "national_dex_number": 94,
+      "rarity": "Special Illustration Rare",
+      "species_name": "gengar",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-155",
+      "card_number": "155",
+      "image_url": "https://images.scrydex.com/pokemon/me55-155/medium",
+      "national_dex_number": 385,
+      "rarity": "Special Illustration Rare",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-156",
+      "card_number": "156",
+      "image_url": "https://images.scrydex.com/pokemon/me55-156/medium",
+      "national_dex_number": 373,
+      "rarity": "Special Illustration Rare",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-157",
+      "card_number": "157",
+      "image_url": "https://images.scrydex.com/pokemon/me55-157/medium",
+      "national_dex_number": 150,
+      "rarity": "Futuristic Rare",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-158",
+      "card_number": "158",
+      "image_url": "https://images.scrydex.com/pokemon/me55-158/medium",
+      "national_dex_number": 151,
+      "rarity": "Futuristic Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-B",
+      "card_number": "B",
+      "image_url": "https://images.scrydex.com/pokemon/me55-B/medium",
+      "national_dex_number": 151,
+      "rarity": "Secret Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-G",
+      "card_number": "G",
+      "image_url": "https://images.scrydex.com/pokemon/me55-G/medium",
+      "national_dex_number": 151,
+      "rarity": "Secret Rare",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55-R",
+      "card_number": "R",
+      "image_url": "https://images.scrydex.com/pokemon/me55-R/medium",
+      "national_dex_number": 151,
+      "rarity": "Secret Rare",
+      "species_name": "mew",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "me55",
+    "name": "30th Celebration",
+    "release_date": "2026-09-16",
+    "series": "Mega Evolution"
+  }
+}

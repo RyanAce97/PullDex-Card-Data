@@ -1,0 +1,362 @@
+{
+  "card_count": 39,
+  "cards": [
+    {
+      "api_card_id": "xy0-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/xy0/1_hires.png",
+      "national_dex_number": 13,
+      "rarity": null,
+      "species_name": "weedle",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/xy0/2_hires.png",
+      "national_dex_number": 511,
+      "rarity": null,
+      "species_name": "pansage",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/xy0/3_hires.png",
+      "national_dex_number": 650,
+      "rarity": null,
+      "species_name": "chespin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/xy0/4_hires.png",
+      "national_dex_number": 651,
+      "rarity": null,
+      "species_name": "quilladin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/xy0/5_hires.png",
+      "national_dex_number": 652,
+      "rarity": null,
+      "species_name": "chesnaught",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/xy0/6_hires.png",
+      "national_dex_number": 218,
+      "rarity": null,
+      "species_name": "slugma",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/xy0/7_hires.png",
+      "national_dex_number": 513,
+      "rarity": null,
+      "species_name": "pansear",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/xy0/8_hires.png",
+      "national_dex_number": 653,
+      "rarity": null,
+      "species_name": "fennekin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/xy0/9_hires.png",
+      "national_dex_number": 654,
+      "rarity": null,
+      "species_name": "braixen",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/xy0/10_hires.png",
+      "national_dex_number": 655,
+      "rarity": null,
+      "species_name": "delphox",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/xy0/11_hires.png",
+      "national_dex_number": 515,
+      "rarity": null,
+      "species_name": "panpour",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/xy0/12_hires.png",
+      "national_dex_number": 656,
+      "rarity": null,
+      "species_name": "froakie",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/xy0/13_hires.png",
+      "national_dex_number": 657,
+      "rarity": null,
+      "species_name": "frogadier",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/xy0/14_hires.png",
+      "national_dex_number": 658,
+      "rarity": null,
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/xy0/15_hires.png",
+      "national_dex_number": 692,
+      "rarity": null,
+      "species_name": "clauncher",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/xy0/16_hires.png",
+      "national_dex_number": 261,
+      "rarity": null,
+      "species_name": "poochyena",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/xy0/17_hires.png",
+      "national_dex_number": 262,
+      "rarity": null,
+      "species_name": "mightyena",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/xy0/18_hires.png",
+      "national_dex_number": 686,
+      "rarity": null,
+      "species_name": "inkay",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/xy0/19_hires.png",
+      "national_dex_number": 624,
+      "rarity": null,
+      "species_name": "pawniard",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/xy0/20_hires.png",
+      "national_dex_number": 625,
+      "rarity": null,
+      "species_name": "bisharp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/xy0/21_hires.png",
+      "national_dex_number": 679,
+      "rarity": null,
+      "species_name": "honedge",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/xy0/22_hires.png",
+      "national_dex_number": 209,
+      "rarity": null,
+      "species_name": "snubbull",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/xy0/23_hires.png",
+      "national_dex_number": 210,
+      "rarity": null,
+      "species_name": "granbull",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/xy0/24_hires.png",
+      "national_dex_number": 684,
+      "rarity": null,
+      "species_name": "swirlix",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/xy0/25_hires.png",
+      "national_dex_number": 83,
+      "rarity": null,
+      "species_name": "farfetchd",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/xy0/26_hires.png",
+      "national_dex_number": 143,
+      "rarity": null,
+      "species_name": "snorlax",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/xy0/27_hires.png",
+      "national_dex_number": 241,
+      "rarity": null,
+      "species_name": "miltank",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/xy0/28_hires.png",
+      "national_dex_number": 300,
+      "rarity": null,
+      "species_name": "skitty",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/xy0/29_hires.png",
+      "national_dex_number": 399,
+      "rarity": null,
+      "species_name": "bidoof",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/xy0/30_hires.png",
+      "national_dex_number": 659,
+      "rarity": null,
+      "species_name": "bunnelby",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/xy0/31_hires.png",
+      "national_dex_number": 661,
+      "rarity": null,
+      "species_name": "fletchling",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/xy0/32_hires.png",
+      "national_dex_number": 676,
+      "rarity": null,
+      "species_name": "furfrou",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/xy0/33_hires.png",
+      "national_dex_number": 676,
+      "rarity": null,
+      "species_name": "furfrou",
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/xy0/34_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/xy0/35_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/xy0/36_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/xy0/37_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/xy0/38_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xy0-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/xy0/39_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "xy0",
+    "name": "Kalos Starter Set",
+    "release_date": "2013-11-08",
+    "series": "XY"
+  }
+}

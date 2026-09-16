@@ -1,0 +1,1820 @@
+{
+  "card_count": 201,
+  "cards": [
+    {
+      "api_card_id": "swsh3-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/swsh3/1_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare Holo V",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/swsh3/2_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/swsh3/3_hires.png",
+      "national_dex_number": 46,
+      "rarity": "Common",
+      "species_name": "paras",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/swsh3/4_hires.png",
+      "national_dex_number": 47,
+      "rarity": "Uncommon",
+      "species_name": "parasect",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/swsh3/5_hires.png",
+      "national_dex_number": 455,
+      "rarity": "Uncommon",
+      "species_name": "carnivine",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/swsh3/6_hires.png",
+      "national_dex_number": 511,
+      "rarity": "Common",
+      "species_name": "pansage",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/swsh3/7_hires.png",
+      "national_dex_number": 512,
+      "rarity": "Uncommon",
+      "species_name": "simisage",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/swsh3/8_hires.png",
+      "national_dex_number": 588,
+      "rarity": "Common",
+      "species_name": "karrablast",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/swsh3/9_hires.png",
+      "national_dex_number": 616,
+      "rarity": "Common",
+      "species_name": "shelmet",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/swsh3/10_hires.png",
+      "national_dex_number": 617,
+      "rarity": "Rare",
+      "species_name": "accelgor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/swsh3/11_hires.png",
+      "national_dex_number": 722,
+      "rarity": "Common",
+      "species_name": "rowlet",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/swsh3/12_hires.png",
+      "national_dex_number": 723,
+      "rarity": "Uncommon",
+      "species_name": "dartrix",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/swsh3/13_hires.png",
+      "national_dex_number": 724,
+      "rarity": "Rare Holo",
+      "species_name": "decidueye",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/swsh3/14_hires.png",
+      "national_dex_number": 761,
+      "rarity": "Common",
+      "species_name": "bounsweet",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/swsh3/15_hires.png",
+      "national_dex_number": 762,
+      "rarity": "Uncommon",
+      "species_name": "steenee",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/swsh3/16_hires.png",
+      "national_dex_number": 763,
+      "rarity": "Rare",
+      "species_name": "tsareena",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/swsh3/17_hires.png",
+      "national_dex_number": 767,
+      "rarity": "Common",
+      "species_name": "wimpod",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/swsh3/18_hires.png",
+      "national_dex_number": 768,
+      "rarity": "Rare Holo",
+      "species_name": "golisopod",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/swsh3/19_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Rare Holo V",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/swsh3/20_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/swsh3/21_hires.png",
+      "national_dex_number": 229,
+      "rarity": "Rare Holo V",
+      "species_name": "houndoom",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/swsh3/22_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Common",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/swsh3/23_hires.png",
+      "national_dex_number": 256,
+      "rarity": "Uncommon",
+      "species_name": "combusken",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/swsh3/24_hires.png",
+      "national_dex_number": 257,
+      "rarity": "Rare Holo",
+      "species_name": "blaziken",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/swsh3/25_hires.png",
+      "national_dex_number": 485,
+      "rarity": "Rare Holo",
+      "species_name": "heatran",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/swsh3/26_hires.png",
+      "national_dex_number": 513,
+      "rarity": "Common",
+      "species_name": "pansear",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/swsh3/27_hires.png",
+      "national_dex_number": 514,
+      "rarity": "Uncommon",
+      "species_name": "simisear",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/swsh3/28_hires.png",
+      "national_dex_number": 555,
+      "rarity": "Rare",
+      "species_name": "darmanitan",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/swsh3/29_hires.png",
+      "national_dex_number": 636,
+      "rarity": "Common",
+      "species_name": "larvesta",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/swsh3/30_hires.png",
+      "national_dex_number": 637,
+      "rarity": "Rare",
+      "species_name": "volcarona",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/swsh3/31_hires.png",
+      "national_dex_number": 662,
+      "rarity": "Uncommon",
+      "species_name": "fletchinder",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/swsh3/32_hires.png",
+      "national_dex_number": 663,
+      "rarity": "Rare",
+      "species_name": "talonflame",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/swsh3/33_hires.png",
+      "national_dex_number": 851,
+      "rarity": "Rare Holo V",
+      "species_name": "centiskorch",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/swsh3/34_hires.png",
+      "national_dex_number": 851,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "centiskorch",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/swsh3/35_hires.png",
+      "national_dex_number": 122,
+      "rarity": "Common",
+      "species_name": "mr-mime",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/swsh3/36_hires.png",
+      "national_dex_number": 866,
+      "rarity": "Rare",
+      "species_name": "mr-rime",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/swsh3/37_hires.png",
+      "national_dex_number": 245,
+      "rarity": "Rare Holo",
+      "species_name": "suicune",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/swsh3/38_hires.png",
+      "national_dex_number": 349,
+      "rarity": "Common",
+      "species_name": "feebas",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/swsh3/39_hires.png",
+      "national_dex_number": 350,
+      "rarity": "Rare Holo",
+      "species_name": "milotic",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-40",
+      "card_number": "40",
+      "image_url": "https://images.pokemontcg.io/swsh3/40_hires.png",
+      "national_dex_number": 369,
+      "rarity": "Uncommon",
+      "species_name": "relicanth",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-41",
+      "card_number": "41",
+      "image_url": "https://images.pokemontcg.io/swsh3/41_hires.png",
+      "national_dex_number": 515,
+      "rarity": "Common",
+      "species_name": "panpour",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-42",
+      "card_number": "42",
+      "image_url": "https://images.pokemontcg.io/swsh3/42_hires.png",
+      "national_dex_number": 516,
+      "rarity": "Uncommon",
+      "species_name": "simipour",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-43",
+      "card_number": "43",
+      "image_url": "https://images.pokemontcg.io/swsh3/43_hires.png",
+      "national_dex_number": 554,
+      "rarity": "Common",
+      "species_name": "darumaka",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-44",
+      "card_number": "44",
+      "image_url": "https://images.pokemontcg.io/swsh3/44_hires.png",
+      "national_dex_number": 555,
+      "rarity": "Rare",
+      "species_name": "darmanitan",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-45",
+      "card_number": "45",
+      "image_url": "https://images.pokemontcg.io/swsh3/45_hires.png",
+      "national_dex_number": 582,
+      "rarity": "Common",
+      "species_name": "vanillite",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-46",
+      "card_number": "46",
+      "image_url": "https://images.pokemontcg.io/swsh3/46_hires.png",
+      "national_dex_number": 583,
+      "rarity": "Uncommon",
+      "species_name": "vanillish",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-47",
+      "card_number": "47",
+      "image_url": "https://images.pokemontcg.io/swsh3/47_hires.png",
+      "national_dex_number": 584,
+      "rarity": "Rare",
+      "species_name": "vanilluxe",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-48",
+      "card_number": "48",
+      "image_url": "https://images.pokemontcg.io/swsh3/48_hires.png",
+      "national_dex_number": 613,
+      "rarity": "Common",
+      "species_name": "cubchoo",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-49",
+      "card_number": "49",
+      "image_url": "https://images.pokemontcg.io/swsh3/49_hires.png",
+      "national_dex_number": 614,
+      "rarity": "Rare",
+      "species_name": "beartic",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-50",
+      "card_number": "50",
+      "image_url": "https://images.pokemontcg.io/swsh3/50_hires.png",
+      "national_dex_number": 746,
+      "rarity": "Common",
+      "species_name": "wishiwashi",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-51",
+      "card_number": "51",
+      "image_url": "https://images.pokemontcg.io/swsh3/51_hires.png",
+      "national_dex_number": 747,
+      "rarity": "Common",
+      "species_name": "mareanie",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-52",
+      "card_number": "52",
+      "image_url": "https://images.pokemontcg.io/swsh3/52_hires.png",
+      "national_dex_number": 748,
+      "rarity": "Uncommon",
+      "species_name": "toxapex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-53",
+      "card_number": "53",
+      "image_url": "https://images.pokemontcg.io/swsh3/53_hires.png",
+      "national_dex_number": 882,
+      "rarity": "Rare Holo",
+      "species_name": "dracovish",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-54",
+      "card_number": "54",
+      "image_url": "https://images.pokemontcg.io/swsh3/54_hires.png",
+      "national_dex_number": 883,
+      "rarity": "Rare",
+      "species_name": "arctovish",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-55",
+      "card_number": "55",
+      "image_url": "https://images.pokemontcg.io/swsh3/55_hires.png",
+      "national_dex_number": 179,
+      "rarity": "Common",
+      "species_name": "mareep",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-56",
+      "card_number": "56",
+      "image_url": "https://images.pokemontcg.io/swsh3/56_hires.png",
+      "national_dex_number": 180,
+      "rarity": "Uncommon",
+      "species_name": "flaaffy",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-57",
+      "card_number": "57",
+      "image_url": "https://images.pokemontcg.io/swsh3/57_hires.png",
+      "national_dex_number": 181,
+      "rarity": "Rare",
+      "species_name": "ampharos",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-58",
+      "card_number": "58",
+      "image_url": "https://images.pokemontcg.io/swsh3/58_hires.png",
+      "national_dex_number": 309,
+      "rarity": "Common",
+      "species_name": "electrike",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-59",
+      "card_number": "59",
+      "image_url": "https://images.pokemontcg.io/swsh3/59_hires.png",
+      "national_dex_number": 310,
+      "rarity": "Rare",
+      "species_name": "manectric",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-60",
+      "card_number": "60",
+      "image_url": "https://images.pokemontcg.io/swsh3/60_hires.png",
+      "national_dex_number": 738,
+      "rarity": "Rare Holo V",
+      "species_name": "vikavolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-61",
+      "card_number": "61",
+      "image_url": "https://images.pokemontcg.io/swsh3/61_hires.png",
+      "national_dex_number": 785,
+      "rarity": "Rare Holo",
+      "species_name": "tapu-koko",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-62",
+      "card_number": "62",
+      "image_url": "https://images.pokemontcg.io/swsh3/62_hires.png",
+      "national_dex_number": 848,
+      "rarity": "Common",
+      "species_name": "toxel",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-63",
+      "card_number": "63",
+      "image_url": "https://images.pokemontcg.io/swsh3/63_hires.png",
+      "national_dex_number": 849,
+      "rarity": "Rare Holo",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-64",
+      "card_number": "64",
+      "image_url": "https://images.pokemontcg.io/swsh3/64_hires.png",
+      "national_dex_number": 871,
+      "rarity": "Rare Holo",
+      "species_name": "pincurchin",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-65",
+      "card_number": "65",
+      "image_url": "https://images.pokemontcg.io/swsh3/65_hires.png",
+      "national_dex_number": 880,
+      "rarity": "Rare",
+      "species_name": "dracozolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-66",
+      "card_number": "66",
+      "image_url": "https://images.pokemontcg.io/swsh3/66_hires.png",
+      "national_dex_number": 881,
+      "rarity": "Rare Holo",
+      "species_name": "arctozolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-67",
+      "card_number": "67",
+      "image_url": "https://images.pokemontcg.io/swsh3/67_hires.png",
+      "national_dex_number": 39,
+      "rarity": "Common",
+      "species_name": "jigglypuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-68",
+      "card_number": "68",
+      "image_url": "https://images.pokemontcg.io/swsh3/68_hires.png",
+      "national_dex_number": 40,
+      "rarity": "Rare",
+      "species_name": "wigglytuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-69",
+      "card_number": "69",
+      "image_url": "https://images.pokemontcg.io/swsh3/69_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Rare Holo V",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-70",
+      "card_number": "70",
+      "image_url": "https://images.pokemontcg.io/swsh3/70_hires.png",
+      "national_dex_number": 209,
+      "rarity": "Common",
+      "species_name": "snubbull",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-71",
+      "card_number": "71",
+      "image_url": "https://images.pokemontcg.io/swsh3/71_hires.png",
+      "national_dex_number": 210,
+      "rarity": "Rare",
+      "species_name": "granbull",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-72",
+      "card_number": "72",
+      "image_url": "https://images.pokemontcg.io/swsh3/72_hires.png",
+      "national_dex_number": 337,
+      "rarity": "Uncommon",
+      "species_name": "lunatone",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-73",
+      "card_number": "73",
+      "image_url": "https://images.pokemontcg.io/swsh3/73_hires.png",
+      "national_dex_number": 574,
+      "rarity": "Common",
+      "species_name": "gothita",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-74",
+      "card_number": "74",
+      "image_url": "https://images.pokemontcg.io/swsh3/74_hires.png",
+      "national_dex_number": 575,
+      "rarity": "Uncommon",
+      "species_name": "gothorita",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-75",
+      "card_number": "75",
+      "image_url": "https://images.pokemontcg.io/swsh3/75_hires.png",
+      "national_dex_number": 576,
+      "rarity": "Rare",
+      "species_name": "gothitelle",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-76",
+      "card_number": "76",
+      "image_url": "https://images.pokemontcg.io/swsh3/76_hires.png",
+      "national_dex_number": 622,
+      "rarity": "Common",
+      "species_name": "golett",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-77",
+      "card_number": "77",
+      "image_url": "https://images.pokemontcg.io/swsh3/77_hires.png",
+      "national_dex_number": 623,
+      "rarity": "Rare",
+      "species_name": "golurk",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-78",
+      "card_number": "78",
+      "image_url": "https://images.pokemontcg.io/swsh3/78_hires.png",
+      "national_dex_number": 702,
+      "rarity": "Uncommon",
+      "species_name": "dedenne",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-79",
+      "card_number": "79",
+      "image_url": "https://images.pokemontcg.io/swsh3/79_hires.png",
+      "national_dex_number": 755,
+      "rarity": "Common",
+      "species_name": "morelull",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-80",
+      "card_number": "80",
+      "image_url": "https://images.pokemontcg.io/swsh3/80_hires.png",
+      "national_dex_number": 756,
+      "rarity": "Uncommon",
+      "species_name": "shiinotic",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-81",
+      "card_number": "81",
+      "image_url": "https://images.pokemontcg.io/swsh3/81_hires.png",
+      "national_dex_number": 778,
+      "rarity": "Rare",
+      "species_name": "mimikyu",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-82",
+      "card_number": "82",
+      "image_url": "https://images.pokemontcg.io/swsh3/82_hires.png",
+      "national_dex_number": 854,
+      "rarity": "Common",
+      "species_name": "sinistea",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-83",
+      "card_number": "83",
+      "image_url": "https://images.pokemontcg.io/swsh3/83_hires.png",
+      "national_dex_number": 855,
+      "rarity": "Uncommon",
+      "species_name": "polteageist",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-84",
+      "card_number": "84",
+      "image_url": "https://images.pokemontcg.io/swsh3/84_hires.png",
+      "national_dex_number": 50,
+      "rarity": "Common",
+      "species_name": "diglett",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-85",
+      "card_number": "85",
+      "image_url": "https://images.pokemontcg.io/swsh3/85_hires.png",
+      "national_dex_number": 51,
+      "rarity": "Uncommon",
+      "species_name": "dugtrio",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-86",
+      "card_number": "86",
+      "image_url": "https://images.pokemontcg.io/swsh3/86_hires.png",
+      "national_dex_number": 246,
+      "rarity": "Common",
+      "species_name": "larvitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-87",
+      "card_number": "87",
+      "image_url": "https://images.pokemontcg.io/swsh3/87_hires.png",
+      "national_dex_number": 247,
+      "rarity": "Uncommon",
+      "species_name": "pupitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-88",
+      "card_number": "88",
+      "image_url": "https://images.pokemontcg.io/swsh3/88_hires.png",
+      "national_dex_number": 248,
+      "rarity": "Rare Holo",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-89",
+      "card_number": "89",
+      "image_url": "https://images.pokemontcg.io/swsh3/89_hires.png",
+      "national_dex_number": 328,
+      "rarity": "Common",
+      "species_name": "trapinch",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-90",
+      "card_number": "90",
+      "image_url": "https://images.pokemontcg.io/swsh3/90_hires.png",
+      "national_dex_number": 329,
+      "rarity": "Uncommon",
+      "species_name": "vibrava",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-91",
+      "card_number": "91",
+      "image_url": "https://images.pokemontcg.io/swsh3/91_hires.png",
+      "national_dex_number": 330,
+      "rarity": "Rare",
+      "species_name": "flygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-92",
+      "card_number": "92",
+      "image_url": "https://images.pokemontcg.io/swsh3/92_hires.png",
+      "national_dex_number": 338,
+      "rarity": "Uncommon",
+      "species_name": "solrock",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-93",
+      "card_number": "93",
+      "image_url": "https://images.pokemontcg.io/swsh3/93_hires.png",
+      "national_dex_number": 449,
+      "rarity": "Common",
+      "species_name": "hippopotas",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-94",
+      "card_number": "94",
+      "image_url": "https://images.pokemontcg.io/swsh3/94_hires.png",
+      "national_dex_number": 450,
+      "rarity": "Rare",
+      "species_name": "hippowdon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-95",
+      "card_number": "95",
+      "image_url": "https://images.pokemontcg.io/swsh3/95_hires.png",
+      "national_dex_number": 464,
+      "rarity": "Rare Holo V",
+      "species_name": "rhyperior",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-96",
+      "card_number": "96",
+      "image_url": "https://images.pokemontcg.io/swsh3/96_hires.png",
+      "national_dex_number": 660,
+      "rarity": "Rare",
+      "species_name": "diggersby",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-97",
+      "card_number": "97",
+      "image_url": "https://images.pokemontcg.io/swsh3/97_hires.png",
+      "national_dex_number": 766,
+      "rarity": "Common",
+      "species_name": "passimian",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-98",
+      "card_number": "98",
+      "image_url": "https://images.pokemontcg.io/swsh3/98_hires.png",
+      "national_dex_number": 865,
+      "rarity": "Rare",
+      "species_name": "sirfetchd",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-99",
+      "card_number": "99",
+      "image_url": "https://images.pokemontcg.io/swsh3/99_hires.png",
+      "national_dex_number": 80,
+      "rarity": "Rare Holo V",
+      "species_name": "slowbro",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-100",
+      "card_number": "100",
+      "image_url": "https://images.pokemontcg.io/swsh3/100_hires.png",
+      "national_dex_number": 88,
+      "rarity": "Common",
+      "species_name": "grimer",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-101",
+      "card_number": "101",
+      "image_url": "https://images.pokemontcg.io/swsh3/101_hires.png",
+      "national_dex_number": 89,
+      "rarity": "Rare",
+      "species_name": "muk",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-102",
+      "card_number": "102",
+      "image_url": "https://images.pokemontcg.io/swsh3/102_hires.png",
+      "national_dex_number": 167,
+      "rarity": "Common",
+      "species_name": "spinarak",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-103",
+      "card_number": "103",
+      "image_url": "https://images.pokemontcg.io/swsh3/103_hires.png",
+      "national_dex_number": 168,
+      "rarity": "Uncommon",
+      "species_name": "ariados",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-104",
+      "card_number": "104",
+      "image_url": "https://images.pokemontcg.io/swsh3/104_hires.png",
+      "national_dex_number": 169,
+      "rarity": "Rare Holo V",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-105",
+      "card_number": "105",
+      "image_url": "https://images.pokemontcg.io/swsh3/105_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Rare Holo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-106",
+      "card_number": "106",
+      "image_url": "https://images.pokemontcg.io/swsh3/106_hires.png",
+      "national_dex_number": 509,
+      "rarity": "Common",
+      "species_name": "purrloin",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-107",
+      "card_number": "107",
+      "image_url": "https://images.pokemontcg.io/swsh3/107_hires.png",
+      "national_dex_number": 510,
+      "rarity": "Rare",
+      "species_name": "liepard",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-108",
+      "card_number": "108",
+      "image_url": "https://images.pokemontcg.io/swsh3/108_hires.png",
+      "national_dex_number": 633,
+      "rarity": "Common",
+      "species_name": "deino",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-109",
+      "card_number": "109",
+      "image_url": "https://images.pokemontcg.io/swsh3/109_hires.png",
+      "national_dex_number": 634,
+      "rarity": "Uncommon",
+      "species_name": "zweilous",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-110",
+      "card_number": "110",
+      "image_url": "https://images.pokemontcg.io/swsh3/110_hires.png",
+      "national_dex_number": 635,
+      "rarity": "Rare",
+      "species_name": "hydreigon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-111",
+      "card_number": "111",
+      "image_url": "https://images.pokemontcg.io/swsh3/111_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Rare Holo",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-112",
+      "card_number": "112",
+      "image_url": "https://images.pokemontcg.io/swsh3/112_hires.png",
+      "national_dex_number": 827,
+      "rarity": "Common",
+      "species_name": "nickit",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-113",
+      "card_number": "113",
+      "image_url": "https://images.pokemontcg.io/swsh3/113_hires.png",
+      "national_dex_number": 828,
+      "rarity": "Rare",
+      "species_name": "thievul",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-114",
+      "card_number": "114",
+      "image_url": "https://images.pokemontcg.io/swsh3/114_hires.png",
+      "national_dex_number": 861,
+      "rarity": "Rare Holo V",
+      "species_name": "grimmsnarl",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-115",
+      "card_number": "115",
+      "image_url": "https://images.pokemontcg.io/swsh3/115_hires.png",
+      "national_dex_number": 861,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "grimmsnarl",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-116",
+      "card_number": "116",
+      "image_url": "https://images.pokemontcg.io/swsh3/116_hires.png",
+      "national_dex_number": 890,
+      "rarity": "Rare Holo V",
+      "species_name": "eternatus",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-117",
+      "card_number": "117",
+      "image_url": "https://images.pokemontcg.io/swsh3/117_hires.png",
+      "national_dex_number": 890,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "eternatus",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-118",
+      "card_number": "118",
+      "image_url": "https://images.pokemontcg.io/swsh3/118_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Holo V",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-119",
+      "card_number": "119",
+      "image_url": "https://images.pokemontcg.io/swsh3/119_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-120",
+      "card_number": "120",
+      "image_url": "https://images.pokemontcg.io/swsh3/120_hires.png",
+      "national_dex_number": 227,
+      "rarity": "Common",
+      "species_name": "skarmory",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-121",
+      "card_number": "121",
+      "image_url": "https://images.pokemontcg.io/swsh3/121_hires.png",
+      "national_dex_number": 304,
+      "rarity": "Common",
+      "species_name": "aron",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-122",
+      "card_number": "122",
+      "image_url": "https://images.pokemontcg.io/swsh3/122_hires.png",
+      "national_dex_number": 305,
+      "rarity": "Uncommon",
+      "species_name": "lairon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-123",
+      "card_number": "123",
+      "image_url": "https://images.pokemontcg.io/swsh3/123_hires.png",
+      "national_dex_number": 306,
+      "rarity": "Rare Holo",
+      "species_name": "aggron",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-124",
+      "card_number": "124",
+      "image_url": "https://images.pokemontcg.io/swsh3/124_hires.png",
+      "national_dex_number": 589,
+      "rarity": "Rare",
+      "species_name": "escavalier",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-125",
+      "card_number": "125",
+      "image_url": "https://images.pokemontcg.io/swsh3/125_hires.png",
+      "national_dex_number": 599,
+      "rarity": "Common",
+      "species_name": "klink",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-126",
+      "card_number": "126",
+      "image_url": "https://images.pokemontcg.io/swsh3/126_hires.png",
+      "national_dex_number": 600,
+      "rarity": "Uncommon",
+      "species_name": "klang",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-127",
+      "card_number": "127",
+      "image_url": "https://images.pokemontcg.io/swsh3/127_hires.png",
+      "national_dex_number": 601,
+      "rarity": "Rare",
+      "species_name": "klinklang",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-128",
+      "card_number": "128",
+      "image_url": "https://images.pokemontcg.io/swsh3/128_hires.png",
+      "national_dex_number": 618,
+      "rarity": "Rare Holo V",
+      "species_name": "stunfisk",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-129",
+      "card_number": "129",
+      "image_url": "https://images.pokemontcg.io/swsh3/129_hires.png",
+      "national_dex_number": 808,
+      "rarity": "Common",
+      "species_name": "meltan",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-130",
+      "card_number": "130",
+      "image_url": "https://images.pokemontcg.io/swsh3/130_hires.png",
+      "national_dex_number": 809,
+      "rarity": "Rare",
+      "species_name": "melmetal",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-131",
+      "card_number": "131",
+      "image_url": "https://images.pokemontcg.io/swsh3/131_hires.png",
+      "national_dex_number": 878,
+      "rarity": "Common",
+      "species_name": "cufant",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-132",
+      "card_number": "132",
+      "image_url": "https://images.pokemontcg.io/swsh3/132_hires.png",
+      "national_dex_number": 879,
+      "rarity": "Rare Holo",
+      "species_name": "copperajah",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-133",
+      "card_number": "133",
+      "image_url": "https://images.pokemontcg.io/swsh3/133_hires.png",
+      "national_dex_number": 115,
+      "rarity": "Rare Holo",
+      "species_name": "kangaskhan",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-134",
+      "card_number": "134",
+      "image_url": "https://images.pokemontcg.io/swsh3/134_hires.png",
+      "national_dex_number": 128,
+      "rarity": "Common",
+      "species_name": "tauros",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-135",
+      "card_number": "135",
+      "image_url": "https://images.pokemontcg.io/swsh3/135_hires.png",
+      "national_dex_number": 161,
+      "rarity": "Common",
+      "species_name": "sentret",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-136",
+      "card_number": "136",
+      "image_url": "https://images.pokemontcg.io/swsh3/136_hires.png",
+      "national_dex_number": 162,
+      "rarity": "Uncommon",
+      "species_name": "furret",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-137",
+      "card_number": "137",
+      "image_url": "https://images.pokemontcg.io/swsh3/137_hires.png",
+      "national_dex_number": 206,
+      "rarity": "Common",
+      "species_name": "dunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-138",
+      "card_number": "138",
+      "image_url": "https://images.pokemontcg.io/swsh3/138_hires.png",
+      "national_dex_number": 216,
+      "rarity": "Common",
+      "species_name": "teddiursa",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-139",
+      "card_number": "139",
+      "image_url": "https://images.pokemontcg.io/swsh3/139_hires.png",
+      "national_dex_number": 217,
+      "rarity": "Uncommon",
+      "species_name": "ursaring",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-140",
+      "card_number": "140",
+      "image_url": "https://images.pokemontcg.io/swsh3/140_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Rare",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-141",
+      "card_number": "141",
+      "image_url": "https://images.pokemontcg.io/swsh3/141_hires.png",
+      "national_dex_number": 300,
+      "rarity": "Common",
+      "species_name": "skitty",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-142",
+      "card_number": "142",
+      "image_url": "https://images.pokemontcg.io/swsh3/142_hires.png",
+      "national_dex_number": 301,
+      "rarity": "Rare",
+      "species_name": "delcatty",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-143",
+      "card_number": "143",
+      "image_url": "https://images.pokemontcg.io/swsh3/143_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Rare Holo V",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-144",
+      "card_number": "144",
+      "image_url": "https://images.pokemontcg.io/swsh3/144_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-145",
+      "card_number": "145",
+      "image_url": "https://images.pokemontcg.io/swsh3/145_hires.png",
+      "national_dex_number": 396,
+      "rarity": "Common",
+      "species_name": "starly",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-146",
+      "card_number": "146",
+      "image_url": "https://images.pokemontcg.io/swsh3/146_hires.png",
+      "national_dex_number": 397,
+      "rarity": "Uncommon",
+      "species_name": "staravia",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-147",
+      "card_number": "147",
+      "image_url": "https://images.pokemontcg.io/swsh3/147_hires.png",
+      "national_dex_number": 398,
+      "rarity": "Rare",
+      "species_name": "staraptor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-148",
+      "card_number": "148",
+      "image_url": "https://images.pokemontcg.io/swsh3/148_hires.png",
+      "national_dex_number": 580,
+      "rarity": "Common",
+      "species_name": "ducklett",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-149",
+      "card_number": "149",
+      "image_url": "https://images.pokemontcg.io/swsh3/149_hires.png",
+      "national_dex_number": 581,
+      "rarity": "Rare",
+      "species_name": "swanna",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-150",
+      "card_number": "150",
+      "image_url": "https://images.pokemontcg.io/swsh3/150_hires.png",
+      "national_dex_number": 659,
+      "rarity": "Common",
+      "species_name": "bunnelby",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-151",
+      "card_number": "151",
+      "image_url": "https://images.pokemontcg.io/swsh3/151_hires.png",
+      "national_dex_number": 661,
+      "rarity": "Common",
+      "species_name": "fletchling",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-152",
+      "card_number": "152",
+      "image_url": "https://images.pokemontcg.io/swsh3/152_hires.png",
+      "national_dex_number": 819,
+      "rarity": "Common",
+      "species_name": "skwovet",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-153",
+      "card_number": "153",
+      "image_url": "https://images.pokemontcg.io/swsh3/153_hires.png",
+      "national_dex_number": 820,
+      "rarity": "Rare",
+      "species_name": "greedent",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-154",
+      "card_number": "154",
+      "image_url": "https://images.pokemontcg.io/swsh3/154_hires.png",
+      "national_dex_number": 821,
+      "rarity": "Common",
+      "species_name": "rookidee",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-155",
+      "card_number": "155",
+      "image_url": "https://images.pokemontcg.io/swsh3/155_hires.png",
+      "national_dex_number": 822,
+      "rarity": "Uncommon",
+      "species_name": "corvisquire",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-156",
+      "card_number": "156",
+      "image_url": "https://images.pokemontcg.io/swsh3/156_hires.png",
+      "national_dex_number": 823,
+      "rarity": "Rare Holo",
+      "species_name": "corviknight",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-157",
+      "card_number": "157",
+      "image_url": "https://images.pokemontcg.io/swsh3/157_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-158",
+      "card_number": "158",
+      "image_url": "https://images.pokemontcg.io/swsh3/158_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-159",
+      "card_number": "159",
+      "image_url": "https://images.pokemontcg.io/swsh3/159_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-160",
+      "card_number": "160",
+      "image_url": "https://images.pokemontcg.io/swsh3/160_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-161",
+      "card_number": "161",
+      "image_url": "https://images.pokemontcg.io/swsh3/161_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-162",
+      "card_number": "162",
+      "image_url": "https://images.pokemontcg.io/swsh3/162_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-163",
+      "card_number": "163",
+      "image_url": "https://images.pokemontcg.io/swsh3/163_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-164",
+      "card_number": "164",
+      "image_url": "https://images.pokemontcg.io/swsh3/164_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-165",
+      "card_number": "165",
+      "image_url": "https://images.pokemontcg.io/swsh3/165_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-166",
+      "card_number": "166",
+      "image_url": "https://images.pokemontcg.io/swsh3/166_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-167",
+      "card_number": "167",
+      "image_url": "https://images.pokemontcg.io/swsh3/167_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-168",
+      "card_number": "168",
+      "image_url": "https://images.pokemontcg.io/swsh3/168_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-169",
+      "card_number": "169",
+      "image_url": "https://images.pokemontcg.io/swsh3/169_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-170",
+      "card_number": "170",
+      "image_url": "https://images.pokemontcg.io/swsh3/170_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-171",
+      "card_number": "171",
+      "image_url": "https://images.pokemontcg.io/swsh3/171_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-172",
+      "card_number": "172",
+      "image_url": "https://images.pokemontcg.io/swsh3/172_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-173",
+      "card_number": "173",
+      "image_url": "https://images.pokemontcg.io/swsh3/173_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-174",
+      "card_number": "174",
+      "image_url": "https://images.pokemontcg.io/swsh3/174_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-175",
+      "card_number": "175",
+      "image_url": "https://images.pokemontcg.io/swsh3/175_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-176",
+      "card_number": "176",
+      "image_url": "https://images.pokemontcg.io/swsh3/176_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-177",
+      "card_number": "177",
+      "image_url": "https://images.pokemontcg.io/swsh3/177_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare Ultra",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-178",
+      "card_number": "178",
+      "image_url": "https://images.pokemontcg.io/swsh3/178_hires.png",
+      "national_dex_number": 229,
+      "rarity": "Rare Ultra",
+      "species_name": "houndoom",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-179",
+      "card_number": "179",
+      "image_url": "https://images.pokemontcg.io/swsh3/179_hires.png",
+      "national_dex_number": 851,
+      "rarity": "Rare Ultra",
+      "species_name": "centiskorch",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-180",
+      "card_number": "180",
+      "image_url": "https://images.pokemontcg.io/swsh3/180_hires.png",
+      "national_dex_number": 738,
+      "rarity": "Rare Ultra",
+      "species_name": "vikavolt",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-181",
+      "card_number": "181",
+      "image_url": "https://images.pokemontcg.io/swsh3/181_hires.png",
+      "national_dex_number": 464,
+      "rarity": "Rare Ultra",
+      "species_name": "rhyperior",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-182",
+      "card_number": "182",
+      "image_url": "https://images.pokemontcg.io/swsh3/182_hires.png",
+      "national_dex_number": 169,
+      "rarity": "Rare Ultra",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-183",
+      "card_number": "183",
+      "image_url": "https://images.pokemontcg.io/swsh3/183_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Ultra",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-184",
+      "card_number": "184",
+      "image_url": "https://images.pokemontcg.io/swsh3/184_hires.png",
+      "national_dex_number": 618,
+      "rarity": "Rare Ultra",
+      "species_name": "stunfisk",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-185",
+      "card_number": "185",
+      "image_url": "https://images.pokemontcg.io/swsh3/185_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Rare Ultra",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-186",
+      "card_number": "186",
+      "image_url": "https://images.pokemontcg.io/swsh3/186_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-187",
+      "card_number": "187",
+      "image_url": "https://images.pokemontcg.io/swsh3/187_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-188",
+      "card_number": "188",
+      "image_url": "https://images.pokemontcg.io/swsh3/188_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-189",
+      "card_number": "189",
+      "image_url": "https://images.pokemontcg.io/swsh3/189_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-190",
+      "card_number": "190",
+      "image_url": "https://images.pokemontcg.io/swsh3/190_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare Rainbow",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-191",
+      "card_number": "191",
+      "image_url": "https://images.pokemontcg.io/swsh3/191_hires.png",
+      "national_dex_number": 851,
+      "rarity": "Rare Rainbow",
+      "species_name": "centiskorch",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-192",
+      "card_number": "192",
+      "image_url": "https://images.pokemontcg.io/swsh3/192_hires.png",
+      "national_dex_number": 890,
+      "rarity": "Rare Rainbow",
+      "species_name": "eternatus",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-193",
+      "card_number": "193",
+      "image_url": "https://images.pokemontcg.io/swsh3/193_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Rainbow",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-194",
+      "card_number": "194",
+      "image_url": "https://images.pokemontcg.io/swsh3/194_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Rare Rainbow",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-195",
+      "card_number": "195",
+      "image_url": "https://images.pokemontcg.io/swsh3/195_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Rainbow",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-196",
+      "card_number": "196",
+      "image_url": "https://images.pokemontcg.io/swsh3/196_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Rainbow",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-197",
+      "card_number": "197",
+      "image_url": "https://images.pokemontcg.io/swsh3/197_hires.png",
+      "national_dex_number": 812,
+      "rarity": "Rare Secret",
+      "species_name": "rillaboom",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-198",
+      "card_number": "198",
+      "image_url": "https://images.pokemontcg.io/swsh3/198_hires.png",
+      "national_dex_number": 839,
+      "rarity": "Rare Secret",
+      "species_name": "coalossal",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-199",
+      "card_number": "199",
+      "image_url": "https://images.pokemontcg.io/swsh3/199_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-200",
+      "card_number": "200",
+      "image_url": "https://images.pokemontcg.io/swsh3/200_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh3-201",
+      "card_number": "201",
+      "image_url": "https://images.pokemontcg.io/swsh3/201_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Secret",
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "swsh3",
+    "name": "Darkness Ablaze",
+    "release_date": "2020-08-14",
+    "series": "Sword & Shield"
+  }
+}

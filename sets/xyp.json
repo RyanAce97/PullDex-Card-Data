@@ -1,0 +1,1955 @@
+{
+  "card_count": 216,
+  "cards": [
+    {
+      "api_card_id": "xyp-XY01",
+      "card_number": "XY01",
+      "image_url": "https://images.pokemontcg.io/xyp/XY01_hires.png",
+      "national_dex_number": 650,
+      "rarity": "Promo",
+      "species_name": "chespin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY02",
+      "card_number": "XY02",
+      "image_url": "https://images.pokemontcg.io/xyp/XY02_hires.png",
+      "national_dex_number": 653,
+      "rarity": "Promo",
+      "species_name": "fennekin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY03",
+      "card_number": "XY03",
+      "image_url": "https://images.pokemontcg.io/xyp/XY03_hires.png",
+      "national_dex_number": 656,
+      "rarity": "Promo",
+      "species_name": "froakie",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY04",
+      "card_number": "XY04",
+      "image_url": "https://images.pokemontcg.io/xyp/XY04_hires.png",
+      "national_dex_number": 700,
+      "rarity": "Promo",
+      "species_name": "sylveon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY05",
+      "card_number": "XY05",
+      "image_url": "https://images.pokemontcg.io/xyp/XY05_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Promo",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY06",
+      "card_number": "XY06",
+      "image_url": "https://images.pokemontcg.io/xyp/XY06_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Promo",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY07",
+      "card_number": "XY07",
+      "image_url": "https://images.pokemontcg.io/xyp/XY07_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Promo",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY08",
+      "card_number": "XY08",
+      "image_url": "https://images.pokemontcg.io/xyp/XY08_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Promo",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY09",
+      "card_number": "XY09",
+      "image_url": "https://images.pokemontcg.io/xyp/XY09_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Promo",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY10",
+      "card_number": "XY10",
+      "image_url": "https://images.pokemontcg.io/xyp/XY10_hires.png",
+      "national_dex_number": 691,
+      "rarity": "Promo",
+      "species_name": "dragalge",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY100",
+      "card_number": "XY100",
+      "image_url": "https://images.pokemontcg.io/xyp/XY100_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY101",
+      "card_number": "XY101",
+      "image_url": "https://images.pokemontcg.io/xyp/XY101_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY102",
+      "card_number": "XY102",
+      "image_url": "https://images.pokemontcg.io/xyp/XY102_hires.png",
+      "national_dex_number": 699,
+      "rarity": "Promo",
+      "species_name": "aurorus",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY103",
+      "card_number": "XY103",
+      "image_url": "https://images.pokemontcg.io/xyp/XY103_hires.png",
+      "national_dex_number": 303,
+      "rarity": "Promo",
+      "species_name": "mawile",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY104",
+      "card_number": "XY104",
+      "image_url": "https://images.pokemontcg.io/xyp/XY104_hires.png",
+      "national_dex_number": 303,
+      "rarity": "Promo",
+      "species_name": "mawile",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY105",
+      "card_number": "XY105",
+      "image_url": "https://images.pokemontcg.io/xyp/XY105_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY106",
+      "card_number": "XY106",
+      "image_url": "https://images.pokemontcg.io/xyp/XY106_hires.png",
+      "national_dex_number": 130,
+      "rarity": "Promo",
+      "species_name": "gyarados",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY107",
+      "card_number": "XY107",
+      "image_url": "https://images.pokemontcg.io/xyp/XY107_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY108",
+      "card_number": "XY108",
+      "image_url": "https://images.pokemontcg.io/xyp/XY108_hires.png",
+      "national_dex_number": 68,
+      "rarity": "Promo",
+      "species_name": "machamp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY109",
+      "card_number": "XY109",
+      "image_url": "https://images.pokemontcg.io/xyp/XY109_hires.png",
+      "national_dex_number": 130,
+      "rarity": "Promo",
+      "species_name": "gyarados",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY11",
+      "card_number": "XY11",
+      "image_url": "https://images.pokemontcg.io/xyp/XY11_hires.png",
+      "national_dex_number": 672,
+      "rarity": "Promo",
+      "species_name": "skiddo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY110",
+      "card_number": "XY110",
+      "image_url": "https://images.pokemontcg.io/xyp/XY110_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY111",
+      "card_number": "XY111",
+      "image_url": "https://images.pokemontcg.io/xyp/XY111_hires.png",
+      "national_dex_number": 251,
+      "rarity": "Promo",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY112",
+      "card_number": "XY112",
+      "image_url": "https://images.pokemontcg.io/xyp/XY112_hires.png",
+      "national_dex_number": 385,
+      "rarity": "Promo",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY113",
+      "card_number": "XY113",
+      "image_url": "https://images.pokemontcg.io/xyp/XY113_hires.png",
+      "national_dex_number": 490,
+      "rarity": "Promo",
+      "species_name": "manaphy",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY114",
+      "card_number": "XY114",
+      "image_url": "https://images.pokemontcg.io/xyp/XY114_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY115",
+      "card_number": "XY115",
+      "image_url": "https://images.pokemontcg.io/xyp/XY115_hires.png",
+      "national_dex_number": 492,
+      "rarity": "Promo",
+      "species_name": "shaymin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY116",
+      "card_number": "XY116",
+      "image_url": "https://images.pokemontcg.io/xyp/XY116_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY117",
+      "card_number": "XY117",
+      "image_url": "https://images.pokemontcg.io/xyp/XY117_hires.png",
+      "national_dex_number": 494,
+      "rarity": "Promo",
+      "species_name": "victini",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY118",
+      "card_number": "XY118",
+      "image_url": "https://images.pokemontcg.io/xyp/XY118_hires.png",
+      "national_dex_number": 647,
+      "rarity": "Promo",
+      "species_name": "keldeo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY119",
+      "card_number": "XY119",
+      "image_url": "https://images.pokemontcg.io/xyp/XY119_hires.png",
+      "national_dex_number": 649,
+      "rarity": "Promo",
+      "species_name": "genesect",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY12",
+      "card_number": "XY12",
+      "image_url": "https://images.pokemontcg.io/xyp/XY12_hires.png",
+      "national_dex_number": 679,
+      "rarity": "Promo",
+      "species_name": "honedge",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY120",
+      "card_number": "XY120",
+      "image_url": "https://images.pokemontcg.io/xyp/XY120_hires.png",
+      "national_dex_number": 648,
+      "rarity": "Promo",
+      "species_name": "meloetta",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY121",
+      "card_number": "XY121",
+      "image_url": "https://images.pokemontcg.io/xyp/XY121_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY122",
+      "card_number": "XY122",
+      "image_url": "https://images.pokemontcg.io/xyp/XY122_hires.png",
+      "national_dex_number": 9,
+      "rarity": "Promo",
+      "species_name": "blastoise",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY123",
+      "card_number": "XY123",
+      "image_url": "https://images.pokemontcg.io/xyp/XY123_hires.png",
+      "national_dex_number": 3,
+      "rarity": "Promo",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY124",
+      "card_number": "XY124",
+      "image_url": "https://images.pokemontcg.io/xyp/XY124_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY125",
+      "card_number": "XY125",
+      "image_url": "https://images.pokemontcg.io/xyp/XY125_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY126",
+      "card_number": "XY126",
+      "image_url": "https://images.pokemontcg.io/xyp/XY126_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY127",
+      "card_number": "XY127",
+      "image_url": "https://images.pokemontcg.io/xyp/XY127_hires.png",
+      "national_dex_number": 146,
+      "rarity": "Promo",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY128",
+      "card_number": "XY128",
+      "image_url": "https://images.pokemontcg.io/xyp/XY128_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY129",
+      "card_number": "XY129",
+      "image_url": "https://images.pokemontcg.io/xyp/XY129_hires.png",
+      "national_dex_number": 718,
+      "rarity": "Promo",
+      "species_name": "zygarde",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY13",
+      "card_number": "XY13",
+      "image_url": "https://images.pokemontcg.io/xyp/XY13_hires.png",
+      "national_dex_number": 68,
+      "rarity": "Promo",
+      "species_name": "machamp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY130",
+      "card_number": "XY130",
+      "image_url": "https://images.pokemontcg.io/xyp/XY130_hires.png",
+      "national_dex_number": 248,
+      "rarity": "Promo",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY131",
+      "card_number": "XY131",
+      "image_url": "https://images.pokemontcg.io/xyp/XY131_hires.png",
+      "national_dex_number": 513,
+      "rarity": "Promo",
+      "species_name": "pansear",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY132",
+      "card_number": "XY132",
+      "image_url": "https://images.pokemontcg.io/xyp/XY132_hires.png",
+      "national_dex_number": 92,
+      "rarity": "Promo",
+      "species_name": "gastly",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY133",
+      "card_number": "XY133",
+      "image_url": "https://images.pokemontcg.io/xyp/XY133_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Promo",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY134",
+      "card_number": "XY134",
+      "image_url": "https://images.pokemontcg.io/xyp/XY134_hires.png",
+      "national_dex_number": 395,
+      "rarity": "Promo",
+      "species_name": "empoleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY135",
+      "card_number": "XY135",
+      "image_url": "https://images.pokemontcg.io/xyp/XY135_hires.png",
+      "national_dex_number": 606,
+      "rarity": "Promo",
+      "species_name": "beheeyem",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY136",
+      "card_number": "XY136",
+      "image_url": "https://images.pokemontcg.io/xyp/XY136_hires.png",
+      "national_dex_number": 164,
+      "rarity": "Promo",
+      "species_name": "noctowl",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY137",
+      "card_number": "XY137",
+      "image_url": "https://images.pokemontcg.io/xyp/XY137_hires.png",
+      "national_dex_number": 666,
+      "rarity": "Promo",
+      "species_name": "vivillon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY138",
+      "card_number": "XY138",
+      "image_url": "https://images.pokemontcg.io/xyp/XY138_hires.png",
+      "national_dex_number": 656,
+      "rarity": "Promo",
+      "species_name": "froakie",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY139",
+      "card_number": "XY139",
+      "image_url": "https://images.pokemontcg.io/xyp/XY139_hires.png",
+      "national_dex_number": 670,
+      "rarity": "Promo",
+      "species_name": "floette",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY14",
+      "card_number": "XY14",
+      "image_url": "https://images.pokemontcg.io/xyp/XY14_hires.png",
+      "national_dex_number": 709,
+      "rarity": "Promo",
+      "species_name": "trevenant",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY140",
+      "card_number": "XY140",
+      "image_url": "https://images.pokemontcg.io/xyp/XY140_hires.png",
+      "national_dex_number": 448,
+      "rarity": "Promo",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY141",
+      "card_number": "XY141",
+      "image_url": "https://images.pokemontcg.io/xyp/XY141_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY142",
+      "card_number": "XY142",
+      "image_url": "https://images.pokemontcg.io/xyp/XY142_hires.png",
+      "national_dex_number": 482,
+      "rarity": "Promo",
+      "species_name": "azelf",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY143",
+      "card_number": "XY143",
+      "image_url": "https://images.pokemontcg.io/xyp/XY143_hires.png",
+      "national_dex_number": 129,
+      "rarity": "Promo",
+      "species_name": "magikarp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY144",
+      "card_number": "XY144",
+      "image_url": "https://images.pokemontcg.io/xyp/XY144_hires.png",
+      "national_dex_number": 469,
+      "rarity": "Promo",
+      "species_name": "yanmega",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY145",
+      "card_number": "XY145",
+      "image_url": "https://images.pokemontcg.io/xyp/XY145_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Promo",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY146",
+      "card_number": "XY146",
+      "image_url": "https://images.pokemontcg.io/xyp/XY146_hires.png",
+      "national_dex_number": 693,
+      "rarity": "Promo",
+      "species_name": "clawitzer",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY147",
+      "card_number": "XY147",
+      "image_url": "https://images.pokemontcg.io/xyp/XY147_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Promo",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY148",
+      "card_number": "XY148",
+      "image_url": "https://images.pokemontcg.io/xyp/XY148_hires.png",
+      "national_dex_number": 492,
+      "rarity": "Promo",
+      "species_name": "shaymin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY149",
+      "card_number": "XY149",
+      "image_url": "https://images.pokemontcg.io/xyp/XY149_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Promo",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY15",
+      "card_number": "XY15",
+      "image_url": "https://images.pokemontcg.io/xyp/XY15_hires.png",
+      "national_dex_number": 685,
+      "rarity": "Promo",
+      "species_name": "slurpuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY150",
+      "card_number": "XY150",
+      "image_url": "https://images.pokemontcg.io/xyp/XY150_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Promo",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY150a",
+      "card_number": "XY150a",
+      "image_url": "https://images.pokemontcg.io/xyp/XY150a_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Promo",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY151",
+      "card_number": "XY151",
+      "image_url": "https://images.pokemontcg.io/xyp/XY151_hires.png",
+      "national_dex_number": 718,
+      "rarity": "Promo",
+      "species_name": "zygarde",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY152",
+      "card_number": "XY152",
+      "image_url": "https://images.pokemontcg.io/xyp/XY152_hires.png",
+      "national_dex_number": 718,
+      "rarity": "Promo",
+      "species_name": "zygarde",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY153",
+      "card_number": "XY153",
+      "image_url": "https://images.pokemontcg.io/xyp/XY153_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Promo",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY154",
+      "card_number": "XY154",
+      "image_url": "https://images.pokemontcg.io/xyp/XY154_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Promo",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY155",
+      "card_number": "XY155",
+      "image_url": "https://images.pokemontcg.io/xyp/XY155_hires.png",
+      "national_dex_number": 202,
+      "rarity": "Promo",
+      "species_name": "wobbuffet",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY156",
+      "card_number": "XY156",
+      "image_url": "https://images.pokemontcg.io/xyp/XY156_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Promo",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY157",
+      "card_number": "XY157",
+      "image_url": "https://images.pokemontcg.io/xyp/XY157_hires.png",
+      "national_dex_number": 15,
+      "rarity": "Promo",
+      "species_name": "beedrill",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY158",
+      "card_number": "XY158",
+      "image_url": "https://images.pokemontcg.io/xyp/XY158_hires.png",
+      "national_dex_number": 15,
+      "rarity": "Promo",
+      "species_name": "beedrill",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY159",
+      "card_number": "XY159",
+      "image_url": "https://images.pokemontcg.io/xyp/XY159_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY16",
+      "card_number": "XY16",
+      "image_url": "https://images.pokemontcg.io/xyp/XY16_hires.png",
+      "national_dex_number": 673,
+      "rarity": "Promo",
+      "species_name": "gogoat",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY160",
+      "card_number": "XY160",
+      "image_url": "https://images.pokemontcg.io/xyp/XY160_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY161",
+      "card_number": "XY161",
+      "image_url": "https://images.pokemontcg.io/xyp/XY161_hires.png",
+      "national_dex_number": 654,
+      "rarity": "Promo",
+      "species_name": "braixen",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY162",
+      "card_number": "XY162",
+      "image_url": "https://images.pokemontcg.io/xyp/XY162_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Promo",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY163",
+      "card_number": "XY163",
+      "image_url": "https://images.pokemontcg.io/xyp/XY163_hires.png",
+      "national_dex_number": 110,
+      "rarity": "Promo",
+      "species_name": "weezing",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY164",
+      "card_number": "XY164",
+      "image_url": "https://images.pokemontcg.io/xyp/XY164_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Promo",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY165",
+      "card_number": "XY165",
+      "image_url": "https://images.pokemontcg.io/xyp/XY165_hires.png",
+      "national_dex_number": 801,
+      "rarity": "Promo",
+      "species_name": "magearna",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY166",
+      "card_number": "XY166",
+      "image_url": "https://images.pokemontcg.io/xyp/XY166_hires.png",
+      "national_dex_number": 94,
+      "rarity": "Promo",
+      "species_name": "gengar",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY167",
+      "card_number": "XY167",
+      "image_url": "https://images.pokemontcg.io/xyp/XY167_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Promo",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY168",
+      "card_number": "XY168",
+      "image_url": "https://images.pokemontcg.io/xyp/XY168_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Promo",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY169",
+      "card_number": "XY169",
+      "image_url": "https://images.pokemontcg.io/xyp/XY169_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY17",
+      "card_number": "XY17",
+      "image_url": "https://images.pokemontcg.io/xyp/XY17_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY170",
+      "card_number": "XY170",
+      "image_url": "https://images.pokemontcg.io/xyp/XY170_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Promo",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY171",
+      "card_number": "XY171",
+      "image_url": "https://images.pokemontcg.io/xyp/XY171_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Promo",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY172",
+      "card_number": "XY172",
+      "image_url": "https://images.pokemontcg.io/xyp/XY172_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY173",
+      "card_number": "XY173",
+      "image_url": "https://images.pokemontcg.io/xyp/XY173_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Promo",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY174",
+      "card_number": "XY174",
+      "image_url": "https://images.pokemontcg.io/xyp/XY174_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY175",
+      "card_number": "XY175",
+      "image_url": "https://images.pokemontcg.io/xyp/XY175_hires.png",
+      "national_dex_number": 801,
+      "rarity": "Promo",
+      "species_name": "magearna",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY176",
+      "card_number": "XY176",
+      "image_url": "https://images.pokemontcg.io/xyp/XY176_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY177",
+      "card_number": "XY177",
+      "image_url": "https://images.pokemontcg.io/xyp/XY177_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY177a",
+      "card_number": "XY177a",
+      "image_url": "https://images.pokemontcg.io/xyp/XY177a_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY178",
+      "card_number": "XY178",
+      "image_url": "https://images.pokemontcg.io/xyp/XY178_hires.png",
+      "national_dex_number": 359,
+      "rarity": "Promo",
+      "species_name": "absol",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY179",
+      "card_number": "XY179",
+      "image_url": "https://images.pokemontcg.io/xyp/XY179_hires.png",
+      "national_dex_number": 143,
+      "rarity": "Promo",
+      "species_name": "snorlax",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY18",
+      "card_number": "XY18",
+      "image_url": "https://images.pokemontcg.io/xyp/XY18_hires.png",
+      "national_dex_number": 652,
+      "rarity": "Promo",
+      "species_name": "chesnaught",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY180",
+      "card_number": "XY180",
+      "image_url": "https://images.pokemontcg.io/xyp/XY180_hires.png",
+      "national_dex_number": 59,
+      "rarity": "Promo",
+      "species_name": "arcanine",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY181",
+      "card_number": "XY181",
+      "image_url": "https://images.pokemontcg.io/xyp/XY181_hires.png",
+      "national_dex_number": 169,
+      "rarity": "Promo",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY182",
+      "card_number": "XY182",
+      "image_url": "https://images.pokemontcg.io/xyp/XY182_hires.png",
+      "national_dex_number": 630,
+      "rarity": "Promo",
+      "species_name": "mandibuzz",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY183",
+      "card_number": "XY183",
+      "image_url": "https://images.pokemontcg.io/xyp/XY183_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY184",
+      "card_number": "XY184",
+      "image_url": "https://images.pokemontcg.io/xyp/XY184_hires.png",
+      "national_dex_number": 487,
+      "rarity": "Promo",
+      "species_name": "giratina",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY185",
+      "card_number": "XY185",
+      "image_url": "https://images.pokemontcg.io/xyp/XY185_hires.png",
+      "national_dex_number": 721,
+      "rarity": "Promo",
+      "species_name": "volcanion",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY186",
+      "card_number": "XY186",
+      "image_url": "https://images.pokemontcg.io/xyp/XY186_hires.png",
+      "national_dex_number": 801,
+      "rarity": "Promo",
+      "species_name": "magearna",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY187",
+      "card_number": "XY187",
+      "image_url": "https://images.pokemontcg.io/xyp/XY187_hires.png",
+      "national_dex_number": 251,
+      "rarity": "Promo",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY188",
+      "card_number": "XY188",
+      "image_url": "https://images.pokemontcg.io/xyp/XY188_hires.png",
+      "national_dex_number": 492,
+      "rarity": "Promo",
+      "species_name": "shaymin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY189",
+      "card_number": "XY189",
+      "image_url": "https://images.pokemontcg.io/xyp/XY189_hires.png",
+      "national_dex_number": 494,
+      "rarity": "Promo",
+      "species_name": "victini",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY19",
+      "card_number": "XY19",
+      "image_url": "https://images.pokemontcg.io/xyp/XY19_hires.png",
+      "national_dex_number": 655,
+      "rarity": "Promo",
+      "species_name": "delphox",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY190",
+      "card_number": "XY190",
+      "image_url": "https://images.pokemontcg.io/xyp/XY190_hires.png",
+      "national_dex_number": 490,
+      "rarity": "Promo",
+      "species_name": "manaphy",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY191",
+      "card_number": "XY191",
+      "image_url": "https://images.pokemontcg.io/xyp/XY191_hires.png",
+      "national_dex_number": 647,
+      "rarity": "Promo",
+      "species_name": "keldeo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY192",
+      "card_number": "XY192",
+      "image_url": "https://images.pokemontcg.io/xyp/XY192_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY193",
+      "card_number": "XY193",
+      "image_url": "https://images.pokemontcg.io/xyp/XY193_hires.png",
+      "national_dex_number": 648,
+      "rarity": "Promo",
+      "species_name": "meloetta",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY194",
+      "card_number": "XY194",
+      "image_url": "https://images.pokemontcg.io/xyp/XY194_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY195",
+      "card_number": "XY195",
+      "image_url": "https://images.pokemontcg.io/xyp/XY195_hires.png",
+      "national_dex_number": 385,
+      "rarity": "Promo",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY196",
+      "card_number": "XY196",
+      "image_url": "https://images.pokemontcg.io/xyp/XY196_hires.png",
+      "national_dex_number": 649,
+      "rarity": "Promo",
+      "species_name": "genesect",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY197",
+      "card_number": "XY197",
+      "image_url": "https://images.pokemontcg.io/xyp/XY197_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY198",
+      "card_number": "XY198",
+      "image_url": "https://images.pokemontcg.io/xyp/XY198_hires.png",
+      "national_dex_number": 323,
+      "rarity": "Promo",
+      "species_name": "camerupt",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY198a",
+      "card_number": "XY198a",
+      "image_url": "https://images.pokemontcg.io/xyp/XY198a_hires.png",
+      "national_dex_number": 323,
+      "rarity": "Promo",
+      "species_name": "camerupt",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY199",
+      "card_number": "XY199",
+      "image_url": "https://images.pokemontcg.io/xyp/XY199_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY20",
+      "card_number": "XY20",
+      "image_url": "https://images.pokemontcg.io/xyp/XY20_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Promo",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY200",
+      "card_number": "XY200",
+      "image_url": "https://images.pokemontcg.io/xyp/XY200_hires.png",
+      "national_dex_number": 319,
+      "rarity": "Promo",
+      "species_name": "sharpedo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY200a",
+      "card_number": "XY200a",
+      "image_url": "https://images.pokemontcg.io/xyp/XY200a_hires.png",
+      "national_dex_number": 319,
+      "rarity": "Promo",
+      "species_name": "sharpedo",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY201",
+      "card_number": "XY201",
+      "image_url": "https://images.pokemontcg.io/xyp/XY201_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY202",
+      "card_number": "XY202",
+      "image_url": "https://images.pokemontcg.io/xyp/XY202_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY203",
+      "card_number": "XY203",
+      "image_url": "https://images.pokemontcg.io/xyp/XY203_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY204",
+      "card_number": "XY204",
+      "image_url": "https://images.pokemontcg.io/xyp/XY204_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY205",
+      "card_number": "XY205",
+      "image_url": "https://images.pokemontcg.io/xyp/XY205_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY206",
+      "card_number": "XY206",
+      "image_url": "https://images.pokemontcg.io/xyp/XY206_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY207",
+      "card_number": "XY207",
+      "image_url": "https://images.pokemontcg.io/xyp/XY207_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY208",
+      "card_number": "XY208",
+      "image_url": "https://images.pokemontcg.io/xyp/XY208_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY209",
+      "card_number": "XY209",
+      "image_url": "https://images.pokemontcg.io/xyp/XY209_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY21",
+      "card_number": "XY21",
+      "image_url": "https://images.pokemontcg.io/xyp/XY21_hires.png",
+      "national_dex_number": 437,
+      "rarity": "Promo",
+      "species_name": "bronzong",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY210",
+      "card_number": "XY210",
+      "image_url": "https://images.pokemontcg.io/xyp/XY210_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY211",
+      "card_number": "XY211",
+      "image_url": "https://images.pokemontcg.io/xyp/XY211_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY22",
+      "card_number": "XY22",
+      "image_url": "https://images.pokemontcg.io/xyp/XY22_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY23",
+      "card_number": "XY23",
+      "image_url": "https://images.pokemontcg.io/xyp/XY23_hires.png",
+      "national_dex_number": 275,
+      "rarity": "Promo",
+      "species_name": "shiftry",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY24",
+      "card_number": "XY24",
+      "image_url": "https://images.pokemontcg.io/xyp/XY24_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Promo",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY25",
+      "card_number": "XY25",
+      "image_url": "https://images.pokemontcg.io/xyp/XY25_hires.png",
+      "national_dex_number": 553,
+      "rarity": "Promo",
+      "species_name": "krookodile",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY26",
+      "card_number": "XY26",
+      "image_url": "https://images.pokemontcg.io/xyp/XY26_hires.png",
+      "national_dex_number": 668,
+      "rarity": "Promo",
+      "species_name": "pyroar",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY27",
+      "card_number": "XY27",
+      "image_url": "https://images.pokemontcg.io/xyp/XY27_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY28",
+      "card_number": "XY28",
+      "image_url": "https://images.pokemontcg.io/xyp/XY28_hires.png",
+      "national_dex_number": 3,
+      "rarity": "Promo",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY29",
+      "card_number": "XY29",
+      "image_url": "https://images.pokemontcg.io/xyp/XY29_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Promo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY30",
+      "card_number": "XY30",
+      "image_url": "https://images.pokemontcg.io/xyp/XY30_hires.png",
+      "national_dex_number": 9,
+      "rarity": "Promo",
+      "species_name": "blastoise",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY31",
+      "card_number": "XY31",
+      "image_url": "https://images.pokemontcg.io/xyp/XY31_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Promo",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY32",
+      "card_number": "XY32",
+      "image_url": "https://images.pokemontcg.io/xyp/XY32_hires.png",
+      "national_dex_number": 717,
+      "rarity": "Promo",
+      "species_name": "yveltal",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY33",
+      "card_number": "XY33",
+      "image_url": "https://images.pokemontcg.io/xyp/XY33_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY34",
+      "card_number": "XY34",
+      "image_url": "https://images.pokemontcg.io/xyp/XY34_hires.png",
+      "national_dex_number": 376,
+      "rarity": "Promo",
+      "species_name": "metagross",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY35",
+      "card_number": "XY35",
+      "image_url": "https://images.pokemontcg.io/xyp/XY35_hires.png",
+      "national_dex_number": 376,
+      "rarity": "Promo",
+      "species_name": "metagross",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY36",
+      "card_number": "XY36",
+      "image_url": "https://images.pokemontcg.io/xyp/XY36_hires.png",
+      "national_dex_number": 252,
+      "rarity": "Promo",
+      "species_name": "treecko",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY37",
+      "card_number": "XY37",
+      "image_url": "https://images.pokemontcg.io/xyp/XY37_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Promo",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY38",
+      "card_number": "XY38",
+      "image_url": "https://images.pokemontcg.io/xyp/XY38_hires.png",
+      "national_dex_number": 258,
+      "rarity": "Promo",
+      "species_name": "mudkip",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY39",
+      "card_number": "XY39",
+      "image_url": "https://images.pokemontcg.io/xyp/XY39_hires.png",
+      "national_dex_number": 230,
+      "rarity": "Promo",
+      "species_name": "kingdra",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY40",
+      "card_number": "XY40",
+      "image_url": "https://images.pokemontcg.io/xyp/XY40_hires.png",
+      "national_dex_number": 132,
+      "rarity": "Promo",
+      "species_name": "ditto",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY41",
+      "card_number": "XY41",
+      "image_url": "https://images.pokemontcg.io/xyp/XY41_hires.png",
+      "national_dex_number": 382,
+      "rarity": "Promo",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY42",
+      "card_number": "XY42",
+      "image_url": "https://images.pokemontcg.io/xyp/XY42_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Promo",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY43",
+      "card_number": "XY43",
+      "image_url": "https://images.pokemontcg.io/xyp/XY43_hires.png",
+      "national_dex_number": 719,
+      "rarity": "Promo",
+      "species_name": "diancie",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY44",
+      "card_number": "XY44",
+      "image_url": "https://images.pokemontcg.io/xyp/XY44_hires.png",
+      "national_dex_number": 719,
+      "rarity": "Promo",
+      "species_name": "diancie",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY45",
+      "card_number": "XY45",
+      "image_url": "https://images.pokemontcg.io/xyp/XY45_hires.png",
+      "national_dex_number": 475,
+      "rarity": "Promo",
+      "species_name": "gallade",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY46",
+      "card_number": "XY46",
+      "image_url": "https://images.pokemontcg.io/xyp/XY46_hires.png",
+      "national_dex_number": 334,
+      "rarity": "Promo",
+      "species_name": "altaria",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY47",
+      "card_number": "XY47",
+      "image_url": "https://images.pokemontcg.io/xyp/XY47_hires.png",
+      "national_dex_number": 695,
+      "rarity": "Promo",
+      "species_name": "heliolisk",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY48",
+      "card_number": "XY48",
+      "image_url": "https://images.pokemontcg.io/xyp/XY48_hires.png",
+      "national_dex_number": 678,
+      "rarity": "Promo",
+      "species_name": "meowstic",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY49",
+      "card_number": "XY49",
+      "image_url": "https://images.pokemontcg.io/xyp/XY49_hires.png",
+      "national_dex_number": 377,
+      "rarity": "Promo",
+      "species_name": "regirock",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY50",
+      "card_number": "XY50",
+      "image_url": "https://images.pokemontcg.io/xyp/XY50_hires.png",
+      "national_dex_number": 675,
+      "rarity": "Promo",
+      "species_name": "pangoro",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY51",
+      "card_number": "XY51",
+      "image_url": "https://images.pokemontcg.io/xyp/XY51_hires.png",
+      "national_dex_number": 382,
+      "rarity": "Promo",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY52",
+      "card_number": "XY52",
+      "image_url": "https://images.pokemontcg.io/xyp/XY52_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Promo",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY53",
+      "card_number": "XY53",
+      "image_url": "https://images.pokemontcg.io/xyp/XY53_hires.png",
+      "national_dex_number": 254,
+      "rarity": "Promo",
+      "species_name": "sceptile",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY54",
+      "card_number": "XY54",
+      "image_url": "https://images.pokemontcg.io/xyp/XY54_hires.png",
+      "national_dex_number": 257,
+      "rarity": "Promo",
+      "species_name": "blaziken",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY55",
+      "card_number": "XY55",
+      "image_url": "https://images.pokemontcg.io/xyp/XY55_hires.png",
+      "national_dex_number": 260,
+      "rarity": "Promo",
+      "species_name": "swampert",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY56",
+      "card_number": "XY56",
+      "image_url": "https://images.pokemontcg.io/xyp/XY56_hires.png",
+      "national_dex_number": 242,
+      "rarity": "Promo",
+      "species_name": "blissey",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY57",
+      "card_number": "XY57",
+      "image_url": "https://images.pokemontcg.io/xyp/XY57_hires.png",
+      "national_dex_number": 22,
+      "rarity": "Promo",
+      "species_name": "fearow",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY58",
+      "card_number": "XY58",
+      "image_url": "https://images.pokemontcg.io/xyp/XY58_hires.png",
+      "national_dex_number": 687,
+      "rarity": "Promo",
+      "species_name": "malamar",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY59",
+      "card_number": "XY59",
+      "image_url": "https://images.pokemontcg.io/xyp/XY59_hires.png",
+      "national_dex_number": 373,
+      "rarity": "Promo",
+      "species_name": "salamence",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY60",
+      "card_number": "XY60",
+      "image_url": "https://images.pokemontcg.io/xyp/XY60_hires.png",
+      "national_dex_number": 130,
+      "rarity": "Promo",
+      "species_name": "gyarados",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY61",
+      "card_number": "XY61",
+      "image_url": "https://images.pokemontcg.io/xyp/XY61_hires.png",
+      "national_dex_number": 330,
+      "rarity": "Promo",
+      "species_name": "flygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY62",
+      "card_number": "XY62",
+      "image_url": "https://images.pokemontcg.io/xyp/XY62_hires.png",
+      "national_dex_number": 359,
+      "rarity": "Promo",
+      "species_name": "absol",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY63",
+      "card_number": "XY63",
+      "image_url": "https://images.pokemontcg.io/xyp/XY63_hires.png",
+      "national_dex_number": 359,
+      "rarity": "Promo",
+      "species_name": "absol",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY64",
+      "card_number": "XY64",
+      "image_url": "https://images.pokemontcg.io/xyp/XY64_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY65",
+      "card_number": "XY65",
+      "image_url": "https://images.pokemontcg.io/xyp/XY65_hires.png",
+      "national_dex_number": 381,
+      "rarity": "Promo",
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY66",
+      "card_number": "XY66",
+      "image_url": "https://images.pokemontcg.io/xyp/XY66_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY67",
+      "card_number": "XY67",
+      "image_url": "https://images.pokemontcg.io/xyp/XY67_hires.png",
+      "national_dex_number": 385,
+      "rarity": "Promo",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY67a",
+      "card_number": "XY67a",
+      "image_url": "https://images.pokemontcg.io/xyp/XY67a_hires.png",
+      "national_dex_number": 385,
+      "rarity": "Promo",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY68",
+      "card_number": "XY68",
+      "image_url": "https://images.pokemontcg.io/xyp/XY68_hires.png",
+      "national_dex_number": 652,
+      "rarity": "Promo",
+      "species_name": "chesnaught",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY69",
+      "card_number": "XY69",
+      "image_url": "https://images.pokemontcg.io/xyp/XY69_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY70",
+      "card_number": "XY70",
+      "image_url": "https://images.pokemontcg.io/xyp/XY70_hires.png",
+      "national_dex_number": 697,
+      "rarity": "Promo",
+      "species_name": "tyrantrum",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY71",
+      "card_number": "XY71",
+      "image_url": "https://images.pokemontcg.io/xyp/XY71_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Promo",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY72",
+      "card_number": "XY72",
+      "image_url": "https://images.pokemontcg.io/xyp/XY72_hires.png",
+      "national_dex_number": 381,
+      "rarity": "Promo",
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY73",
+      "card_number": "XY73",
+      "image_url": "https://images.pokemontcg.io/xyp/XY73_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY74",
+      "card_number": "XY74",
+      "image_url": "https://images.pokemontcg.io/xyp/XY74_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Promo",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY75",
+      "card_number": "XY75",
+      "image_url": "https://images.pokemontcg.io/xyp/XY75_hires.png",
+      "national_dex_number": 484,
+      "rarity": "Promo",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY76",
+      "card_number": "XY76",
+      "image_url": "https://images.pokemontcg.io/xyp/XY76_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Promo",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY77",
+      "card_number": "XY77",
+      "image_url": "https://images.pokemontcg.io/xyp/XY77_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Promo",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY78",
+      "card_number": "XY78",
+      "image_url": "https://images.pokemontcg.io/xyp/XY78_hires.png",
+      "national_dex_number": 380,
+      "rarity": "Promo",
+      "species_name": "latias",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY79",
+      "card_number": "XY79",
+      "image_url": "https://images.pokemontcg.io/xyp/XY79_hires.png",
+      "national_dex_number": 381,
+      "rarity": "Promo",
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY80",
+      "card_number": "XY80",
+      "image_url": "https://images.pokemontcg.io/xyp/XY80_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY81",
+      "card_number": "XY81",
+      "image_url": "https://images.pokemontcg.io/xyp/XY81_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY82",
+      "card_number": "XY82",
+      "image_url": "https://images.pokemontcg.io/xyp/XY82_hires.png",
+      "national_dex_number": 486,
+      "rarity": "Promo",
+      "species_name": "regigigas",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY83",
+      "card_number": "XY83",
+      "image_url": "https://images.pokemontcg.io/xyp/XY83_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Promo",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY84",
+      "card_number": "XY84",
+      "image_url": "https://images.pokemontcg.io/xyp/XY84_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY85",
+      "card_number": "XY85",
+      "image_url": "https://images.pokemontcg.io/xyp/XY85_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Promo",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY86",
+      "card_number": "XY86",
+      "image_url": "https://images.pokemontcg.io/xyp/XY86_hires.png",
+      "national_dex_number": 257,
+      "rarity": "Promo",
+      "species_name": "blaziken",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY87",
+      "card_number": "XY87",
+      "image_url": "https://images.pokemontcg.io/xyp/XY87_hires.png",
+      "national_dex_number": 260,
+      "rarity": "Promo",
+      "species_name": "swampert",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY88",
+      "card_number": "XY88",
+      "image_url": "https://images.pokemontcg.io/xyp/XY88_hires.png",
+      "national_dex_number": 650,
+      "rarity": "Promo",
+      "species_name": "chespin",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY89",
+      "card_number": "XY89",
+      "image_url": "https://images.pokemontcg.io/xyp/XY89_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY90",
+      "card_number": "XY90",
+      "image_url": "https://images.pokemontcg.io/xyp/XY90_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Promo",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY91",
+      "card_number": "XY91",
+      "image_url": "https://images.pokemontcg.io/xyp/XY91_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY92",
+      "card_number": "XY92",
+      "image_url": "https://images.pokemontcg.io/xyp/XY92_hires.png",
+      "national_dex_number": 302,
+      "rarity": "Promo",
+      "species_name": "sableye",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY93",
+      "card_number": "XY93",
+      "image_url": "https://images.pokemontcg.io/xyp/XY93_hires.png",
+      "national_dex_number": 251,
+      "rarity": "Promo",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY94",
+      "card_number": "XY94",
+      "image_url": "https://images.pokemontcg.io/xyp/XY94_hires.png",
+      "national_dex_number": 709,
+      "rarity": "Promo",
+      "species_name": "trevenant",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY95",
+      "card_number": "XY95",
+      "image_url": "https://images.pokemontcg.io/xyp/XY95_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY96",
+      "card_number": "XY96",
+      "image_url": "https://images.pokemontcg.io/xyp/XY96_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Promo",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY97",
+      "card_number": "XY97",
+      "image_url": "https://images.pokemontcg.io/xyp/XY97_hires.png",
+      "national_dex_number": 142,
+      "rarity": "Promo",
+      "species_name": "aerodactyl",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY98",
+      "card_number": "XY98",
+      "image_url": "https://images.pokemontcg.io/xyp/XY98_hires.png",
+      "national_dex_number": 142,
+      "rarity": "Promo",
+      "species_name": "aerodactyl",
+      "variant": null
+    },
+    {
+      "api_card_id": "xyp-XY99",
+      "card_number": "XY99",
+      "image_url": "https://images.pokemontcg.io/xyp/XY99_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "xyp",
+    "name": "XY Black Star Promos",
+    "release_date": "2013-10-12",
+    "series": "XY"
+  }
+}

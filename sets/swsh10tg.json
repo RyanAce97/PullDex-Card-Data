@@ -1,0 +1,281 @@
+{
+  "card_count": 30,
+  "cards": [
+    {
+      "api_card_id": "swsh10tg-TG01",
+      "card_number": "TG01",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG01_hires.png",
+      "national_dex_number": 460,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "abomasnow",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG02",
+      "card_number": "TG02",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG02_hires.png",
+      "national_dex_number": 841,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "flapple",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG03",
+      "card_number": "TG03",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG03_hires.png",
+      "national_dex_number": 230,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "kingdra",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG04",
+      "card_number": "TG04",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG04_hires.png",
+      "national_dex_number": 873,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "frosmoth",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG05",
+      "card_number": "TG05",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG05_hires.png",
+      "national_dex_number": 282,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "gardevoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG06",
+      "card_number": "TG06",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG06_hires.png",
+      "national_dex_number": 899,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "wyrdeer",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG07",
+      "card_number": "TG07",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG07_hires.png",
+      "national_dex_number": 870,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "falinks",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG08",
+      "card_number": "TG08",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG08_hires.png",
+      "national_dex_number": 900,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "kleavor",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG09",
+      "card_number": "TG09",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG09_hires.png",
+      "national_dex_number": 262,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "mightyena",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG10",
+      "card_number": "TG10",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG10_hires.png",
+      "national_dex_number": 862,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "obstagoon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG11",
+      "card_number": "TG11",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG11_hires.png",
+      "national_dex_number": 437,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "bronzong",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG12",
+      "card_number": "TG12",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG12_hires.png",
+      "national_dex_number": 163,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "hoothoot",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG13",
+      "card_number": "TG13",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG13_hires.png",
+      "national_dex_number": 121,
+      "rarity": "Rare Holo V",
+      "species_name": "starmie",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG14",
+      "card_number": "TG14",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG14_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Holo V",
+      "species_name": "calyrex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG15",
+      "card_number": "TG15",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG15_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "calyrex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG16",
+      "card_number": "TG16",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG16_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Rare Holo V",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG17",
+      "card_number": "TG17",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG17_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Holo V",
+      "species_name": "calyrex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG18",
+      "card_number": "TG18",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG18_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "calyrex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG19",
+      "card_number": "TG19",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG19_hires.png",
+      "national_dex_number": 145,
+      "rarity": "Rare Holo V",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG20",
+      "card_number": "TG20",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG20_hires.png",
+      "national_dex_number": 146,
+      "rarity": "Rare Holo V",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG21",
+      "card_number": "TG21",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG21_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Rare Holo V",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG22",
+      "card_number": "TG22",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG22_hires.png",
+      "national_dex_number": 889,
+      "rarity": "Rare Holo V",
+      "species_name": "zamazenta",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG23",
+      "card_number": "TG23",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG23_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Rare Holo V",
+      "species_name": "garchomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG24",
+      "card_number": "TG24",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG24_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG25",
+      "card_number": "TG25",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG25_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG26",
+      "card_number": "TG26",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG26_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG27",
+      "card_number": "TG27",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG27_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG28",
+      "card_number": "TG28",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG28_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG29",
+      "card_number": "TG29",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG29_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Secret",
+      "species_name": "calyrex",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh10tg-TG30",
+      "card_number": "TG30",
+      "image_url": "https://images.pokemontcg.io/swsh10tg/TG30_hires.png",
+      "national_dex_number": 898,
+      "rarity": "Rare Secret",
+      "species_name": "calyrex",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "swsh10tg",
+    "name": "Astral Radiance Trainer Gallery",
+    "release_date": "2022-05-27",
+    "series": "Sword & Shield"
+  }
+}

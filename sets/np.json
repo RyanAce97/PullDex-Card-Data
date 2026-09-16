@@ -1,0 +1,371 @@
+{
+  "card_count": 40,
+  "cards": [
+    {
+      "api_card_id": "np-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/np/1_hires.png",
+      "national_dex_number": 382,
+      "rarity": "Promo",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/np/2_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Promo",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/np/3_hires.png",
+      "national_dex_number": 252,
+      "rarity": "Promo",
+      "species_name": "treecko",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/np/4_hires.png",
+      "national_dex_number": 253,
+      "rarity": "Promo",
+      "species_name": "grovyle",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/np/5_hires.png",
+      "national_dex_number": 258,
+      "rarity": "Promo",
+      "species_name": "mudkip",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/np/6_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Promo",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/np/7_hires.png",
+      "national_dex_number": 252,
+      "rarity": "Promo",
+      "species_name": "treecko",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/np/8_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Promo",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/np/9_hires.png",
+      "national_dex_number": 256,
+      "rarity": "Promo",
+      "species_name": "combusken",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/np/10_hires.png",
+      "national_dex_number": 258,
+      "rarity": "Promo",
+      "species_name": "mudkip",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/np/11_hires.png",
+      "national_dex_number": 259,
+      "rarity": "Promo",
+      "species_name": "marshtomp",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/np/12_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/np/13_hires.png",
+      "national_dex_number": 52,
+      "rarity": "Promo",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/np/14_hires.png",
+      "national_dex_number": 380,
+      "rarity": "Promo",
+      "species_name": "latias",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/np/15_hires.png",
+      "national_dex_number": 381,
+      "rarity": "Promo",
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/np/16_hires.png",
+      "national_dex_number": 252,
+      "rarity": "Promo",
+      "species_name": "treecko",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/np/17_hires.png",
+      "national_dex_number": 255,
+      "rarity": "Promo",
+      "species_name": "torchic",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/np/18_hires.png",
+      "national_dex_number": 258,
+      "rarity": "Promo",
+      "species_name": "mudkip",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/np/19_hires.png",
+      "national_dex_number": 293,
+      "rarity": "Promo",
+      "species_name": "whismur",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/np/20_hires.png",
+      "national_dex_number": 272,
+      "rarity": "Promo",
+      "species_name": "ludicolo",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/np/21_hires.png",
+      "national_dex_number": 385,
+      "rarity": "Promo",
+      "species_name": "jirachi",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/np/22_hires.png",
+      "national_dex_number": 374,
+      "rarity": "Promo",
+      "species_name": "beldum",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/np/23_hires.png",
+      "national_dex_number": 375,
+      "rarity": "Promo",
+      "species_name": "metang",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/np/24_hires.png",
+      "national_dex_number": 358,
+      "rarity": "Promo",
+      "species_name": "chimecho",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/np/25_hires.png",
+      "national_dex_number": 330,
+      "rarity": "Promo",
+      "species_name": "flygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/np/26_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "np-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/np/27_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "np-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/np/28_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "np-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/np/29_hires.png",
+      "national_dex_number": 251,
+      "rarity": "Promo",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/np/30_hires.png",
+      "national_dex_number": 245,
+      "rarity": "Promo",
+      "species_name": "suicune",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/np/31_hires.png",
+      "national_dex_number": 146,
+      "rarity": "Promo",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/np/32_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Promo",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/np/33_hires.png",
+      "national_dex_number": 145,
+      "rarity": "Promo",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/np/34_hires.png",
+      "national_dex_number": 157,
+      "rarity": "Promo",
+      "species_name": "typhlosion",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/np/35_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/np/36_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "np-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/np/37_hires.png",
+      "national_dex_number": 382,
+      "rarity": "Promo",
+      "species_name": "kyogre",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/np/38_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Promo",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/np/39_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "np-40",
+      "card_number": "40",
+      "image_url": "https://images.pokemontcg.io/np/40_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "np",
+    "name": "Nintendo Black Star Promos",
+    "release_date": "2003-10-01",
+    "series": "NP"
+  }
+}

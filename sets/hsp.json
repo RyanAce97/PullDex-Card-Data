@@ -1,0 +1,236 @@
+{
+  "card_count": 25,
+  "cards": [
+    {
+      "api_card_id": "hsp-HGSS01",
+      "card_number": "HGSS01",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS01_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Promo",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS02",
+      "card_number": "HGSS02",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS02_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Promo",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS03",
+      "card_number": "HGSS03",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS03_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS04",
+      "card_number": "HGSS04",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS04_hires.png",
+      "national_dex_number": 202,
+      "rarity": "Promo",
+      "species_name": "wobbuffet",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS05",
+      "card_number": "HGSS05",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS05_hires.png",
+      "national_dex_number": 163,
+      "rarity": "Promo",
+      "species_name": "hoothoot",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS06",
+      "card_number": "HGSS06",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS06_hires.png",
+      "national_dex_number": 164,
+      "rarity": "Promo",
+      "species_name": "noctowl",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS07",
+      "card_number": "HGSS07",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS07_hires.png",
+      "national_dex_number": 160,
+      "rarity": "Promo",
+      "species_name": "feraligatr",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS08",
+      "card_number": "HGSS08",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS08_hires.png",
+      "national_dex_number": 154,
+      "rarity": "Promo",
+      "species_name": "meganium",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS09",
+      "card_number": "HGSS09",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS09_hires.png",
+      "national_dex_number": 157,
+      "rarity": "Promo",
+      "species_name": "typhlosion",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS10",
+      "card_number": "HGSS10",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS10_hires.png",
+      "national_dex_number": 380,
+      "rarity": "Promo",
+      "species_name": "latias",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS11",
+      "card_number": "HGSS11",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS11_hires.png",
+      "national_dex_number": 381,
+      "rarity": "Promo",
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS12",
+      "card_number": "HGSS12",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS12_hires.png",
+      "national_dex_number": 173,
+      "rarity": "Promo",
+      "species_name": "cleffa",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS13",
+      "card_number": "HGSS13",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS13_hires.png",
+      "national_dex_number": 238,
+      "rarity": "Promo",
+      "species_name": "smoochum",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS14",
+      "card_number": "HGSS14",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS14_hires.png",
+      "national_dex_number": 131,
+      "rarity": "Promo",
+      "species_name": "lapras",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS15",
+      "card_number": "HGSS15",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS15_hires.png",
+      "national_dex_number": 213,
+      "rarity": "Promo",
+      "species_name": "shuckle",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS16",
+      "card_number": "HGSS16",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS16_hires.png",
+      "national_dex_number": 311,
+      "rarity": "Promo",
+      "species_name": "plusle",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS17",
+      "card_number": "HGSS17",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS17_hires.png",
+      "national_dex_number": 312,
+      "rarity": "Promo",
+      "species_name": "minun",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS18",
+      "card_number": "HGSS18",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS18_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS19",
+      "card_number": "HGSS19",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS19_hires.png",
+      "national_dex_number": 243,
+      "rarity": "Promo",
+      "species_name": "raikou",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS20",
+      "card_number": "HGSS20",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS20_hires.png",
+      "national_dex_number": 244,
+      "rarity": "Promo",
+      "species_name": "entei",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS21",
+      "card_number": "HGSS21",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS21_hires.png",
+      "national_dex_number": 245,
+      "rarity": "Promo",
+      "species_name": "suicune",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS22",
+      "card_number": "HGSS22",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS22_hires.png",
+      "national_dex_number": 137,
+      "rarity": "Promo",
+      "species_name": "porygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS23",
+      "card_number": "HGSS23",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS23_hires.png",
+      "national_dex_number": 233,
+      "rarity": "Promo",
+      "species_name": "porygon2",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS24",
+      "card_number": "HGSS24",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS24_hires.png",
+      "national_dex_number": 107,
+      "rarity": "Promo",
+      "species_name": "hitmonchan",
+      "variant": null
+    },
+    {
+      "api_card_id": "hsp-HGSS25",
+      "card_number": "HGSS25",
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS25_hires.png",
+      "national_dex_number": 106,
+      "rarity": "Promo",
+      "species_name": "hitmonlee",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "hsp",
+    "name": "HGSS Black Star Promos",
+    "release_date": "2010-02-10",
+    "series": "HeartGold & SoulSilver"
+  }
+}

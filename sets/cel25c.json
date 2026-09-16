@@ -1,0 +1,236 @@
+{
+  "card_count": 25,
+  "cards": [
+    {
+      "api_card_id": "cel25c-2_A",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/cel25c/2_A_hires.png",
+      "national_dex_number": 9,
+      "rarity": "Classic Collection",
+      "species_name": "blastoise",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-4_A",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/cel25c/4_A_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Classic Collection",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-8_A",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/cel25c/8_A_hires.png",
+      "national_dex_number": 130,
+      "rarity": "Classic Collection",
+      "species_name": "gyarados",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-9_A",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/cel25c/9_A_hires.png",
+      "national_dex_number": 383,
+      "rarity": "Classic Collection",
+      "species_name": "groudon",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-15_A1",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/cel25c/15_A_hires.png",
+      "national_dex_number": 3,
+      "rarity": "Classic Collection",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-15_A2",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/cel25c/15_B_hires.png",
+      "national_dex_number": null,
+      "rarity": "Classic Collection",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-15_A3",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/cel25c/15_C_hires.png",
+      "national_dex_number": 145,
+      "rarity": "Classic Collection",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-15_A4",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/cel25c/15_D_hires.png",
+      "national_dex_number": 344,
+      "rarity": "Classic Collection",
+      "species_name": "claydol",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-17_A",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/cel25c/17_A_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Classic Collection",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-20_A",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/cel25c/20_A_hires.png",
+      "national_dex_number": 173,
+      "rarity": "Classic Collection",
+      "species_name": "cleffa",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-24_A",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/cel25c/24_A_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Classic Collection",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-54_A",
+      "card_number": "54",
+      "image_url": "https://images.pokemontcg.io/cel25c/54_A_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Classic Collection",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-60_A",
+      "card_number": "60",
+      "image_url": "https://images.pokemontcg.io/cel25c/60_A_hires.png",
+      "national_dex_number": 786,
+      "rarity": "Classic Collection",
+      "species_name": "tapu-lele",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-66_A",
+      "card_number": "66",
+      "image_url": "https://images.pokemontcg.io/cel25c/66_A_hires.png",
+      "national_dex_number": 129,
+      "rarity": "Classic Collection",
+      "species_name": "magikarp",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-73_A",
+      "card_number": "73",
+      "image_url": "https://images.pokemontcg.io/cel25c/73_A_hires.png",
+      "national_dex_number": null,
+      "rarity": "Classic Collection",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-76_A",
+      "card_number": "76",
+      "image_url": "https://images.pokemontcg.io/cel25c/76_A_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Classic Collection",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-86_A",
+      "card_number": "86",
+      "image_url": "https://images.pokemontcg.io/cel25c/86_A_hires.png",
+      "national_dex_number": null,
+      "rarity": "Classic Collection",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-88_A",
+      "card_number": "88",
+      "image_url": "https://images.pokemontcg.io/cel25c/88_A_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Classic Collection",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-93_A",
+      "card_number": "93",
+      "image_url": "https://images.pokemontcg.io/cel25c/93_A_hires.png",
+      "national_dex_number": 282,
+      "rarity": "Classic Collection",
+      "species_name": "gardevoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-97_A",
+      "card_number": "97",
+      "image_url": "https://images.pokemontcg.io/cel25c/97_A_hires.png",
+      "national_dex_number": 716,
+      "rarity": "Classic Collection",
+      "species_name": "xerneas",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-107_A",
+      "card_number": "107",
+      "image_url": "https://images.pokemontcg.io/cel25c/107_A_hires.png",
+      "national_dex_number": 232,
+      "rarity": "Classic Collection",
+      "species_name": "donphan",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-109_A",
+      "card_number": "109",
+      "image_url": "https://images.pokemontcg.io/cel25c/109_A_hires.png",
+      "national_dex_number": 405,
+      "rarity": "Classic Collection",
+      "species_name": "luxray",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-113_A",
+      "card_number": "113",
+      "image_url": "https://images.pokemontcg.io/cel25c/113_A_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Classic Collection",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-114_A",
+      "card_number": "114",
+      "image_url": "https://images.pokemontcg.io/cel25c/114_A_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Classic Collection",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "cel25c-145_A",
+      "card_number": "145",
+      "image_url": "https://images.pokemontcg.io/cel25c/145_A_hires.png",
+      "national_dex_number": 445,
+      "rarity": "Classic Collection",
+      "species_name": "garchomp",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "cel25c",
+    "name": "Celebrations: Classic Collection",
+    "release_date": "2021-10-08",
+    "series": "Sword & Shield"
+  }
+}

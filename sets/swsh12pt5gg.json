@@ -1,0 +1,641 @@
+{
+  "card_count": 70,
+  "cards": [
+    {
+      "api_card_id": "swsh12pt5gg-GG01",
+      "card_number": "GG01",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG01_hires.png",
+      "national_dex_number": 100,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "voltorb",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG02",
+      "card_number": "GG02",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG02_hires.png",
+      "national_dex_number": 402,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "kricketune",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG03",
+      "card_number": "GG03",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG03_hires.png",
+      "national_dex_number": 467,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "magmortar",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG04",
+      "card_number": "GG04",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG04_hires.png",
+      "national_dex_number": 741,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "oricorio",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG05",
+      "card_number": "GG05",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG05_hires.png",
+      "national_dex_number": 131,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "lapras",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG06",
+      "card_number": "GG06",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG06_hires.png",
+      "national_dex_number": 490,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "manaphy",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG07",
+      "card_number": "GG07",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG07_hires.png",
+      "national_dex_number": 647,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "keldeo",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG08",
+      "card_number": "GG08",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG08_hires.png",
+      "national_dex_number": 466,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "electivire",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG09",
+      "card_number": "GG09",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG09_hires.png",
+      "national_dex_number": 849,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "toxtricity",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG10",
+      "card_number": "GG10",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG10_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG11",
+      "card_number": "GG11",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG11_hires.png",
+      "national_dex_number": 337,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "lunatone",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG12",
+      "card_number": "GG12",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG12_hires.png",
+      "national_dex_number": 386,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "deoxys",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG13",
+      "card_number": "GG13",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG13_hires.png",
+      "national_dex_number": 719,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "diancie",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG14",
+      "card_number": "GG14",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG14_hires.png",
+      "national_dex_number": 764,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "comfey",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG15",
+      "card_number": "GG15",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG15_hires.png",
+      "national_dex_number": 338,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "solrock",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG16",
+      "card_number": "GG16",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG16_hires.png",
+      "national_dex_number": 359,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "absol",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG17",
+      "card_number": "GG17",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG17_hires.png",
+      "national_dex_number": 828,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "thievul",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG18",
+      "card_number": "GG18",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG18_hires.png",
+      "national_dex_number": 462,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "magnezone",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG19",
+      "card_number": "GG19",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG19_hires.png",
+      "national_dex_number": 334,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "altaria",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG20",
+      "card_number": "GG20",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG20_hires.png",
+      "national_dex_number": 380,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "latias",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG21",
+      "card_number": "GG21",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG21_hires.png",
+      "national_dex_number": 706,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "goodra",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG22",
+      "card_number": "GG22",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG22_hires.png",
+      "national_dex_number": 132,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "ditto",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG23",
+      "card_number": "GG23",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG23_hires.png",
+      "national_dex_number": 206,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "dunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG24",
+      "card_number": "GG24",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG24_hires.png",
+      "national_dex_number": 241,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "miltank",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG25",
+      "card_number": "GG25",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG25_hires.png",
+      "national_dex_number": 400,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "bibarel",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG26",
+      "card_number": "GG26",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG26_hires.png",
+      "national_dex_number": 447,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "riolu",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG27",
+      "card_number": "GG27",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG27_hires.png",
+      "national_dex_number": 333,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "swablu",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG28",
+      "card_number": "GG28",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG28_hires.png",
+      "national_dex_number": 355,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "duskull",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG29",
+      "card_number": "GG29",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG29_hires.png",
+      "national_dex_number": 399,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "bidoof",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG30",
+      "card_number": "GG30",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG30_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG31",
+      "card_number": "GG31",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG31_hires.png",
+      "national_dex_number": 387,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "turtwig",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG32",
+      "card_number": "GG32",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG32_hires.png",
+      "national_dex_number": 46,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "paras",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG33",
+      "card_number": "GG33",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG33_hires.png",
+      "national_dex_number": 261,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "poochyena",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG34",
+      "card_number": "GG34",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG34_hires.png",
+      "national_dex_number": 179,
+      "rarity": "Trainer Gallery Rare Holo",
+      "species_name": "mareep",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG35",
+      "card_number": "GG35",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG35_hires.png",
+      "national_dex_number": 470,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "leafeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG36",
+      "card_number": "GG36",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG36_hires.png",
+      "national_dex_number": 244,
+      "rarity": "Rare Holo V",
+      "species_name": "entei",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG37",
+      "card_number": "GG37",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG37_hires.png",
+      "national_dex_number": 514,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "simisear",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG38",
+      "card_number": "GG38",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG38_hires.png",
+      "national_dex_number": 245,
+      "rarity": "Rare Holo V",
+      "species_name": "suicune",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG39",
+      "card_number": "GG39",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG39_hires.png",
+      "national_dex_number": 457,
+      "rarity": "Rare Holo V",
+      "species_name": "lumineon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG40",
+      "card_number": "GG40",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG40_hires.png",
+      "national_dex_number": 471,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "glaceon",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG41",
+      "card_number": "GG41",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG41_hires.png",
+      "national_dex_number": 243,
+      "rarity": "Rare Holo V",
+      "species_name": "raikou",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG42",
+      "card_number": "GG42",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG42_hires.png",
+      "national_dex_number": 807,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "zeraora",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG43",
+      "card_number": "GG43",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG43_hires.png",
+      "national_dex_number": 807,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "zeraora",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG44",
+      "card_number": "GG44",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG44_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG45",
+      "card_number": "GG45",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG45_hires.png",
+      "national_dex_number": 386,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "deoxys",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG46",
+      "card_number": "GG46",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG46_hires.png",
+      "national_dex_number": 386,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "deoxys",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG47",
+      "card_number": "GG47",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG47_hires.png",
+      "national_dex_number": 858,
+      "rarity": "Rare Holo VMAX",
+      "species_name": "hatterene",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG48",
+      "card_number": "GG48",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG48_hires.png",
+      "national_dex_number": 888,
+      "rarity": "Rare Holo V",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG49",
+      "card_number": "GG49",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG49_hires.png",
+      "national_dex_number": 452,
+      "rarity": "Rare Holo V",
+      "species_name": "drapion",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG50",
+      "card_number": "GG50",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG50_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG51",
+      "card_number": "GG51",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG51_hires.png",
+      "national_dex_number": 503,
+      "rarity": "Rare Holo V",
+      "species_name": "samurott",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG52",
+      "card_number": "GG52",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG52_hires.png",
+      "national_dex_number": 503,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "samurott",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG53",
+      "card_number": "GG53",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG53_hires.png",
+      "national_dex_number": 720,
+      "rarity": "Rare Holo V",
+      "species_name": "hoopa",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG54",
+      "card_number": "GG54",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG54_hires.png",
+      "national_dex_number": 889,
+      "rarity": "Rare Holo V",
+      "species_name": "zamazenta",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG55",
+      "card_number": "GG55",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG55_hires.png",
+      "national_dex_number": 486,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "regigigas",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG56",
+      "card_number": "GG56",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG56_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Rare Holo VSTAR",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG57",
+      "card_number": "GG57",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG57_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG58",
+      "card_number": "GG58",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG58_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG59",
+      "card_number": "GG59",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG59_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG60",
+      "card_number": "GG60",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG60_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG61",
+      "card_number": "GG61",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG61_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG62",
+      "card_number": "GG62",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG62_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG63",
+      "card_number": "GG63",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG63_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG64",
+      "card_number": "GG64",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG64_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG65",
+      "card_number": "GG65",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG65_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG66",
+      "card_number": "GG66",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG66_hires.png",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG67",
+      "card_number": "GG67",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG67_hires.png",
+      "national_dex_number": 484,
+      "rarity": "Rare Secret",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG68",
+      "card_number": "GG68",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG68_hires.png",
+      "national_dex_number": 483,
+      "rarity": "Rare Secret",
+      "species_name": "dialga",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG69",
+      "card_number": "GG69",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG69_hires.png",
+      "national_dex_number": 487,
+      "rarity": "Rare Secret",
+      "species_name": "giratina",
+      "variant": null
+    },
+    {
+      "api_card_id": "swsh12pt5gg-GG70",
+      "card_number": "GG70",
+      "image_url": "https://images.pokemontcg.io/swsh12pt5gg/GG70_hires.png",
+      "national_dex_number": 493,
+      "rarity": "Rare Secret",
+      "species_name": "arceus",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "swsh12pt5gg",
+    "name": "Crown Zenith Galarian Gallery",
+    "release_date": "2023-01-20",
+    "series": "Sword & Shield"
+  }
+}

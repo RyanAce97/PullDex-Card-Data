@@ -1,0 +1,119 @@
+{
+  "card_count": 12,
+  "cards": [
+    {
+      "api_card_id": "tk2a-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/tk2a/1_hires.png",
+      "national_dex_number": 374,
+      "rarity": null,
+      "species_name": "beldum",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/tk2a/2_hires.png",
+      "national_dex_number": 309,
+      "rarity": null,
+      "species_name": "electrike",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/tk2a/3_hires.png",
+      "national_dex_number": 326,
+      "rarity": null,
+      "species_name": "grumpig",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/tk2a/4_hires.png",
+      "national_dex_number": 52,
+      "rarity": null,
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/tk2a/5_hires.png",
+      "national_dex_number": 375,
+      "rarity": null,
+      "species_name": "metang",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/tk2a/6_hires.png",
+      "national_dex_number": 311,
+      "rarity": null,
+      "species_name": "plusle",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/tk2a/7_hires.png",
+      "national_dex_number": 325,
+      "rarity": null,
+      "species_name": "spoink",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/tk2a/8_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/tk2a/9_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/tk2a/10_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/tk2a/11_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk2a-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/tk2a/12_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "tk2a",
+    "name": "EX Trainer Kit 2 Plusle",
+    "release_date": "2006-03-01",
+    "series": "EX"
+  }
+}

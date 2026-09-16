@@ -1,0 +1,686 @@
+{
+  "card_count": 75,
+  "cards": [
+    {
+      "api_card_id": "neo2-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/neo2/1_hires.png",
+      "national_dex_number": 196,
+      "rarity": "Rare Holo",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/neo2/2_hires.png",
+      "national_dex_number": 205,
+      "rarity": "Rare Holo",
+      "species_name": "forretress",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/neo2/3_hires.png",
+      "national_dex_number": 237,
+      "rarity": "Rare Holo",
+      "species_name": "hitmontop",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/neo2/4_hires.png",
+      "national_dex_number": 229,
+      "rarity": "Rare Holo",
+      "species_name": "houndoom",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/neo2/5_hires.png",
+      "national_dex_number": 228,
+      "rarity": "Rare Holo",
+      "species_name": "houndour",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/neo2/6_hires.png",
+      "national_dex_number": 141,
+      "rarity": "Rare Holo",
+      "species_name": "kabutops",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/neo2/7_hires.png",
+      "national_dex_number": 81,
+      "rarity": "Rare Holo",
+      "species_name": "magnemite",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/neo2/8_hires.png",
+      "national_dex_number": 186,
+      "rarity": "Rare Holo",
+      "species_name": "politoed",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/neo2/9_hires.png",
+      "national_dex_number": 62,
+      "rarity": "Rare Holo",
+      "species_name": "poliwrath",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/neo2/10_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare Holo",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/neo2/11_hires.png",
+      "national_dex_number": 235,
+      "rarity": "Rare Holo",
+      "species_name": "smeargle",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/neo2/12_hires.png",
+      "national_dex_number": 248,
+      "rarity": "Rare Holo",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/neo2/13_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Rare Holo",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/neo2/14_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Rare Holo",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/neo2/15_hires.png",
+      "national_dex_number": 217,
+      "rarity": "Rare Holo",
+      "species_name": "ursaring",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/neo2/16_hires.png",
+      "national_dex_number": 202,
+      "rarity": "Rare Holo",
+      "species_name": "wobbuffet",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/neo2/17_hires.png",
+      "national_dex_number": 193,
+      "rarity": "Rare Holo",
+      "species_name": "yanma",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/neo2/18_hires.png",
+      "national_dex_number": 15,
+      "rarity": "Rare",
+      "species_name": "beedrill",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/neo2/19_hires.png",
+      "national_dex_number": 12,
+      "rarity": "Rare",
+      "species_name": "butterfree",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/neo2/20_hires.png",
+      "national_dex_number": 196,
+      "rarity": "Rare",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/neo2/21_hires.png",
+      "national_dex_number": 205,
+      "rarity": "Rare",
+      "species_name": "forretress",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/neo2/22_hires.png",
+      "national_dex_number": 237,
+      "rarity": "Rare",
+      "species_name": "hitmontop",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/neo2/23_hires.png",
+      "national_dex_number": 229,
+      "rarity": "Rare",
+      "species_name": "houndoom",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/neo2/24_hires.png",
+      "national_dex_number": 228,
+      "rarity": "Rare",
+      "species_name": "houndour",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/neo2/25_hires.png",
+      "national_dex_number": 141,
+      "rarity": "Rare",
+      "species_name": "kabutops",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/neo2/26_hires.png",
+      "national_dex_number": 81,
+      "rarity": "Rare",
+      "species_name": "magnemite",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/neo2/27_hires.png",
+      "national_dex_number": 186,
+      "rarity": "Rare",
+      "species_name": "politoed",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/neo2/28_hires.png",
+      "national_dex_number": 62,
+      "rarity": "Rare",
+      "species_name": "poliwrath",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/neo2/29_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Rare",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/neo2/30_hires.png",
+      "national_dex_number": 235,
+      "rarity": "Rare",
+      "species_name": "smeargle",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/neo2/31_hires.png",
+      "national_dex_number": 248,
+      "rarity": "Rare",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/neo2/32_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Rare",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/neo2/33_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Rare",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/neo2/34_hires.png",
+      "national_dex_number": 217,
+      "rarity": "Rare",
+      "species_name": "ursaring",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/neo2/35_hires.png",
+      "national_dex_number": 202,
+      "rarity": "Rare",
+      "species_name": "wobbuffet",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/neo2/36_hires.png",
+      "national_dex_number": 193,
+      "rarity": "Rare",
+      "species_name": "yanma",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/neo2/37_hires.png",
+      "national_dex_number": 222,
+      "rarity": "Uncommon",
+      "species_name": "corsola",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/neo2/38_hires.png",
+      "national_dex_number": 133,
+      "rarity": "Uncommon",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/neo2/39_hires.png",
+      "national_dex_number": 228,
+      "rarity": "Uncommon",
+      "species_name": "houndour",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-40",
+      "card_number": "40",
+      "image_url": "https://images.pokemontcg.io/neo2/40_hires.png",
+      "national_dex_number": 174,
+      "rarity": "Uncommon",
+      "species_name": "igglybuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-41",
+      "card_number": "41",
+      "image_url": "https://images.pokemontcg.io/neo2/41_hires.png",
+      "national_dex_number": 14,
+      "rarity": "Uncommon",
+      "species_name": "kakuna",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-42",
+      "card_number": "42",
+      "image_url": "https://images.pokemontcg.io/neo2/42_hires.png",
+      "national_dex_number": 11,
+      "rarity": "Uncommon",
+      "species_name": "metapod",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-43",
+      "card_number": "43",
+      "image_url": "https://images.pokemontcg.io/neo2/43_hires.png",
+      "national_dex_number": 139,
+      "rarity": "Uncommon",
+      "species_name": "omastar",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-44",
+      "card_number": "44",
+      "image_url": "https://images.pokemontcg.io/neo2/44_hires.png",
+      "national_dex_number": 61,
+      "rarity": "Uncommon",
+      "species_name": "poliwhirl",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-45",
+      "card_number": "45",
+      "image_url": "https://images.pokemontcg.io/neo2/45_hires.png",
+      "national_dex_number": 247,
+      "rarity": "Uncommon",
+      "species_name": "pupitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-46",
+      "card_number": "46",
+      "image_url": "https://images.pokemontcg.io/neo2/46_hires.png",
+      "national_dex_number": 123,
+      "rarity": "Uncommon",
+      "species_name": "scyther",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-47",
+      "card_number": "47",
+      "image_url": "https://images.pokemontcg.io/neo2/47_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Uncommon",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-48",
+      "card_number": "48",
+      "image_url": "https://images.pokemontcg.io/neo2/48_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Uncommon",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-49",
+      "card_number": "49",
+      "image_url": "https://images.pokemontcg.io/neo2/49_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Uncommon",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-50",
+      "card_number": "50",
+      "image_url": "https://images.pokemontcg.io/neo2/50_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Uncommon",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-51",
+      "card_number": "51",
+      "image_url": "https://images.pokemontcg.io/neo2/51_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Uncommon",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-52",
+      "card_number": "52",
+      "image_url": "https://images.pokemontcg.io/neo2/52_hires.png",
+      "national_dex_number": 178,
+      "rarity": "Uncommon",
+      "species_name": "xatu",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-53",
+      "card_number": "53",
+      "image_url": "https://images.pokemontcg.io/neo2/53_hires.png",
+      "national_dex_number": 10,
+      "rarity": "Common",
+      "species_name": "caterpie",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-54",
+      "card_number": "54",
+      "image_url": "https://images.pokemontcg.io/neo2/54_hires.png",
+      "national_dex_number": 206,
+      "rarity": "Common",
+      "species_name": "dunsparce",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-55",
+      "card_number": "55",
+      "image_url": "https://images.pokemontcg.io/neo2/55_hires.png",
+      "national_dex_number": 187,
+      "rarity": "Common",
+      "species_name": "hoppip",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-56",
+      "card_number": "56",
+      "image_url": "https://images.pokemontcg.io/neo2/56_hires.png",
+      "national_dex_number": 140,
+      "rarity": "Common",
+      "species_name": "kabuto",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-57",
+      "card_number": "57",
+      "image_url": "https://images.pokemontcg.io/neo2/57_hires.png",
+      "national_dex_number": 246,
+      "rarity": "Common",
+      "species_name": "larvitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-58",
+      "card_number": "58",
+      "image_url": "https://images.pokemontcg.io/neo2/58_hires.png",
+      "national_dex_number": 179,
+      "rarity": "Common",
+      "species_name": "mareep",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-59",
+      "card_number": "59",
+      "image_url": "https://images.pokemontcg.io/neo2/59_hires.png",
+      "national_dex_number": 177,
+      "rarity": "Common",
+      "species_name": "natu",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-60",
+      "card_number": "60",
+      "image_url": "https://images.pokemontcg.io/neo2/60_hires.png",
+      "national_dex_number": 138,
+      "rarity": "Common",
+      "species_name": "omanyte",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-61",
+      "card_number": "61",
+      "image_url": "https://images.pokemontcg.io/neo2/61_hires.png",
+      "national_dex_number": 204,
+      "rarity": "Common",
+      "species_name": "pineco",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-62",
+      "card_number": "62",
+      "image_url": "https://images.pokemontcg.io/neo2/62_hires.png",
+      "national_dex_number": 60,
+      "rarity": "Common",
+      "species_name": "poliwag",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-63",
+      "card_number": "63",
+      "image_url": "https://images.pokemontcg.io/neo2/63_hires.png",
+      "national_dex_number": 161,
+      "rarity": "Common",
+      "species_name": "sentret",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-64",
+      "card_number": "64",
+      "image_url": "https://images.pokemontcg.io/neo2/64_hires.png",
+      "national_dex_number": 167,
+      "rarity": "Common",
+      "species_name": "spinarak",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-65",
+      "card_number": "65",
+      "image_url": "https://images.pokemontcg.io/neo2/65_hires.png",
+      "national_dex_number": 216,
+      "rarity": "Common",
+      "species_name": "teddiursa",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-66",
+      "card_number": "66",
+      "image_url": "https://images.pokemontcg.io/neo2/66_hires.png",
+      "national_dex_number": 236,
+      "rarity": "Common",
+      "species_name": "tyrogue",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-67",
+      "card_number": "67",
+      "image_url": "https://images.pokemontcg.io/neo2/67_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Common",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-68",
+      "card_number": "68",
+      "image_url": "https://images.pokemontcg.io/neo2/68_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Common",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-69",
+      "card_number": "69",
+      "image_url": "https://images.pokemontcg.io/neo2/69_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Common",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-70",
+      "card_number": "70",
+      "image_url": "https://images.pokemontcg.io/neo2/70_hires.png",
+      "national_dex_number": 13,
+      "rarity": "Common",
+      "species_name": "weedle",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-71",
+      "card_number": "71",
+      "image_url": "https://images.pokemontcg.io/neo2/71_hires.png",
+      "national_dex_number": 194,
+      "rarity": "Common",
+      "species_name": "wooper",
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-72",
+      "card_number": "72",
+      "image_url": "https://images.pokemontcg.io/neo2/72_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-73",
+      "card_number": "73",
+      "image_url": "https://images.pokemontcg.io/neo2/73_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-74",
+      "card_number": "74",
+      "image_url": "https://images.pokemontcg.io/neo2/74_hires.png",
+      "national_dex_number": null,
+      "rarity": "Uncommon",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "neo2-75",
+      "card_number": "75",
+      "image_url": "https://images.pokemontcg.io/neo2/75_hires.png",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "neo2",
+    "name": "Neo Discovery",
+    "release_date": "2001-06-01",
+    "series": "Neo"
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "card_count": 101,
+  "cards": [
+    {
+      "api_card_id": "bwp-BW004",
+      "card_number": "BW004",
+      "image_url": "https://images.pokemontcg.io/bwp/BW004_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Promo",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW005",
+      "card_number": "BW005",
+      "image_url": "https://images.pokemontcg.io/bwp/BW005_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Promo",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW01",
+      "card_number": "BW01",
+      "image_url": "https://images.pokemontcg.io/bwp/BW01_hires.png",
+      "national_dex_number": 495,
+      "rarity": "Promo",
+      "species_name": "snivy",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW02",
+      "card_number": "BW02",
+      "image_url": "https://images.pokemontcg.io/bwp/BW02_hires.png",
+      "national_dex_number": 498,
+      "rarity": "Promo",
+      "species_name": "tepig",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW03",
+      "card_number": "BW03",
+      "image_url": "https://images.pokemontcg.io/bwp/BW03_hires.png",
+      "national_dex_number": 501,
+      "rarity": "Promo",
+      "species_name": "oshawott",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW06",
+      "card_number": "BW06",
+      "image_url": "https://images.pokemontcg.io/bwp/BW06_hires.png",
+      "national_dex_number": 495,
+      "rarity": "Promo",
+      "species_name": "snivy",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW07",
+      "card_number": "BW07",
+      "image_url": "https://images.pokemontcg.io/bwp/BW07_hires.png",
+      "national_dex_number": 498,
+      "rarity": "Promo",
+      "species_name": "tepig",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW08",
+      "card_number": "BW08",
+      "image_url": "https://images.pokemontcg.io/bwp/BW08_hires.png",
+      "national_dex_number": 501,
+      "rarity": "Promo",
+      "species_name": "oshawott",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW09",
+      "card_number": "BW09",
+      "image_url": "https://images.pokemontcg.io/bwp/BW09_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Promo",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW10",
+      "card_number": "BW10",
+      "image_url": "https://images.pokemontcg.io/bwp/BW10_hires.png",
+      "national_dex_number": 610,
+      "rarity": "Promo",
+      "species_name": "axew",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW100",
+      "card_number": "BW100",
+      "image_url": "https://images.pokemontcg.io/bwp/BW100_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW101",
+      "card_number": "BW101",
+      "image_url": "https://images.pokemontcg.io/bwp/BW101_hires.png",
+      "national_dex_number": 649,
+      "rarity": "Promo",
+      "species_name": "genesect",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW11",
+      "card_number": "BW11",
+      "image_url": "https://images.pokemontcg.io/bwp/BW11_hires.png",
+      "national_dex_number": 511,
+      "rarity": "Promo",
+      "species_name": "pansage",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW12",
+      "card_number": "BW12",
+      "image_url": "https://images.pokemontcg.io/bwp/BW12_hires.png",
+      "national_dex_number": 570,
+      "rarity": "Promo",
+      "species_name": "zorua",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW13",
+      "card_number": "BW13",
+      "image_url": "https://images.pokemontcg.io/bwp/BW13_hires.png",
+      "national_dex_number": 572,
+      "rarity": "Promo",
+      "species_name": "minccino",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW14",
+      "card_number": "BW14",
+      "image_url": "https://images.pokemontcg.io/bwp/BW14_hires.png",
+      "national_dex_number": 511,
+      "rarity": "Promo",
+      "species_name": "pansage",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW15",
+      "card_number": "BW15",
+      "image_url": "https://images.pokemontcg.io/bwp/BW15_hires.png",
+      "national_dex_number": 519,
+      "rarity": "Promo",
+      "species_name": "pidove",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW16",
+      "card_number": "BW16",
+      "image_url": "https://images.pokemontcg.io/bwp/BW16_hires.png",
+      "national_dex_number": 610,
+      "rarity": "Promo",
+      "species_name": "axew",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW17",
+      "card_number": "BW17",
+      "image_url": "https://images.pokemontcg.io/bwp/BW17_hires.png",
+      "national_dex_number": 580,
+      "rarity": "Promo",
+      "species_name": "ducklett",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW18",
+      "card_number": "BW18",
+      "image_url": "https://images.pokemontcg.io/bwp/BW18_hires.png",
+      "national_dex_number": 554,
+      "rarity": "Promo",
+      "species_name": "darumaka",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW19",
+      "card_number": "BW19",
+      "image_url": "https://images.pokemontcg.io/bwp/BW19_hires.png",
+      "national_dex_number": 571,
+      "rarity": "Promo",
+      "species_name": "zoroark",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW20",
+      "card_number": "BW20",
+      "image_url": "https://images.pokemontcg.io/bwp/BW20_hires.png",
+      "national_dex_number": 497,
+      "rarity": "Promo",
+      "species_name": "serperior",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW21",
+      "card_number": "BW21",
+      "image_url": "https://images.pokemontcg.io/bwp/BW21_hires.png",
+      "national_dex_number": 500,
+      "rarity": "Promo",
+      "species_name": "emboar",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW22",
+      "card_number": "BW22",
+      "image_url": "https://images.pokemontcg.io/bwp/BW22_hires.png",
+      "national_dex_number": 503,
+      "rarity": "Promo",
+      "species_name": "samurott",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW23",
+      "card_number": "BW23",
+      "image_url": "https://images.pokemontcg.io/bwp/BW23_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Promo",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW24",
+      "card_number": "BW24",
+      "image_url": "https://images.pokemontcg.io/bwp/BW24_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Promo",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW25",
+      "card_number": "BW25",
+      "image_url": "https://images.pokemontcg.io/bwp/BW25_hires.png",
+      "national_dex_number": 559,
+      "rarity": "Promo",
+      "species_name": "scraggy",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW26",
+      "card_number": "BW26",
+      "image_url": "https://images.pokemontcg.io/bwp/BW26_hires.png",
+      "national_dex_number": 610,
+      "rarity": "Promo",
+      "species_name": "axew",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW27",
+      "card_number": "BW27",
+      "image_url": "https://images.pokemontcg.io/bwp/BW27_hires.png",
+      "national_dex_number": 607,
+      "rarity": "Promo",
+      "species_name": "litwick",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW28",
+      "card_number": "BW28",
+      "image_url": "https://images.pokemontcg.io/bwp/BW28_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW29",
+      "card_number": "BW29",
+      "image_url": "https://images.pokemontcg.io/bwp/BW29_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW30",
+      "card_number": "BW30",
+      "image_url": "https://images.pokemontcg.io/bwp/BW30_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW31",
+      "card_number": "BW31",
+      "image_url": "https://images.pokemontcg.io/bwp/BW31_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW32",
+      "card_number": "BW32",
+      "image_url": "https://images.pokemontcg.io/bwp/BW32_hires.png",
+      "national_dex_number": 494,
+      "rarity": "Promo",
+      "species_name": "victini",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW33",
+      "card_number": "BW33",
+      "image_url": "https://images.pokemontcg.io/bwp/BW33_hires.png",
+      "national_dex_number": 447,
+      "rarity": "Promo",
+      "species_name": "riolu",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW34",
+      "card_number": "BW34",
+      "image_url": "https://images.pokemontcg.io/bwp/BW34_hires.png",
+      "national_dex_number": 404,
+      "rarity": "Promo",
+      "species_name": "luxio",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW35",
+      "card_number": "BW35",
+      "image_url": "https://images.pokemontcg.io/bwp/BW35_hires.png",
+      "national_dex_number": 52,
+      "rarity": "Promo",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW36",
+      "card_number": "BW36",
+      "image_url": "https://images.pokemontcg.io/bwp/BW36_hires.png",
+      "national_dex_number": 643,
+      "rarity": "Promo",
+      "species_name": "reshiram",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW37",
+      "card_number": "BW37",
+      "image_url": "https://images.pokemontcg.io/bwp/BW37_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW38",
+      "card_number": "BW38",
+      "image_url": "https://images.pokemontcg.io/bwp/BW38_hires.png",
+      "national_dex_number": 644,
+      "rarity": "Promo",
+      "species_name": "zekrom",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW39",
+      "card_number": "BW39",
+      "image_url": "https://images.pokemontcg.io/bwp/BW39_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW40",
+      "card_number": "BW40",
+      "image_url": "https://images.pokemontcg.io/bwp/BW40_hires.png",
+      "national_dex_number": 637,
+      "rarity": "Promo",
+      "species_name": "volcarona",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW41",
+      "card_number": "BW41",
+      "image_url": "https://images.pokemontcg.io/bwp/BW41_hires.png",
+      "national_dex_number": 642,
+      "rarity": "Promo",
+      "species_name": "thundurus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW42",
+      "card_number": "BW42",
+      "image_url": "https://images.pokemontcg.io/bwp/BW42_hires.png",
+      "national_dex_number": 641,
+      "rarity": "Promo",
+      "species_name": "tornadus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW43",
+      "card_number": "BW43",
+      "image_url": "https://images.pokemontcg.io/bwp/BW43_hires.png",
+      "national_dex_number": 645,
+      "rarity": "Promo",
+      "species_name": "landorus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW44",
+      "card_number": "BW44",
+      "image_url": "https://images.pokemontcg.io/bwp/BW44_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW45",
+      "card_number": "BW45",
+      "image_url": "https://images.pokemontcg.io/bwp/BW45_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW46",
+      "card_number": "BW46",
+      "image_url": "https://images.pokemontcg.io/bwp/BW46_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW47",
+      "card_number": "BW47",
+      "image_url": "https://images.pokemontcg.io/bwp/BW47_hires.png",
+      "national_dex_number": 384,
+      "rarity": "Promo",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW48",
+      "card_number": "BW48",
+      "image_url": "https://images.pokemontcg.io/bwp/BW48_hires.png",
+      "national_dex_number": 334,
+      "rarity": "Promo",
+      "species_name": "altaria",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW49",
+      "card_number": "BW49",
+      "image_url": "https://images.pokemontcg.io/bwp/BW49_hires.png",
+      "national_dex_number": 549,
+      "rarity": "Promo",
+      "species_name": "lilligant",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW50",
+      "card_number": "BW50",
+      "image_url": "https://images.pokemontcg.io/bwp/BW50_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW51",
+      "card_number": "BW51",
+      "image_url": "https://images.pokemontcg.io/bwp/BW51_hires.png",
+      "national_dex_number": 169,
+      "rarity": "Promo",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW52",
+      "card_number": "BW52",
+      "image_url": "https://images.pokemontcg.io/bwp/BW52_hires.png",
+      "national_dex_number": 506,
+      "rarity": "Promo",
+      "species_name": "lillipup",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW53",
+      "card_number": "BW53",
+      "image_url": "https://images.pokemontcg.io/bwp/BW53_hires.png",
+      "national_dex_number": 330,
+      "rarity": "Promo",
+      "species_name": "flygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW54",
+      "card_number": "BW54",
+      "image_url": "https://images.pokemontcg.io/bwp/BW54_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW55",
+      "card_number": "BW55",
+      "image_url": "https://images.pokemontcg.io/bwp/BW55_hires.png",
+      "national_dex_number": 605,
+      "rarity": "Promo",
+      "species_name": "elgyem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW56",
+      "card_number": "BW56",
+      "image_url": "https://images.pokemontcg.io/bwp/BW56_hires.png",
+      "national_dex_number": 395,
+      "rarity": "Promo",
+      "species_name": "empoleon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW57",
+      "card_number": "BW57",
+      "image_url": "https://images.pokemontcg.io/bwp/BW57_hires.png",
+      "national_dex_number": 612,
+      "rarity": "Promo",
+      "species_name": "haxorus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW58",
+      "card_number": "BW58",
+      "image_url": "https://images.pokemontcg.io/bwp/BW58_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW59",
+      "card_number": "BW59",
+      "image_url": "https://images.pokemontcg.io/bwp/BW59_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW60",
+      "card_number": "BW60",
+      "image_url": "https://images.pokemontcg.io/bwp/BW60_hires.png",
+      "national_dex_number": 647,
+      "rarity": "Promo",
+      "species_name": "keldeo",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW61",
+      "card_number": "BW61",
+      "image_url": "https://images.pokemontcg.io/bwp/BW61_hires.png",
+      "national_dex_number": 647,
+      "rarity": "Promo",
+      "species_name": "keldeo",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW62",
+      "card_number": "BW62",
+      "image_url": "https://images.pokemontcg.io/bwp/BW62_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW63",
+      "card_number": "BW63",
+      "image_url": "https://images.pokemontcg.io/bwp/BW63_hires.png",
+      "national_dex_number": 646,
+      "rarity": "Promo",
+      "species_name": "kyurem",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW64",
+      "card_number": "BW64",
+      "image_url": "https://images.pokemontcg.io/bwp/BW64_hires.png",
+      "national_dex_number": 426,
+      "rarity": "Promo",
+      "species_name": "drifblim",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW65",
+      "card_number": "BW65",
+      "image_url": "https://images.pokemontcg.io/bwp/BW65_hires.png",
+      "national_dex_number": 39,
+      "rarity": "Promo",
+      "species_name": "jigglypuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW66",
+      "card_number": "BW66",
+      "image_url": "https://images.pokemontcg.io/bwp/BW66_hires.png",
+      "national_dex_number": 38,
+      "rarity": "Promo",
+      "species_name": "ninetales",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW67",
+      "card_number": "BW67",
+      "image_url": "https://images.pokemontcg.io/bwp/BW67_hires.png",
+      "national_dex_number": 181,
+      "rarity": "Promo",
+      "species_name": "ampharos",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW68",
+      "card_number": "BW68",
+      "image_url": "https://images.pokemontcg.io/bwp/BW68_hires.png",
+      "national_dex_number": 648,
+      "rarity": "Promo",
+      "species_name": "meloetta",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW69",
+      "card_number": "BW69",
+      "image_url": "https://images.pokemontcg.io/bwp/BW69_hires.png",
+      "national_dex_number": 648,
+      "rarity": "Promo",
+      "species_name": "meloetta",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW70",
+      "card_number": "BW70",
+      "image_url": "https://images.pokemontcg.io/bwp/BW70_hires.png",
+      "national_dex_number": 640,
+      "rarity": "Promo",
+      "species_name": "virizion",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW71",
+      "card_number": "BW71",
+      "image_url": "https://images.pokemontcg.io/bwp/BW71_hires.png",
+      "national_dex_number": 639,
+      "rarity": "Promo",
+      "species_name": "terrakion",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW72",
+      "card_number": "BW72",
+      "image_url": "https://images.pokemontcg.io/bwp/BW72_hires.png",
+      "national_dex_number": 638,
+      "rarity": "Promo",
+      "species_name": "cobalion",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW73",
+      "card_number": "BW73",
+      "image_url": "https://images.pokemontcg.io/bwp/BW73_hires.png",
+      "national_dex_number": 491,
+      "rarity": "Promo",
+      "species_name": "darkrai",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW74",
+      "card_number": "BW74",
+      "image_url": "https://images.pokemontcg.io/bwp/BW74_hires.png",
+      "national_dex_number": 487,
+      "rarity": "Promo",
+      "species_name": "giratina",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW75",
+      "card_number": "BW75",
+      "image_url": "https://images.pokemontcg.io/bwp/BW75_hires.png",
+      "national_dex_number": 376,
+      "rarity": "Promo",
+      "species_name": "metagross",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW76",
+      "card_number": "BW76",
+      "image_url": "https://images.pokemontcg.io/bwp/BW76_hires.png",
+      "national_dex_number": 101,
+      "rarity": "Promo",
+      "species_name": "electrode",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW77",
+      "card_number": "BW77",
+      "image_url": "https://images.pokemontcg.io/bwp/BW77_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW78",
+      "card_number": "BW78",
+      "image_url": "https://images.pokemontcg.io/bwp/BW78_hires.png",
+      "national_dex_number": 26,
+      "rarity": "Promo",
+      "species_name": "raichu",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW79",
+      "card_number": "BW79",
+      "image_url": "https://images.pokemontcg.io/bwp/BW79_hires.png",
+      "national_dex_number": 645,
+      "rarity": "Promo",
+      "species_name": "landorus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW80",
+      "card_number": "BW80",
+      "image_url": "https://images.pokemontcg.io/bwp/BW80_hires.png",
+      "national_dex_number": 621,
+      "rarity": "Promo",
+      "species_name": "druddigon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW81",
+      "card_number": "BW81",
+      "image_url": "https://images.pokemontcg.io/bwp/BW81_hires.png",
+      "national_dex_number": 642,
+      "rarity": "Promo",
+      "species_name": "thundurus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW82",
+      "card_number": "BW82",
+      "image_url": "https://images.pokemontcg.io/bwp/BW82_hires.png",
+      "national_dex_number": 386,
+      "rarity": "Promo",
+      "species_name": "deoxys",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW83",
+      "card_number": "BW83",
+      "image_url": "https://images.pokemontcg.io/bwp/BW83_hires.png",
+      "national_dex_number": 249,
+      "rarity": "Promo",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW84",
+      "card_number": "BW84",
+      "image_url": "https://images.pokemontcg.io/bwp/BW84_hires.png",
+      "national_dex_number": 474,
+      "rarity": "Promo",
+      "species_name": "porygon-z",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW85",
+      "card_number": "BW85",
+      "image_url": "https://images.pokemontcg.io/bwp/BW85_hires.png",
+      "national_dex_number": 448,
+      "rarity": "Promo",
+      "species_name": "lucario",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW86",
+      "card_number": "BW86",
+      "image_url": "https://images.pokemontcg.io/bwp/BW86_hires.png",
+      "national_dex_number": 649,
+      "rarity": "Promo",
+      "species_name": "genesect",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW87",
+      "card_number": "BW87",
+      "image_url": "https://images.pokemontcg.io/bwp/BW87_hires.png",
+      "national_dex_number": 470,
+      "rarity": "Promo",
+      "species_name": "leafeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW88",
+      "card_number": "BW88",
+      "image_url": "https://images.pokemontcg.io/bwp/BW88_hires.png",
+      "national_dex_number": 136,
+      "rarity": "Promo",
+      "species_name": "flareon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW89",
+      "card_number": "BW89",
+      "image_url": "https://images.pokemontcg.io/bwp/BW89_hires.png",
+      "national_dex_number": 134,
+      "rarity": "Promo",
+      "species_name": "vaporeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW90",
+      "card_number": "BW90",
+      "image_url": "https://images.pokemontcg.io/bwp/BW90_hires.png",
+      "national_dex_number": 471,
+      "rarity": "Promo",
+      "species_name": "glaceon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW91",
+      "card_number": "BW91",
+      "image_url": "https://images.pokemontcg.io/bwp/BW91_hires.png",
+      "national_dex_number": 135,
+      "rarity": "Promo",
+      "species_name": "jolteon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW92",
+      "card_number": "BW92",
+      "image_url": "https://images.pokemontcg.io/bwp/BW92_hires.png",
+      "national_dex_number": 196,
+      "rarity": "Promo",
+      "species_name": "espeon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW93",
+      "card_number": "BW93",
+      "image_url": "https://images.pokemontcg.io/bwp/BW93_hires.png",
+      "national_dex_number": 197,
+      "rarity": "Promo",
+      "species_name": "umbreon",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW94",
+      "card_number": "BW94",
+      "image_url": "https://images.pokemontcg.io/bwp/BW94_hires.png",
+      "national_dex_number": 133,
+      "rarity": "Promo",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW95",
+      "card_number": "BW95",
+      "image_url": "https://images.pokemontcg.io/bwp/BW95_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW96",
+      "card_number": "BW96",
+      "image_url": "https://images.pokemontcg.io/bwp/BW96_hires.png",
+      "national_dex_number": 641,
+      "rarity": "Promo",
+      "species_name": "tornadus",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW97",
+      "card_number": "BW97",
+      "image_url": "https://images.pokemontcg.io/bwp/BW97_hires.png",
+      "national_dex_number": 133,
+      "rarity": "Promo",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW98",
+      "card_number": "BW98",
+      "image_url": "https://images.pokemontcg.io/bwp/BW98_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "bwp-BW99",
+      "card_number": "BW99",
+      "image_url": "https://images.pokemontcg.io/bwp/BW99_hires.png",
+      "national_dex_number": 649,
+      "rarity": "Promo",
+      "species_name": "genesect",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "bwp",
+    "name": "BW Black Star Promos",
+    "release_date": "2011-03-01",
+    "series": "Black & White"
+  }
+}

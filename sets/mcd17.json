@@ -1,0 +1,119 @@
+{
+  "card_count": 12,
+  "cards": [
+    {
+      "api_card_id": "mcd17-1",
+      "card_number": "1",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-1/large",
+      "national_dex_number": 722,
+      "rarity": null,
+      "species_name": "rowlet",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-2",
+      "card_number": "2",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-2/large",
+      "national_dex_number": 736,
+      "rarity": null,
+      "species_name": "grubbin",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-3",
+      "card_number": "3",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-3/large",
+      "national_dex_number": 725,
+      "rarity": null,
+      "species_name": "litten",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-4",
+      "card_number": "4",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-4/large",
+      "national_dex_number": 728,
+      "rarity": null,
+      "species_name": "popplio",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-5",
+      "card_number": "5",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-5/large",
+      "national_dex_number": 25,
+      "rarity": null,
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-6",
+      "card_number": "6",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-6/large",
+      "national_dex_number": 789,
+      "rarity": null,
+      "species_name": "cosmog",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-7",
+      "card_number": "7",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-7/large",
+      "national_dex_number": 739,
+      "rarity": null,
+      "species_name": "crabrawler",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-8",
+      "card_number": "8",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-8/large",
+      "national_dex_number": 52,
+      "rarity": null,
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-9",
+      "card_number": "9",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-9/large",
+      "national_dex_number": 50,
+      "rarity": null,
+      "species_name": "diglett",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-10",
+      "card_number": "10",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-10/large",
+      "national_dex_number": 742,
+      "rarity": null,
+      "species_name": "cutiefly",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-11",
+      "card_number": "11",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-11/large",
+      "national_dex_number": 731,
+      "rarity": null,
+      "species_name": "pikipek",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd17-12",
+      "card_number": "12",
+      "image_url": "https://images.scrydex.com/pokemon/mcd17-12/large",
+      "national_dex_number": 734,
+      "rarity": null,
+      "species_name": "yungoos",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "mcd17",
+    "name": "McDonald's Collection 2017",
+    "release_date": "2017-11-07",
+    "series": "Other"
+  }
+}

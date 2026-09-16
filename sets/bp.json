@@ -1,0 +1,92 @@
+{
+  "card_count": 9,
+  "cards": [
+    {
+      "api_card_id": "bp-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/bp/1_hires.png",
+      "national_dex_number": 125,
+      "rarity": "Promo",
+      "species_name": "electabuzz",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/bp/2_hires.png",
+      "national_dex_number": 107,
+      "rarity": "Promo",
+      "species_name": "hitmonchan",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/bp/3_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/bp/4_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Promo",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/bp/5_hires.png",
+      "national_dex_number": 215,
+      "rarity": "Promo",
+      "species_name": "sneasel",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/bp/6_hires.png",
+      "national_dex_number": 2,
+      "rarity": "Promo",
+      "species_name": "ivysaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/bp/7_hires.png",
+      "national_dex_number": 3,
+      "rarity": "Promo",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/bp/8_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "bp-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/bp/9_hires.png",
+      "national_dex_number": 107,
+      "rarity": "Promo",
+      "species_name": "hitmonchan",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "bp",
+    "name": "Best of Game",
+    "release_date": "2002-12-01",
+    "series": "Other"
+  }
+}

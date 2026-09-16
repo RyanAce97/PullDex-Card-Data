@@ -1,0 +1,488 @@
+{
+  "card_count": 53,
+  "cards": [
+    {
+      "api_card_id": "basep-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/basep/1_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/basep/2_hires.png",
+      "national_dex_number": 125,
+      "rarity": "Promo",
+      "species_name": "electabuzz",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/basep/3_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/basep/4_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/basep/5_hires.png",
+      "national_dex_number": 149,
+      "rarity": "Promo",
+      "species_name": "dragonite",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/basep/6_hires.png",
+      "national_dex_number": 59,
+      "rarity": "Promo",
+      "species_name": "arcanine",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/basep/7_hires.png",
+      "national_dex_number": 39,
+      "rarity": "Promo",
+      "species_name": "jigglypuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/basep/8_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/basep/9_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/basep/10_hires.png",
+      "national_dex_number": 52,
+      "rarity": "Promo",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/basep/11_hires.png",
+      "national_dex_number": 133,
+      "rarity": "Promo",
+      "species_name": "eevee",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/basep/12_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/basep/13_hires.png",
+      "national_dex_number": 3,
+      "rarity": "Promo",
+      "species_name": "venusaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/basep/14_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Promo",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/basep/15_hires.png",
+      "national_dex_number": 137,
+      "rarity": "Promo",
+      "species_name": "porygon",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/basep/16_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/basep/17_hires.png",
+      "national_dex_number": 53,
+      "rarity": "Promo",
+      "species_name": "persian",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/basep/18_hires.png",
+      "national_dex_number": 52,
+      "rarity": "Promo",
+      "species_name": "meowth",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-19",
+      "card_number": "19",
+      "image_url": "https://images.pokemontcg.io/basep/19_hires.png",
+      "national_dex_number": 63,
+      "rarity": "Promo",
+      "species_name": "abra",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-20",
+      "card_number": "20",
+      "image_url": "https://images.pokemontcg.io/basep/20_hires.png",
+      "national_dex_number": 54,
+      "rarity": "Promo",
+      "species_name": "psyduck",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-21",
+      "card_number": "21",
+      "image_url": "https://images.pokemontcg.io/basep/21_hires.png",
+      "national_dex_number": 146,
+      "rarity": "Promo",
+      "species_name": "moltres",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-22",
+      "card_number": "22",
+      "image_url": "https://images.pokemontcg.io/basep/22_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Promo",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-23",
+      "card_number": "23",
+      "image_url": "https://images.pokemontcg.io/basep/23_hires.png",
+      "national_dex_number": 145,
+      "rarity": "Promo",
+      "species_name": "zapdos",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-24",
+      "card_number": "24",
+      "image_url": "https://images.pokemontcg.io/basep/24_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-25",
+      "card_number": "25",
+      "image_url": "https://images.pokemontcg.io/basep/25_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-26",
+      "card_number": "26",
+      "image_url": "https://images.pokemontcg.io/basep/26_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-27",
+      "card_number": "27",
+      "image_url": "https://images.pokemontcg.io/basep/27_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-28",
+      "card_number": "28",
+      "image_url": "https://images.pokemontcg.io/basep/28_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Promo",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-29",
+      "card_number": "29",
+      "image_url": "https://images.pokemontcg.io/basep/29_hires.png",
+      "national_dex_number": 183,
+      "rarity": "Promo",
+      "species_name": "marill",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-30",
+      "card_number": "30",
+      "image_url": "https://images.pokemontcg.io/basep/30_hires.png",
+      "national_dex_number": 175,
+      "rarity": "Promo",
+      "species_name": "togepi",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-31",
+      "card_number": "31",
+      "image_url": "https://images.pokemontcg.io/basep/31_hires.png",
+      "national_dex_number": 173,
+      "rarity": "Promo",
+      "species_name": "cleffa",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-32",
+      "card_number": "32",
+      "image_url": "https://images.pokemontcg.io/basep/32_hires.png",
+      "national_dex_number": 235,
+      "rarity": "Promo",
+      "species_name": "smeargle",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-33",
+      "card_number": "33",
+      "image_url": "https://images.pokemontcg.io/basep/33_hires.png",
+      "national_dex_number": 212,
+      "rarity": "Promo",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-34",
+      "card_number": "34",
+      "image_url": "https://images.pokemontcg.io/basep/34_hires.png",
+      "national_dex_number": 244,
+      "rarity": "Promo",
+      "species_name": "entei",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-35",
+      "card_number": "35",
+      "image_url": "https://images.pokemontcg.io/basep/35_hires.png",
+      "national_dex_number": 172,
+      "rarity": "Promo",
+      "species_name": "pichu",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-36",
+      "card_number": "36",
+      "image_url": "https://images.pokemontcg.io/basep/36_hires.png",
+      "national_dex_number": 174,
+      "rarity": "Promo",
+      "species_name": "igglybuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-37",
+      "card_number": "37",
+      "image_url": "https://images.pokemontcg.io/basep/37_hires.png",
+      "national_dex_number": 237,
+      "rarity": "Promo",
+      "species_name": "hitmontop",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-38",
+      "card_number": "38",
+      "image_url": "https://images.pokemontcg.io/basep/38_hires.png",
+      "national_dex_number": 201,
+      "rarity": "Promo",
+      "species_name": "unown",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-39",
+      "card_number": "39",
+      "image_url": "https://images.pokemontcg.io/basep/39_hires.png",
+      "national_dex_number": 200,
+      "rarity": "Promo",
+      "species_name": "misdreavus",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-40",
+      "card_number": "40",
+      "image_url": "https://images.pokemontcg.io/basep/40_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-41",
+      "card_number": "41",
+      "image_url": "https://images.pokemontcg.io/basep/41_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-42",
+      "card_number": "42",
+      "image_url": "https://images.pokemontcg.io/basep/42_hires.png",
+      "national_dex_number": null,
+      "rarity": "Promo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-43",
+      "card_number": "43",
+      "image_url": "https://images.pokemontcg.io/basep/43_hires.png",
+      "national_dex_number": 68,
+      "rarity": "Promo",
+      "species_name": "machamp",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-44",
+      "card_number": "44",
+      "image_url": "https://images.pokemontcg.io/basep/44_hires.png",
+      "national_dex_number": 126,
+      "rarity": "Promo",
+      "species_name": "magmar",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-45",
+      "card_number": "45",
+      "image_url": "https://images.pokemontcg.io/basep/45_hires.png",
+      "national_dex_number": 123,
+      "rarity": "Promo",
+      "species_name": "scyther",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-46",
+      "card_number": "46",
+      "image_url": "https://images.pokemontcg.io/basep/46_hires.png",
+      "national_dex_number": 125,
+      "rarity": "Promo",
+      "species_name": "electabuzz",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-47",
+      "card_number": "47",
+      "image_url": "https://images.pokemontcg.io/basep/47_hires.png",
+      "national_dex_number": 151,
+      "rarity": "Promo",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-48",
+      "card_number": "48",
+      "image_url": "https://images.pokemontcg.io/basep/48_hires.png",
+      "national_dex_number": 144,
+      "rarity": "Promo",
+      "species_name": "articuno",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-49",
+      "card_number": "49",
+      "image_url": "https://images.pokemontcg.io/basep/49_hires.png",
+      "national_dex_number": 143,
+      "rarity": "Promo",
+      "species_name": "snorlax",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-50",
+      "card_number": "50",
+      "image_url": "https://images.pokemontcg.io/basep/50_hires.png",
+      "national_dex_number": 251,
+      "rarity": "Promo",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-51",
+      "card_number": "51",
+      "image_url": "https://images.pokemontcg.io/basep/51_hires.png",
+      "national_dex_number": 78,
+      "rarity": "Promo",
+      "species_name": "rapidash",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-52",
+      "card_number": "52",
+      "image_url": "https://images.pokemontcg.io/basep/52_hires.png",
+      "national_dex_number": 250,
+      "rarity": "Promo",
+      "species_name": "ho-oh",
+      "variant": null
+    },
+    {
+      "api_card_id": "basep-53",
+      "card_number": "53",
+      "image_url": "https://images.pokemontcg.io/basep/53_hires.png",
+      "national_dex_number": 245,
+      "rarity": "Promo",
+      "species_name": "suicune",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "basep",
+    "name": "Wizards Black Star Promos",
+    "release_date": "1999-07-01",
+    "series": "Base"
+  }
+}

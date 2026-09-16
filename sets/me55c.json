@@ -1,0 +1,281 @@
+{
+  "card_count": 30,
+  "cards": [
+    {
+      "api_card_id": "me55c-50",
+      "card_number": "050/185",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-50/medium",
+      "national_dex_number": 243,
+      "rarity": "Amazing Rare",
+      "species_name": "raikou",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-100",
+      "card_number": "100/102",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-100/medium",
+      "national_dex_number": 488,
+      "rarity": "LEGEND",
+      "species_name": "cresselia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-101",
+      "card_number": "101/101",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-101/medium",
+      "national_dex_number": null,
+      "rarity": "Rare Ultra",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-106",
+      "card_number": "106/105",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-106/medium",
+      "national_dex_number": 251,
+      "rarity": "Rare Secret",
+      "species_name": "celebi",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-106p",
+      "card_number": "106/106",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-106p/medium",
+      "national_dex_number": 484,
+      "rarity": "Rare Holo LV.X",
+      "species_name": "palkia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-106m",
+      "card_number": "106/160",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-106m/medium",
+      "national_dex_number": 282,
+      "rarity": "Rare Holo EX",
+      "species_name": "gardevoir",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-108",
+      "card_number": "108/115",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-108/medium",
+      "national_dex_number": 212,
+      "rarity": "Rare Holo ex",
+      "species_name": "scizor",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-11g",
+      "card_number": "11/101",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-11g/medium",
+      "national_dex_number": 649,
+      "rarity": "Rare Holo EX",
+      "species_name": "genesect",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-11",
+      "card_number": "11/113",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-11/medium",
+      "national_dex_number": 376,
+      "rarity": "Rare Holo",
+      "species_name": "metagross",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-114",
+      "card_number": "114/264",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-114/medium",
+      "national_dex_number": 151,
+      "rarity": "Holo Rare VMAX",
+      "species_name": "mew",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-123",
+      "card_number": "123/172",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-123/medium",
+      "national_dex_number": 493,
+      "rarity": "Holo Rare VSTAR",
+      "species_name": "arceus",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-138",
+      "card_number": "138/202",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-138/medium",
+      "national_dex_number": 888,
+      "rarity": "Holo Rare V",
+      "species_name": "zacian",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-149",
+      "card_number": "149/147",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-149/medium",
+      "national_dex_number": 249,
+      "rarity": "Rare Secret",
+      "species_name": "lugia",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-18",
+      "card_number": "18/132",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-18/medium",
+      "national_dex_number": null,
+      "rarity": "Rare Holo",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-19",
+      "card_number": "19/109",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-19/medium",
+      "national_dex_number": 248,
+      "rarity": "Rare",
+      "species_name": "tyranitar",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-203",
+      "card_number": "203/193",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-203/medium",
+      "national_dex_number": 129,
+      "rarity": "Illustration Rare",
+      "species_name": "magikarp",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-25",
+      "card_number": "25/111",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-25/medium",
+      "national_dex_number": 215,
+      "rarity": "Rare",
+      "species_name": "sneasel",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-33",
+      "card_number": "33/181",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-33/medium",
+      "national_dex_number": 25,
+      "rarity": "Rare Holo GX",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-4",
+      "card_number": "4/102",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-4/medium",
+      "national_dex_number": 6,
+      "rarity": "Rare Holo",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-41",
+      "card_number": "41/122",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-41/medium",
+      "national_dex_number": 658,
+      "rarity": "Rare BREAK",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-43",
+      "card_number": "43/146",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-43/medium",
+      "national_dex_number": 480,
+      "rarity": "Rare",
+      "species_name": "uxie",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-47",
+      "card_number": "47/127",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-47/medium",
+      "national_dex_number": 169,
+      "rarity": "Uncommon",
+      "species_name": "crobat",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-5",
+      "card_number": "5/109",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-5/medium",
+      "national_dex_number": 301,
+      "rarity": "Rare Holo",
+      "species_name": "delcatty",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-57",
+      "card_number": "57/111",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-57/medium",
+      "national_dex_number": 794,
+      "rarity": "Rare Holo GX",
+      "species_name": "buzzwole",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-58",
+      "card_number": "58/102",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-58/medium",
+      "national_dex_number": 25,
+      "rarity": "Common",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-69",
+      "card_number": "69/132",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-69/medium",
+      "national_dex_number": null,
+      "rarity": "Common",
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-85",
+      "card_number": "85/124",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-85/medium",
+      "national_dex_number": 384,
+      "rarity": "Rare Holo EX",
+      "species_name": "rayquaza",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-89",
+      "card_number": "89/149",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-89/medium",
+      "national_dex_number": 791,
+      "rarity": "Rare Holo GX",
+      "species_name": "solgaleo",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-94",
+      "card_number": "94/102",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-94/medium",
+      "national_dex_number": 94,
+      "rarity": "Rare Prime",
+      "species_name": "gengar",
+      "variant": null
+    },
+    {
+      "api_card_id": "me55c-99",
+      "card_number": "99/102",
+      "image_url": "https://images.scrydex.com/pokemon/me55c-99/medium",
+      "national_dex_number": 488,
+      "rarity": "LEGEND",
+      "species_name": "cresselia",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "me55c",
+    "name": "30th Celebration: Classic Collection",
+    "release_date": "2026-09-16",
+    "series": "Mega Evolution"
+  }
+}

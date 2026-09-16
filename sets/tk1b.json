@@ -1,0 +1,101 @@
+{
+  "card_count": 10,
+  "cards": [
+    {
+      "api_card_id": "tk1b-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/tk1b/1_hires.png",
+      "national_dex_number": 309,
+      "rarity": null,
+      "species_name": "electrike",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/tk1b/2_hires.png",
+      "national_dex_number": 381,
+      "rarity": null,
+      "species_name": "latios",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/tk1b/3_hires.png",
+      "national_dex_number": 264,
+      "rarity": null,
+      "species_name": "linoone",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/tk1b/4_hires.png",
+      "national_dex_number": 81,
+      "rarity": null,
+      "species_name": "magnemite",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/tk1b/5_hires.png",
+      "national_dex_number": 82,
+      "rarity": null,
+      "species_name": "magneton",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/tk1b/6_hires.png",
+      "national_dex_number": 25,
+      "rarity": null,
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/tk1b/7_hires.png",
+      "national_dex_number": 263,
+      "rarity": null,
+      "species_name": "zigzagoon",
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/tk1b/8_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/tk1b/9_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    },
+    {
+      "api_card_id": "tk1b-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/tk1b/10_hires.png",
+      "national_dex_number": null,
+      "rarity": null,
+      "species_name": null,
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "tk1b",
+    "name": "EX Trainer Kit Latios",
+    "release_date": "2004-06-01",
+    "series": "EX"
+  }
+}

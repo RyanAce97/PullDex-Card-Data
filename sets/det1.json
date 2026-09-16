@@ -1,0 +1,173 @@
+{
+  "card_count": 18,
+  "cards": [
+    {
+      "api_card_id": "det1-1",
+      "card_number": "1",
+      "image_url": "https://images.pokemontcg.io/det1/1_hires.png",
+      "national_dex_number": 1,
+      "rarity": "Common",
+      "species_name": "bulbasaur",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-2",
+      "card_number": "2",
+      "image_url": "https://images.pokemontcg.io/det1/2_hires.png",
+      "national_dex_number": 272,
+      "rarity": "Rare",
+      "species_name": "ludicolo",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-3",
+      "card_number": "3",
+      "image_url": "https://images.pokemontcg.io/det1/3_hires.png",
+      "national_dex_number": 755,
+      "rarity": "Common",
+      "species_name": "morelull",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-4",
+      "card_number": "4",
+      "image_url": "https://images.pokemontcg.io/det1/4_hires.png",
+      "national_dex_number": 4,
+      "rarity": "Common",
+      "species_name": "charmander",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-5",
+      "card_number": "5",
+      "image_url": "https://images.pokemontcg.io/det1/5_hires.png",
+      "national_dex_number": 6,
+      "rarity": "Rare Ultra",
+      "species_name": "charizard",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-6",
+      "card_number": "6",
+      "image_url": "https://images.pokemontcg.io/det1/6_hires.png",
+      "national_dex_number": 59,
+      "rarity": "Rare",
+      "species_name": "arcanine",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-7",
+      "card_number": "7",
+      "image_url": "https://images.pokemontcg.io/det1/7_hires.png",
+      "national_dex_number": 54,
+      "rarity": "Common",
+      "species_name": "psyduck",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-8",
+      "card_number": "8",
+      "image_url": "https://images.pokemontcg.io/det1/8_hires.png",
+      "national_dex_number": 129,
+      "rarity": "Common",
+      "species_name": "magikarp",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-9",
+      "card_number": "9",
+      "image_url": "https://images.pokemontcg.io/det1/9_hires.png",
+      "national_dex_number": 658,
+      "rarity": "Rare Ultra",
+      "species_name": "greninja",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-10",
+      "card_number": "10",
+      "image_url": "https://images.pokemontcg.io/det1/10_hires.png",
+      "national_dex_number": 25,
+      "rarity": "Rare",
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-11",
+      "card_number": "11",
+      "image_url": "https://images.pokemontcg.io/det1/11_hires.png",
+      "national_dex_number": 122,
+      "rarity": "Rare",
+      "species_name": "mr-mime",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-12",
+      "card_number": "12",
+      "image_url": "https://images.pokemontcg.io/det1/12_hires.png",
+      "national_dex_number": 150,
+      "rarity": "Rare Ultra",
+      "species_name": "mewtwo",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-13",
+      "card_number": "13",
+      "image_url": "https://images.pokemontcg.io/det1/13_hires.png",
+      "national_dex_number": 68,
+      "rarity": "Rare",
+      "species_name": "machamp",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-14",
+      "card_number": "14",
+      "image_url": "https://images.pokemontcg.io/det1/14_hires.png",
+      "national_dex_number": 39,
+      "rarity": "Common",
+      "species_name": "jigglypuff",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-15",
+      "card_number": "15",
+      "image_url": "https://images.pokemontcg.io/det1/15_hires.png",
+      "national_dex_number": 209,
+      "rarity": "Common",
+      "species_name": "snubbull",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-16",
+      "card_number": "16",
+      "image_url": "https://images.pokemontcg.io/det1/16_hires.png",
+      "national_dex_number": 108,
+      "rarity": "Common",
+      "species_name": "lickitung",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-17",
+      "card_number": "17",
+      "image_url": "https://images.pokemontcg.io/det1/17_hires.png",
+      "national_dex_number": 132,
+      "rarity": "Rare Ultra",
+      "species_name": "ditto",
+      "variant": null
+    },
+    {
+      "api_card_id": "det1-18",
+      "card_number": "18",
+      "image_url": "https://images.pokemontcg.io/det1/18_hires.png",
+      "national_dex_number": 289,
+      "rarity": "Rare",
+      "species_name": "slaking",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "det1",
+    "name": "Detective Pikachu",
+    "release_date": "2019-04-05",
+    "series": "Sun & Moon"
+  }
+}
