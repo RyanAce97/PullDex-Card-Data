@@ -1,0 +1,146 @@
+{
+  "card_count": 15,
+  "cards": [
+    {
+      "api_card_id": "mcd23-1",
+      "card_number": "1",
+      "image_url": "https://den-cards.pokellector.com/372/Sprigatito.M23EN.1.49024.png",
+      "national_dex_number": 906,
+      "rarity": null,
+      "species_name": "sprigatito",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-2",
+      "card_number": "2",
+      "image_url": "https://den-cards.pokellector.com/372/Fuecoco.M23EN.2.47684.png",
+      "national_dex_number": 909,
+      "rarity": null,
+      "species_name": "fuecoco",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-3",
+      "card_number": "3",
+      "image_url": "https://den-cards.pokellector.com/372/Quaxly.M23EN.3.49025.png",
+      "national_dex_number": 912,
+      "rarity": null,
+      "species_name": "quaxly",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-4",
+      "card_number": "4",
+      "image_url": "https://den-cards.pokellector.com/372/Cetoddle.M23EN.4.49026.png",
+      "national_dex_number": 974,
+      "rarity": null,
+      "species_name": "cetoddle",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-5",
+      "card_number": "5",
+      "image_url": "https://den-cards.pokellector.com/372/Cetitan.M23EN.5.49027.png",
+      "national_dex_number": 975,
+      "rarity": null,
+      "species_name": "cetitan",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-6",
+      "card_number": "6",
+      "image_url": "https://den-cards.pokellector.com/372/Pikachu.M23EN.6.49028.png",
+      "national_dex_number": 25,
+      "rarity": null,
+      "species_name": "pikachu",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-7",
+      "card_number": "7",
+      "image_url": "https://den-cards.pokellector.com/372/Pawmi.M23EN.7.49029.png",
+      "national_dex_number": 921,
+      "rarity": null,
+      "species_name": "pawmi",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-8",
+      "card_number": "8",
+      "image_url": "https://den-cards.pokellector.com/372/Kilowattrel.M23EN.8.47683.png",
+      "national_dex_number": 941,
+      "rarity": null,
+      "species_name": "kilowattrel",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-9",
+      "card_number": "9",
+      "image_url": "https://den-cards.pokellector.com/372/Flittle.M23EN.9.49030.png",
+      "national_dex_number": 955,
+      "rarity": null,
+      "species_name": "flittle",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-10",
+      "card_number": "10",
+      "image_url": "https://den-cards.pokellector.com/372/Sandaconda.M23EN.10.47682.png",
+      "national_dex_number": 844,
+      "rarity": null,
+      "species_name": "sandaconda",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-11",
+      "card_number": "11",
+      "image_url": "https://den-cards.pokellector.com/372/Klawf.M23EN.11.49031.png",
+      "national_dex_number": 950,
+      "rarity": null,
+      "species_name": "klawf",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-12",
+      "card_number": "12",
+      "image_url": "https://den-cards.pokellector.com/372/Blissey.M23EN.12.47681.png",
+      "national_dex_number": 242,
+      "rarity": null,
+      "species_name": "blissey",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-13",
+      "card_number": "13",
+      "image_url": "https://den-cards.pokellector.com/372/Tandemaus.M23EN.13.49032.png",
+      "national_dex_number": 924,
+      "rarity": null,
+      "species_name": "tandemaus",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-14",
+      "card_number": "14",
+      "image_url": "https://den-cards.pokellector.com/372/Cyclizar.M23EN.14.49033.png",
+      "national_dex_number": 967,
+      "rarity": null,
+      "species_name": "cyclizar",
+      "variant": null
+    },
+    {
+      "api_card_id": "mcd23-15",
+      "card_number": "15",
+      "image_url": "https://den-cards.pokellector.com/372/Kirlia.M23EN.15.49034.png",
+      "national_dex_number": 281,
+      "rarity": null,
+      "species_name": "kirlia",
+      "variant": null
+    }
+  ],
+  "set": {
+    "id": "mcd23",
+    "name": "McDonald's Collection 2023",
+    "release_date": "2023-08-01",
+    "series": "Other"
+  }
+}

@@ -1,8 +1,8 @@
 {
-  "card_count": 20783,
-  "data_version": 1,
+  "card_count": 20813,
+  "data_version": 2,
   "schema_version": 1,
-  "set_count": 177,
+  "set_count": 179,
   "sets": [
     {
       "card_count": 102,
@@ -1545,6 +1545,16 @@
       "version": 1
     },
     {
+      "card_count": 15,
+      "file": "sets/mcd23.json",
+      "id": "mcd23",
+      "name": "McDonald's Collection 2023",
+      "release_date": "2023-08-01",
+      "series": "Other",
+      "sha256": "a7ee9de902e541d09b8924ef4af740226c612083ca4187ddf70a63cc6c3693b1",
+      "version": 1
+    },
+    {
       "card_count": 230,
       "file": "sets/sv3.json",
       "id": "sv3",
@@ -1632,6 +1642,16 @@
       "release_date": "2024-11-08",
       "series": "Scarlet & Violet",
       "sha256": "d8abda3f07b1be261b639d870385a3aca74b4ee883c06e8cb7210e0a433be3d3",
+      "version": 1
+    },
+    {
+      "card_count": 15,
+      "file": "sets/mcd24.json",
+      "id": "mcd24",
+      "name": "McDonald's Collection 2024",
+      "release_date": "2024-12-04",
+      "series": "Other",
+      "sha256": "61b69a94566e7f01880949ec2aed44804eff68db9f6bba32017e19268779c903",
       "version": 1
     },
     {
@@ -1775,5 +1795,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2026-09-16T14:16:27Z"
+  "updated_at": "2026-09-16T18:44:41Z"
 }
