@@ -1,6 +1,6 @@
 {
   "card_count": 20954,
-  "data_version": 5,
+  "data_version": 6,
   "schema_version": 1,
   "set_count": 180,
   "sets": [
@@ -1970,7 +1970,7 @@
       "name": "Delta Reign",
       "release_date": "2026-11-06",
       "series": "Mega Evolution",
-      "sha256": "5acdb0803a10fc1a15cab1da777bd62178c2ebcf2ca9c07bb26b8c88573de649",
+      "sha256": "108fe1c8afa70c82df944d75ad31c9fac8f660cf45f745fec4d8d591f3308a45",
       "version": 1
     },
     {
