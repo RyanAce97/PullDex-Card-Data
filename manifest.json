@@ -1,8 +1,8 @@
 {
-  "card_count": 20813,
-  "data_version": 3,
+  "card_count": 20954,
+  "data_version": 4,
   "schema_version": 1,
-  "set_count": 179,
+  "set_count": 180,
   "sets": [
     {
       "card_count": 102,
@@ -1963,6 +1963,17 @@
       "version": 2
     },
     {
+      "card_count": 141,
+      "file": "sets/me6.json",
+      "id": "me6",
+      "is_promo": false,
+      "name": "Mega Evolution—Delta Reign",
+      "release_date": "2026-11-06",
+      "series": "Mega Evolution",
+      "sha256": "f70b05955082c79764ea1748fedc6d4076150571c134b49b04c38a6a6cde7628",
+      "version": 1
+    },
+    {
       "card_count": 88,
       "file": "sets/mep.json",
       "id": "mep",
@@ -1974,5 +1985,5 @@
       "version": 2
     }
   ],
-  "updated_at": "2026-09-16T20:11:20Z"
+  "updated_at": "2026-11-18T10:45:34Z"
 }
